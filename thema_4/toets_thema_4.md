@@ -18,13 +18,13 @@
 
 4. Ze doet een stropdas aan als ze naar haar werk gaat.
 
-5. Omdat _______________________________________________ , kopen we een cadeautje.
+5. Omdat mijn vrouw jarig is, kopen we een cadeautje.
 
-6. Waarom _______________________________________________ ?
+6. Waarom blijf je thuis vanavond?
 
-7. Als ik vrij ben, _______________________________________________
+7. Als ik vrij ben, wandel ik naar het park met mijn gezin.
 
-8. Met de trein _______________________________________________
+8. Met de trein ga ik naar het werk elke dag.
 
 ---
 
@@ -35,35 +35,37 @@
 
 1. Hoe gaat u naar de Nederlandse les?
 
-   _______________________________________________
+   Ik ga met de fiets naar de Nederlandse les.
+   Ik neem de bus naar de Nederlandse les.
+   Ik ga te voet naar de Nederlandse les.
 
 2. Hoe lang bent u onderweg van uw huis naar de Nederlandse les?
 
-   _______________________________________________
+   Van mijn huis naar de Nederlandse les ben ik ongeveer 20 minuten onderweg.
 
 3. Hoe zijn Mila en Simone naar Maastricht gegaan?
 
-   _______________________________________________
+   Mila en Simone zijn met de trein naar Maastricht gegaan.
 
 4. Hebt u weleens een fietstocht gemaakt?
 
-   _______________________________________________
+   Ik heb weleens een fietstocht gemaakt.
 
 5. Houdt u van vliegen?
 
-   _______________________________________________
+   Ik hou niet van vliegen, maar ik hou van fietsen.
 
 6. Hoe reist u van uw huis naar Parijs?
 
-   _______________________________________________
+   Ik reis van mijn huis naar Parijs met de trein.
 
 7. Gebruikt u de NS-app?
 
-   _______________________________________________
+   Ik gebruik de NS-app heel vaak, elke dag, denk ik
 
 8. Wat kost een NS dagkaart?
 
-   _______________________________________________
+   De dagkaart kost 60 euro.
 
 ---
 

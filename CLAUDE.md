@@ -17,24 +17,33 @@ This is a Dutch language learning materials directory for the "De Opmaat" course
 - `.pdf` - Vocabulary lists (woordenlijst), tests (toetsen), answer keys (beoordeling)
 - `.mp3` - Audio exercises and listening materials
 - `.docx` - Word documents for forms and reference materials
+- `.md` - Converted tests and grammar notes for interactive practice
 
 ## Common Tasks
 
-### Text Extraction
-Extract text from PDFs for processing, flashcard generation, or format conversion.
+### PDF to Markdown Conversion
+Convert PDF tests to editable markdown for interactive practice sessions. Output should preserve exercise structure with blank answer spaces.
 
-### Format Conversion
-- PDF to text/markdown for easier editing
-- Create study materials from vocabulary lists
-- Generate practice exercises from existing content
+### Interactive Dutch Practice
+- Review and correct user's Dutch sentences
+- Provide grammar explanations when corrections are needed
+- Track common spelling mistakes to reinforce learning
 
-### Content Generation
-- Vocabulary practice sentences
-- Grammar exercises based on theme content
-- Translations and explanations
+### Grammar Explanations
+When explaining Dutch grammar, use tables to show word order patterns:
+- **want** → normal word order (subject + verb)
+- **omdat/als** → verb to the end
+- **inversie** → when sentence starts with non-subject element
+
+### Spelling Corrections
+Common mistakes to watch for:
+- kapot (not capot)
+- stropdas (not stroopdas)
+- het station (het-woord, not de)
 
 ## Language Context
 
-Primary language: Dutch (Nederlands)
-User's native language: Likely Russian/Ukrainian based on document names
-Course level: A2 (elementary)
+- Primary language: Dutch (Nederlands)
+- User's native language: Russian/Ukrainian
+- Course level: A2 (elementary)
+- Provide bilingual support when helpful (Dutch ↔ Russian/English)
