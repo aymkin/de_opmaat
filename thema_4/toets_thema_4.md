@@ -138,19 +138,7 @@
 **Wat hebt u in het weekend gedaan?**
 Schrijf complete zinnen. Gebruik het perfectum.
 
-_______________________________________________
-
-_______________________________________________
-
-_______________________________________________
-
-_______________________________________________
-
-_______________________________________________
-
-_______________________________________________
-
-_______________________________________________
+Ik heb mijn ouders naar mijn huis uitgenodigd. We zijn samen naar Amsterdam gegaan. Mijn vader was blij om mijn zoon te zien. Mijn moeder heeft verrukkelijk eten gekookt. Ik heb mooie handschoenen voor mijn moeder gekocht. Mijn zoon heeft een speelgoedhuisje gebouwd. En mijn vrouw heeft opgeruimd. We hebben samen een leuke tijd gehad.
 
 ---
 
