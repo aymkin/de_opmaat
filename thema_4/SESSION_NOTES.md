@@ -194,14 +194,39 @@ Rewrote `thema_4/grammatica.md` with comprehensive grammar rules in Russian:
 
 ---
 
+### 5. Practiced Opdracht 4 - Tegenovergestelde (Opposites)
+
+**Score: 5/8**
+
+| # | Woord | Jouw antwoord | Status | Correct |
+|---|-------|---------------|--------|---------|
+| 1 | leuk | saai | ✅ | |
+| 2 | snel | langzaam | ✅ | |
+| 3 | lelijk | lief | ❌ | **mooi** |
+| 4 | jong | oud | ✅ | |
+| 5 | dichtbij | verder | ❌ | **ver/veraf** |
+| 6 | vies | schoon | ✅ | |
+| 7 | laag | hoog | ✅ | |
+| 8 | duur | goodkoop | ❌ | **goedkoop** |
+
+### Vocabulary Mistakes (2025-12-06)
+
+| Mistake | Explanation |
+|---------|-------------|
+| lelijk ↔ lief | lief = милый/добрый, maar lelijk (некрасивый) ↔ **mooi** (красивый) |
+| dichtbij ↔ verder | verder = дальше (comparatief), maar dichtbij ↔ **ver/veraf** (далеко) |
+| goodkoop | Spelling: **goedkoop** (oe, niet oo) |
+
+---
+
 ## Progress Summary
 
 | Opdracht | Status |
 |----------|--------|
 | 1. Maak de zinnen compleet (1-8) | ✅ Completed |
-| 2. Beantwoord de vragen | ✅ Completed (2 kleine spelfouten over) |
-| 3. Perfectum (regelmatig + onregelmatig) | ❌ Needs review (3/16) |
-| 4. Tegenovergestelde | ⏳ Not started |
+| 2. Beantwoord de vragen | ✅ Completed |
+| 3. Perfectum (regelmatig + onregelmatig) | ✅ Completed (16/16 after corrections) |
+| 4. Tegenovergestelde | ⚠️ Done (5/8) - needs corrections |
 | 5. Schrijf een tekst (50-70 woorden) | ⏳ Not started |
 | 6. Leesvaardigheid: Groepsticket | ⏳ Not started |
 
@@ -220,3 +245,8 @@ Rewrote `thema_4/grammatica.md` with comprehensive grammar rules in Russian:
 - gegaan (not gegan)
 - dagkaart (not dagkaar)
 - eenvoudig (not envoudig)
+- goedkoop (not goodkoop)
+
+## Vocabulary to Remember
+- lelijk ↔ **mooi** (not lief)
+- dichtbij ↔ **ver/veraf** (not verder)
