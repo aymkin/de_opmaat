@@ -177,9 +177,9 @@ Lees eerst de tekst hieronder, beantwoord daarna de vragen.
 **1.** Ik ga maandag om 8 uur met vijf vrienden met de trein naar Zwolle. Kan ik een Groepsticket Daluren kopen?
 
 - [ ] A. ja
-- [ ] B. nee
+- [X] B. nee
 
-Waarom? _______________________________________________
+Waarom? Op doordeweekse dagen tot 6:30 uur, tussen 9:00 en 16:00 uur, en na 18:30 uur.
 
 ---
 
@@ -187,7 +187,7 @@ Waarom? _______________________________________________
 
 - [ ] A. We kunnen geen Groepsticket Daluren kopen omdat we in de spits reizen.
 - [ ] B. We reizen met een Groepsticket Daluren en betalen 8 euro per persoon.
-- [ ] C. We reizen met een Groepsticket Daluren en betalen 16 euro per persoon.
+- [X] C. We reizen met een Groepsticket Daluren en betalen 16 euro per persoon.
 - [ ] D. We reizen met een Groepsticket Daluren en betalen 32 euro per persoon.
 
 ---
@@ -196,7 +196,7 @@ Waarom? _______________________________________________
 
 - [ ] A. Ja, we kunnen een Groepsticket Daluren kopen voor 5,21 euro per persoon enkele reis.
 - [ ] B. Nee, op zaterdag kunnen we niet met een Groepsticket Daluren reizen.
-- [ ] C. Ja, we kunnen voor de heenreis twee Groepstickets Daluren kopen, een voor 4 personen + een voor 5 personen.
+- [X] C. Ja, we kunnen voor de heenreis twee Groepstickets Daluren kopen, een voor 4 personen + een voor 5 personen.
 - [ ] D. Nee, onze groep is te groot.
 
 ---
@@ -204,10 +204,8 @@ Waarom? _______________________________________________
 **4.** Ik ga zondagmiddag met mijn partner en dochter met de trein naar Roermond. Kan ik een groepsticket daluren kopen?
 
 - [ ] A. ja
-- [ ] B. nee
+- [X] B. nee
 
-Waarom? _______________________________________________
+Waarom? Onze groep is te klein.
 
 ---
-
-*De opmaat Toets thema 4 © 2020 Maud Beersmans en Wim Tersteeg | Boom Uitgevers Amsterdam*
