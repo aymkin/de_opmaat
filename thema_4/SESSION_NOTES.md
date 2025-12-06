@@ -249,6 +249,31 @@ Rewrote `thema_4/grammatica.md` with comprehensive grammar rules in Russian:
 
 ---
 
+### 7. Practiced Opdracht 6 - Leesvaardigheid ✅
+
+**Task:** Read text about NS Groepsticket Daluren and answer 4 questions.
+
+**Initial Score: 2/4** → **Final Score: 4/4**
+
+| Vraag | Onderwerp | Eerste antwoord | Correct | Fout type |
+|-------|-----------|-----------------|---------|-----------|
+| 1 | Maandag 8 uur, 6 personen | B. nee ✅ | B. nee | - |
+| 2 | Dinsdag heen+terug, 4 personen | B. €8 p.p. ❌ | C. €16 p.p. | Enkele reis vergeten |
+| 3 | Zaterdag, 9 personen | D. te groot ❌ | C. twee tickets | Niet aan meerdere tickets gedacht |
+| 4 | Zondag, 3 personen | B. nee ✅ | B. nee | - |
+
+#### Key Learnings:
+- **Enkele reis** = je hebt 2 tickets nodig voor heen én terug
+- Als groep "te groot" is → meerdere tickets kopen is mogelijk
+- "Ik + vrienden" = jij telt ook mee!
+
+#### Spelling Mistakes:
+- doordsweekse → **doordeweekse**
+- group → **groep** (Nederlands, niet Engels)
+- kein → **klein**
+
+---
+
 ## Progress Summary
 
 | Opdracht | Status |
@@ -258,7 +283,7 @@ Rewrote `thema_4/grammatica.md` with comprehensive grammar rules in Russian:
 | 3. Perfectum (regelmatig + onregelmatig) | ✅ Completed (16/16) |
 | 4. Tegenovergestelde | ✅ Completed (8/8) |
 | 5. Schrijf een tekst (50-70 woorden) | ✅ Completed |
-| 6. Leesvaardigheid: Groepsticket | ⏳ Not started |
+| 6. Leesvaardigheid: Groepsticket | ✅ Completed (4/4) |
 
 ---
 
@@ -282,6 +307,9 @@ Rewrote `thema_4/grammatica.md` with comprehensive grammar rules in Russian:
 - handschoenen (not schoonhanded)
 - gekocht (not gekoht)
 - hebben (not heeben)
+- doordeweekse (not doordsweekse)
+- groep (not group - Nederlands, niet Engels)
+- klein (not kein)
 
 ## Vocabulary to Remember
 - lelijk ↔ **mooi** (not lief)
