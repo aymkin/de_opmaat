@@ -75,39 +75,39 @@
 
 ### Regelmatige verba
 
-1. **studeren** → Willem ___________ geneeskunde ___________.
+1. **studeren** → Willem heeft geneeskunde gestudeerd.
 
-2. **luisteren** → ___________ je naar Nederlandse muziek ___________?
+2. **luisteren** → Heb je naar Nederlandse muziek geluisterd?
 
-3. **wachten** → We ___________ 10 minuten op je ___________.
+3. **wachten** → We hebben 10 minuten op je gewacht.
 
-4. **dansen** → Op het feest ___________ ik met Pedro ___________.
+4. **dansen** → Op het feest heb ik met Pedro gedanst.
 
-5. **wonen** → Mila ___________ bij haar ouders in Peru ___________.
+5. **wonen** → Mila heeft bij haar ouders in Peru gewoond.
 
-6. **pakken** → Ik ___________ een stukje chocoladetaart ___________.
+6. **pakken** → Ik heb een stukje chocoladetaart gepakt.
 
-7. **lunchen** → Waar ___________ jullie ___________?
+7. **lunchen** → Waar hebben jullie geluncht?
 
-8. **winkelen** → In Maastricht ___________ Mila en Simone ___________.
+8. **winkelen** → In Maastricht hebben Mila en Simone gewinkeld.
 
 ### Onregelmatige verba
 
-1. **doen** → Wanneer ___________ jij boodschappen ___________?
+1. **doen** → Wanneer heb jij boodschappen gedaan?
 
-2. **eten** → Gisteravond ___________ we pizza ___________.
+2. **eten** → Gisteravond hebben we pizza gegeten.
 
-3. **kopen** → Ik ___________ een nieuwe jurk ___________.
+3. **kopen** → Ik heb een nieuwe jurk gekocht.
 
-4. **zien** → ___________ jullie koning Willem Alexander ___________?
+4. **zien** → Hebben jullie koning Willem Alexander gezien?
 
-5. **nemen** → Om 20.10 uur ___________ Sophia de trein naar huis ___________.
+5. **nemen** → Om 20.10 uur heeft Sophia de trein naar huis genomen.
 
-6. **zijn** → Ahmad en Oscar ___________ naar de bioscoop ___________.
+6. **zijn** → Ahmad en Oscar zijn naar de bioscoop geweest.
 
-7. **kijken** → We ___________ een leuke film ___________.
+7. **kijken** → We hebben een leuke film gekeken.
 
-8. **geven** → Mila en Willem ___________ Simone een boek ___________.
+8. **geven** → Mila en Willem hebben Simone een boek gegeven.
 
 ---
 
