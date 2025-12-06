@@ -110,13 +110,97 @@ Op het station        koop     ik            een kaartje.
 
 ### Структура:
 ```
-Подлежащее + hebben/zijn + ... + Participium (voltooid deelwoord)
+Подлежащее + hebben/zijn + ... + Voltooid deelwoord (причастие)
 ```
 
-### Когда HEBBEN, когда ZIJN?
+**Пример:** Ik **heb** gisteren een boek **gelezen**.
 
-| HEBBEN (большинство глаголов) | ZIJN (глаголы движения/изменения) |
-|-------------------------------|-----------------------------------|
+---
+
+### 4.1 Как образовать Voltooid Deelwoord (причастие)?
+
+#### Regelmatige werkwoorden (правильные глаголы)
+
+Формула: **ge-** + основа + **-t** или **-d**
+
+```
+ge- + stam + -t/-d
+```
+
+#### Правило 't Kofschip: когда -T, когда -D?
+
+Если основа глагола заканчивается на **t, k, f, s, ch, p** → окончание **-t**
+Иначе → окончание **-d**
+
+| Глагол | Основа | Последняя буква | В 't kofschip? | Окончание | Voltooid deelwoord |
+|--------|--------|-----------------|----------------|-----------|-------------------|
+| werken | werk | k | ✅ да | -t | ge**werkt** |
+| pakken | pak | k | ✅ да | -t | ge**pakt** |
+| dansen | dans | s | ✅ да | -t | ge**danst** |
+| wachten | wacht | t | ✅ да | -t | ge**wacht** |
+| fietsen | fiets | s | ✅ да | -t | ge**fietst** |
+| studeren | studeer | r | ❌ нет | -d | ge**studeerd** |
+| wonen | woon | n | ❌ нет | -d | ge**woond** |
+| leven | leef | f | ✅ да | -t | ge**leefd** |
+| luisteren | luister | r | ❌ нет | -d | ge**luisterd** |
+| winkelen | winkel | l | ❌ нет | -d | ge**winkeld** |
+
+**Запомни 't kofschip:**
+```
+'t k o f s ch i p
+   ↓ ↓ ↓ ↓ ↓    ↓
+   k   f s ch   p  →  эти буквы дают -T
+```
+
+#### ⚠️ Типичные ошибки:
+
+| Неправильно | Правильно | Почему? |
+|-------------|-----------|---------|
+| gestudert | ge**studeerd** | r не в 't kofschip → -d |
+| gewoont | ge**woond** | n не в 't kofschip → -d |
+| wacht | **ge**wacht | забыл ge- ! |
+| danst | **ge**danst | забыл ge- ! |
+
+---
+
+### 4.2 Onregelmatige werkwoorden (неправильные глаголы)
+
+Эти глаголы нужно **выучить наизусть**!
+
+| Глагол | Imperfectum | Voltooid deelwoord | Перевод |
+|--------|-------------|-------------------|---------|
+| doen | deed | ge**daan** | делать |
+| zien | zag | ge**zien** | видеть |
+| nemen | nam | ge**nomen** | брать |
+| geven | gaf | ge**geven** | давать |
+| eten | at | ge**geten** | есть |
+| kopen | kocht | ge**kocht** | покупать |
+| kijken | keek | ge**keken** | смотреть |
+| zijn | was | ge**weest** | быть |
+| hebben | had | ge**had** | иметь |
+| komen | kwam | ge**komen** | приходить |
+| gaan | ging | ge**gaan** | идти |
+| lezen | las | ge**lezen** | читать |
+| schrijven | schreef | ge**schreven** | писать |
+| rijden | reed | ge**reden** | ехать |
+| vliegen | vloog | ge**vlogen** | летать |
+
+#### ⚠️ Не путай ZIEN и ZOEKEN!
+
+| Глагол | Значение | Voltooid deelwoord |
+|--------|----------|-------------------|
+| **zien** | видеть (to see) | ge**zien** |
+| **zoeken** | искать (to search) | ge**zocht** |
+
+❌ Hebben jullie de koning ge**zocht**? (= Вы искали короля?)
+✅ Hebben jullie de koning ge**zien**? (= Вы видели короля?)
+
+---
+
+### 4.3 Когда HEBBEN, когда ZIJN?
+
+| HEBBEN (большинство глаголов) | ZIJN (движение/изменение) |
+|-------------------------------|---------------------------|
 | Ik **heb** een boek **gelezen**. | Ik **ben** naar Amsterdam **gegaan**. |
 | We **hebben** pizza **gegeten**. | Mila **is** naar Maastricht **gereisd**. |
 | Ik **heb** de NS-app **gebruikt**. | Ze **zijn** met de trein **gekomen**. |
@@ -138,6 +222,25 @@ Op het station        koop     ik            een kaartje.
 
 ❌ Mila en Simone **hebben** naar Maastricht **gegaan**.
 ✅ Mila en Simone **zijn** naar Maastricht **gegaan**.
+
+---
+
+### 4.4 Спряжение HEBBEN и ZIJN
+
+| Лицо | HEBBEN | ZIJN |
+|------|--------|------|
+| ik | **heb** | **ben** |
+| jij | **hebt** | **bent** |
+| u | **hebt/heeft** | **bent/is** |
+| hij/zij/het | **heeft** | **is** |
+| wij | **hebben** | **zijn** |
+| jullie | **hebben** | **zijn** |
+| zij (мн.ч.) | **hebben** | **zijn** |
+
+#### ⚠️ Типичная ошибка:
+
+❌ Sophia **hebt** de trein genomen.
+✅ Sophia **heeft** de trein genomen. (3-е лицо ед.ч. = heeft)
 
 ---
 
@@ -198,3 +301,14 @@ Op het station        koop     ik            een kaartje.
 | **Perfectum + движение** | ZIJN, не hebben |
 | **thuis** | наречие ("дома") |
 | **huis** | существительное ("дом") |
+
+### Perfectum — быстрая шпаргалка
+
+| Что | Правило |
+|-----|---------|
+| **Структура** | hebben/zijn + ... + voltooid deelwoord |
+| **ge- prefix** | ВСЕГДА! (кроме be-, ver-, ont-, er-, ge-, her-) |
+| **'t kofschip** | t, k, f, s, ch, p → **-t**, иначе → **-d** |
+| **Неправильные** | Учить наизусть! (doen→gedaan, zien→gezien...) |
+| **ZIJN** | Движение (gaan, komen) + изменение (worden) |
+| **HEBBEN** | Всё остальное |
