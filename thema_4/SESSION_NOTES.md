@@ -36,49 +36,7 @@
 
 ---
 
-## Grammar Learned
-
-### 1. WANT - Normal Word Order
-```
-[Hoofdzin] + want + [Subject + Verb + Rest]
-```
-- Ik ga slapen want ik **ben** moe.
-- Verb stays in position 2 after "want"
-
-### 2. OMDAT - Verb to the End
-```
-[Hoofdzin] + omdat + [Subject + Rest + Verb]
-Omdat + [Subject + Rest + Verb], [Hoofdzin met inversie]
-```
-- Ik ga slapen omdat ik moe **ben**.
-- Verb goes to the END after "omdat"
-
-### 3. Inversie (Inversion)
-When sentence starts with something other than subject:
-```
-[Place/Time] + Verb + Subject + Rest
-```
-- **Op het station** koop **ik** een kaartje.
-- **Hoe laat** kom **je** thuis?
-
-### 4. ALS - Verb to the End
-```
-[Hoofdzin] + als + [Subject + Rest + Verb]
-```
-- Ze neemt de bus als ze naar haar werk **gaat**.
-
-### 5. Separable Verbs (Scheidbare werkwoorden)
-- aan|doen → Ze **doet** een stropdas **aan**.
-
----
-
-## Staged Files (Ready to Commit)
-
-```
-git status:
-  new file:   thema_4/grammatica.md    (want/omdat grammar notes)
-  new file:   thema_4/toets_thema_4.md (test with your answers)
-```
+> 📘 **Grammar rules:** See `grammatica.md` for all grammar explanations in Russian.
 
 ---
 
@@ -153,42 +111,11 @@ git status:
 
 ### Grammar Mistakes (2025-12-04)
 
-#### 1. Inversie na bijzin (Inversion after subordinate clause)
-**Common mistake:** Forgetting inversion in main clause after als/omdat/wanneer clause
-
-❌ Als ik vrij ben, **ik wandel** naar het park.
-✅ Als ik vrij ben, **wandel ik** naar het park.
-
-**Rule:** When sentence starts with subordinate clause (als/omdat/wanneer...), the main clause needs **inversion** (verb before subject).
-
-```
-[Bijzin], + [Verb] + [Subject] + [Rest]
-Als ik vrij ben, wandel ik naar het park.
-Omdat het regent, neem ik de bus.
-```
-
-#### 2. Hulpwerkwoord: ZIJN vs HEBBEN in perfectum
-**Common mistake:** Using "hebben" with movement verbs
-
-❌ Mila en Simone **hebben** naar Maastricht **gegaan**.
-✅ Mila en Simone **zijn** naar Maastricht **gegaan**.
-
-**Rule:** Movement verbs use **zijn** as auxiliary:
-- gaan → zijn gegaan
-- komen → zijn gekomen
-- rijden → zijn gereden
-- vliegen → zijn gevlogen
-- reizen → zijn gereisd
-
-#### 3. Thuis vs Huis
-**Common mistake:** Using "thuis" as a noun
-
-❌ Van mijn **thuis** naar de les...
-✅ Van mijn **huis** naar de les...
-
-**Rule:**
-- **thuis** = bijwoord (adverb) → "Ik ben thuis" (I am home)
-- **huis** = zelfstandig naamwoord (noun) → "mijn huis" (my house)
+| Mistake | Example | See grammatica.md |
+|---------|---------|-------------------|
+| Inversie na bijzin | ❌ Als ik vrij ben, **ik wandel**... → ✅ **wandel ik** | Section 3 |
+| ZIJN vs HEBBEN | ❌ hebben gegaan → ✅ **zijn** gegaan | Section 4.3 |
+| Thuis vs Huis | ❌ mijn thuis → ✅ mijn **huis** | Section 5 |
 
 ---
 
@@ -206,13 +133,74 @@ Rewrote `thema_4/grammatica.md` with comprehensive grammar rules in Russian:
 
 ---
 
+# 2025-12-06
+
+## What We Did
+
+### 4. Practiced Opdracht 3 - Perfectum ❌ (needs review)
+
+**Score: 3/16** - Dit opdracht was moeilijk!
+
+#### Regelmatige verba (0/8 correct)
+
+| # | Jouw antwoord | Fout | Correct |
+|---|---------------|------|---------|
+| 1 | heeft gestudert | spelling + uitgang | heeft **gestudeerd** |
+| 2 | Heb geluisterd | ✅ vorm ok | Heb **geluisterd** ✅ |
+| 3 | hebben wacht | ge- ontbreekt | hebben **gewacht** |
+| 4 | heb danst | ge- ontbreekt | heb **gedanst** |
+| 5 | heeft woont | ge- ontbreekt + uitgang | heeft **gewoond** |
+| 6 | heb pakt | ge- ontbreekt | heb **gepakt** |
+| 7 | hebben luncht | ge- ontbreekt | hebben **geluncht** |
+| 8 | hebben winkeld | ge- ontbreekt | hebben **gewinkeld** |
+
+#### Onregelmatige verba (3/8 correct)
+
+| # | Jouw antwoord | Fout | Correct |
+|---|---------------|------|---------|
+| 1 | heb doen | onregelmatig | heb **gedaan** |
+| 2 | hebben gegeten | ✅ | ✅ Perfect! |
+| 3 | heb gekocht | ✅ | ✅ Perfect! |
+| 4 | hebben gezocht | verkeerd werkwoord! | hebben **gezien** |
+| 5 | hebt genemen | vervoeging + vorm | **heeft** **genomen** |
+| 6 | hebt geweenst | hulpww + vorm | **zijn** **geweest** |
+| 7 | hebben gekijken | onregelmatig | hebben **gekeken** |
+| 8 | hebben gegeven | ✅ | ✅ Perfect! |
+
+---
+
+### Grammar Mistakes (2025-12-06) - PERFECTUM
+
+| # | Mistake Type | Your Error | Correct | See grammatica.md |
+|---|-------------|------------|---------|-------------------|
+| 1 | **ge- prefix vergeten** (6x!) | wacht, danst, pakt... | **ge**wacht, **ge**danst... | Section 4.1 |
+| 2 | **'t kofschip** (-t/-d) | gestudert, woont | gestudeer**d**, gewoon**d** | Section 4.1 |
+| 3 | **Onregelmatige vormen** | doen, gezocht, genemen... | ge**daan**, ge**zien**, ge**nomen** | Section 4.2 |
+| 4 | **zien ≠ zoeken** | gezocht (searched) | ge**zien** (seen) | Section 4.2 |
+| 5 | **Hulpwerkwoord zijn** | hebt geweest | **zijn** geweest | Section 4.3 |
+| 6 | **Vervoeging: hebt/heeft** | Sophia hebt | Sophia **heeft** | Section 4.4 |
+
+---
+
+### Samenvatting Opdracht 3 - Te oefenen
+
+| Fout type | Frequentie | Prioriteit |
+|-----------|------------|------------|
+| ge- prefix vergeten | 6x | ⭐⭐⭐ HOOG |
+| Onregelmatige vormen | 5x | ⭐⭐⭐ HOOG |
+| 't kofschip (-t/-d) | 2x | ⭐⭐ MEDIUM |
+| Hulpwerkwoord zijn | 1x | ⭐ LAAG |
+| Werkwoordvervoeging | 1x | ⭐ LAAG |
+
+---
+
 ## Progress Summary
 
 | Opdracht | Status |
 |----------|--------|
 | 1. Maak de zinnen compleet (1-8) | ✅ Completed |
 | 2. Beantwoord de vragen | ✅ Completed (2 kleine spelfouten over) |
-| 3. Perfectum (regelmatig + onregelmatig) | ⏳ Not started |
+| 3. Perfectum (regelmatig + onregelmatig) | ❌ Needs review (3/16) |
 | 4. Tegenovergestelde | ⏳ Not started |
 | 5. Schrijf een tekst (50-70 woorden) | ⏳ Not started |
 | 6. Leesvaardigheid: Groepsticket | ⏳ Not started |
