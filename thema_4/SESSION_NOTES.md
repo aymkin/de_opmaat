@@ -219,15 +219,45 @@ Rewrote `thema_4/grammatica.md` with comprehensive grammar rules in Russian:
 
 ---
 
+### 6. Practiced Opdracht 5 - Schrijf een tekst ✅
+
+**Task:** Write 50-70 words about your weekend using perfectum.
+
+**Final text (~50 words):**
+> Ik heb mijn ouders naar mijn huis uitgenodigd. We zijn samen naar Amsterdam gegaan. Mijn vader was blij om mijn zoon te zien. Mijn moeder heeft verrukkelijk eten gekookt. Ik heb mooie handschoenen voor mijn moeder gekocht. Mijn zoon heeft een speelgoedhuisje gebouwd. En mijn vrouw heeft opgeruimd. We hebben samen een leuke tijd gehad.
+
+#### Original Mistakes:
+
+| Fout | Correct | Type |
+|------|---------|------|
+| mijn thuis | mijn **huis** | thuis = bijwoord |
+| naar bij | naar / bij | niet samen gebruiken |
+| heeft blij | **was** blij | blij zijn, niet hebben |
+| verrukulig | verrukk**elijk** | spelling |
+| eeten | **eten** | één 'e' |
+| gekoken | ge**kookt** | regelmatig: koken → gekookt |
+| schoonhanded | **handschoenen** | spelling |
+| mooi + zn | **mooie** + zn | bijvoeglijk naamwoord + -e |
+| gekoht | ge**kocht** | spelling |
+| opruimte gedaan | **opgeruimd** | scheidbaar: op|ruimen |
+| heeben | **hebben** | spelling |
+
+#### Grammar Learned:
+- Scheidbare werkwoorden in perfectum: **ge-** komt tussen voorvoegsel en stam
+  - op|ruimen → op**ge**ruimd
+  - uit|nodigen → uit**ge**nodigd
+
+---
+
 ## Progress Summary
 
 | Opdracht | Status |
 |----------|--------|
 | 1. Maak de zinnen compleet (1-8) | ✅ Completed |
 | 2. Beantwoord de vragen | ✅ Completed |
-| 3. Perfectum (regelmatig + onregelmatig) | ✅ Completed (16/16 after corrections) |
-| 4. Tegenovergestelde | ⚠️ Done (5/8) - needs corrections |
-| 5. Schrijf een tekst (50-70 woorden) | ⏳ Not started |
+| 3. Perfectum (regelmatig + onregelmatig) | ✅ Completed (16/16) |
+| 4. Tegenovergestelde | ✅ Completed (8/8) |
+| 5. Schrijf een tekst (50-70 woorden) | ✅ Completed |
 | 6. Leesvaardigheid: Groepsticket | ⏳ Not started |
 
 ---
@@ -246,7 +276,20 @@ Rewrote `thema_4/grammatica.md` with comprehensive grammar rules in Russian:
 - dagkaart (not dagkaar)
 - eenvoudig (not envoudig)
 - goedkoop (not goodkoop)
+- verrukkelijk (not verrukulig)
+- eten (not eeten)
+- gekookt (not gekoken)
+- handschoenen (not schoonhanded)
+- gekocht (not gekoht)
+- hebben (not heeben)
 
 ## Vocabulary to Remember
 - lelijk ↔ **mooi** (not lief)
 - dichtbij ↔ **ver/veraf** (not verder)
+
+## Grammar to Remember
+- **Scheidbare werkwoorden in perfectum:** ge- tussen voorvoegsel en stam
+  - op|ruimen → op**ge**ruimd
+  - uit|nodigen → uit**ge**nodigd
+- **Bijvoeglijk naamwoord + zelfstandig naamwoord:** meestal + **-e**
+  - mooi → mooie handschoenen
