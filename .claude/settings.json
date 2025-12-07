@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if echo \"$CLAUDE_TOOL_INPUT\" | grep -q 'git commit'; then echo 'HOOK: Git commit detected. Please review and update CLAUDE.md if README.md changed or new folders/files were added.'; fi"
+          }
+        ]
+      }
+    ]
+  }
+}

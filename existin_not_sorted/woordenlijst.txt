@@ -1,0 +1,323 @@
+aan
+aanbieding (de)
+aantrekken
+aardappel (de)
+aardbei (de)
+afrekenen
+alles
+ananas (de)
+anderhalf
+anders
+andijvie (de)
+appel (de)
+armband (de)
+aspirine (de)
+bakker (de)
+bakkerij (de)
+bank (de)
+beige
+bestellen
+betalen
+beurt (de)
+bh (de)
+bij
+bitterbal (de)
+blauw
+blik (het)
+blikje (het)
+bloem (de)
+bloemenzaak (de)
+bloemkool (de)
+blouse (de)
+boek (het)
+boekenkast (de)
+boekwinkel (de)
+bolletje (het)
+boodschap (de)
+boontje (het)
+boormachine (de)
+borrelhapjes
+boter (de)
+bouwmarkt (de)
+brengen
+brie (de)
+brief (de)
+briefje (het)
+broek (de)
+brood (het)
+brood (het)
+broodje (het)
+bruin
+budget (het)
+bureau (het)
+bus (de)
+busje (het)
+café (het)
+cake (de)
+cervelaat (de)
+colbert (het, de)
+contant
+corrigeren
+croissant (de)
+donker
+donkerbruin
+doos (de)
+doosje (het)
+dorst (de)
+douchecrème (de)
+dragen
+dressoir (het, de)
+drinken
+drogist (de)
+drogisterij (de)
+druif (de)
+duur
+eens
+eettafel (de)
+elkaar
+er
+eten
+fauteuil (de)
+fijn
+flat (de)
+fles (de)
+flesje (het)
+framboos (de)
+gebak (het)
+geel
+gehakt (het)
+gesneden
+gezond
+goedkoop
+gram (het)
+grijs
+groen
+groente (de)
+groenteman (de)
+hak (de)
+half
+halsketting (de)
+ham (de)
+hamburger (de)
+hamer (de)
+handdoek (de)
+handschoen (de)
+hangen
+hartstikke
+heerlijk
+heet
+helaas
+helpen
+hem
+hen
+honger
+hoog
+hun
+inderdaad
+interessant
+jammer
+jas (de)
+jenever (de)
+jong
+jou
+jurk (de)
+juwelier (de)
+kaas (de)
+kalender (de)
+keeltablet (de)
+kers (de)
+ketchup (de)
+keus (de)
+kijken
+kilo (de)
+kip (de)
+kipfilet (de)
+kippenbout (de)
+kippenpoot (de)
+klant (de)
+kleding (de)
+kledingwinkel (de)
+klein
+kleren (de)
+kleur (de)
+koekje (het)
+koel
+komkommer (de)
+koken
+koopavond (de)
+kort
+kosten
+kostuum (het)
+koud
+krant (de)
+krentenbol (de)
+krop (de)
+kruk (de)
+laag
+laars (de)
+lamsvlees (het)
+lang
+lelijk
+lekker
+licht
+lichtbruin
+lijken
+lippenstift (de)
+lopen
+maar
+maat (de)
+make-up (de)
+mandarijn (de)
+marktkraam (de)
+melk (de)
+meloen (de)
+meneer (de)
+menu (het)
+met
+mild
+misschien
+model (het)
+mooi
+mouw (de)
+natuurlijk
+nemen nog
+ober (de)
+ogenblik (het)
+oké
+olie (de)
+onderbroek (de)
+ondergoed (het)
+ongeveer
+ongezond
+ons
+ook
+oorbel (de)
+oranje
+overhemd (het)
+overkant (de)
+paar (het)
+paars
+pak (het)
+pakje (het)
+pantoffel (de)
+papier (het)
+paprika (de)
+passen
+paté (de)
+peer (de)
+pilsje (het)
+pinautomaat (de)
+pinnen
+pinpas (de)
+pittig
+pizza (de)
+plant (de)
+pleister (de)
+poloshirt (het)
+pond (het)
+port (de)
+portie (de)
+postuur (het)
+prei (de)
+prettig
+prijs (de)
+prima
+printer (de)
+proberen
+probleem (het)
+product (het)
+pyjama (de)
+reep (de)
+rekening (de)
+rijp
+ring (de)
+rok (de)
+rol (de)
+rollade (de)
+rolletje (het)
+rood
+roos (de)
+rosé (de)
+roze
+rundvlees (het)
+salami (de)
+samen
+sandaal (de)
+sappig
+schoen (de)
+schoenenzaak (de)
+servies (het)
+shampoo (de)
+shirt (het)
+sinaasappel (de)
+sjaal (de)
+sla (de)
+slager (de)
+slagerij (de)
+slagroom (de)
+slipje (het)
+slipper (de)
+smaken
+snijboon (de)
+sok (de)
+sorry
+spaghetti (de)
+speciaal
+spijkerbroek (de)
+spinazie (de)
+stem (de)
+stil
+stoel (de)
+stokbrood (het)
+stroopwafel (de)
+stropdas (de)
+suiker (de)
+supermarkt (de)
+taart (de)
+tafel (de)
+tas (de)
+tasje (het)
+televisie (de)
+terug
+tomaat (de)
+trui (de)
+T-shirt (het)
+tulp (de)
+ui (de)
+varkensvlees (het)
+veel
+verband (het)
+verkoper (de)
+verrukkelijk
+vers
+verschillend
+vest (het)
+vlaai (de)
+vlees (het)
+vleeswaren (de)
+voor
+warm
+wat
+water (het)
+wc-papier (het)
+weekend (het)
+weer
+weinig
+whisky (de)
+wijn (de)
+winkel (de)
+winkelen
+winter (de)
+wit
+worst (de)
+zacht
+zak (de)
+zakje (het)
+ziens
+zin (de)
+zoet
+zomer (de)
+zonder
+zout
+zuur
+zwart

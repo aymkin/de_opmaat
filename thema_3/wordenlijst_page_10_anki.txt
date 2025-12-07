@@ -1,0 +1,157 @@
+Ik koop het stokbrood bij de bakker.	Я покупаю багет в булочной.
+Koop je het stokbrood bij de bakker?	Ты покупаешь багет в булочной?
+Ik koop het stokbrood niet bij de bakker.	Я не покупаю багет в булочной.
+De stroopwafel is lekker.	Стропвафель вкусная.
+Vind je de stroopwafel lekker?	Тебе нравится стропвафель?
+De stroopwafel is niet lekker.	Стропвафель невкусная.
+Hij draagt een stropdas naar het werk.	Он надевает галстук на работу.
+Draag je een stropdas naar het werk?	Ты надеваешь галстук на работу?
+Hij draagt geen stropdas naar het werk.	Он не надевает галстук на работу.
+Ik gebruik de suiker in mijn koffie.	Я кладу сахар в кофе.
+Gebruik je de suiker in je koffie?	Ты кладешь сахар в кофе?
+Ik gebruik geen suiker in mijn koffie.	Я не кладу сахар в кофе.
+Ik ga naar de supermarkt.	Я иду в супермаркет.
+Ga je naar de supermarkt?	Ты идешь в супермаркет?
+Ik ga niet naar de supermarkt.	Я не иду в супермаркет.
+De taart staat op tafel.	Торт стоит на столе.
+Staat de taart op tafel?	Торт стоит на столе?
+De taart staat niet op tafel.	Торт не стоит на столе.
+Aan de tafel zitten we te eten.	Мы сидим за столом и едим.
+Zit je aan de tafel?	Ты сидишь за столом?
+We zitten niet aan de tafel.	Мы не сидим за столом.
+Ik heb een tas bij me.	У меня есть сумка.
+Heb je een tas bij je?	У тебя есть сумка?
+Ik heb geen tas bij me.	У меня нет сумки.
+Het tasje is klein.	Сумка маленькая.
+Is het tasje klein?	Сумка маленькая?
+Het tasje is niet klein.	Сумка не маленькая.
+Ik kijk naar de televisie.	Я смотрю телевизор.
+Kijk je naar de televisie?	Ты смотришь телевизор?
+Ik kijk niet naar de televisie.	Я не смотрю телевизор.
+Ik kom terug om zes uur.	Я возвращаюсь в шесть часов.
+Kom je terug om zes uur?	Ты возвращаешься в шесть часов?
+Ik kom niet terug om zes uur.	Я не возвращаюсь в шесть часов.
+De tomaat is rood.	Помидор красный.
+Is de tomaat rood?	Помидор красный?
+De tomaat is niet rood.	Помидор не красный.
+Ik draag een trui in de winter.	Я ношу свитер зимой.
+Draag je een trui in de winter?	Ты носишь свитер зимой?
+Ik draag geen trui in de winter.	Я не ношу свитер зимой.
+Het T-shirt is wit.	Футболка белая.
+Is het T-shirt wit?	Футболка белая?
+Het T-shirt is niet wit.	Футболка не белая.
+De tulp bloeit in de lente.	Тюльпан цветет весной.
+Bloeit de tulp in de lente?	Тюльпан цветет весной?
+De tulp bloeit niet in de lente.	Тюльпан не цветет весной.
+Ik snijd de ui voor het eten.	Я режу лук для еды.
+Snijd je de ui voor het eten?	Ты режешь лук для еды?
+Ik snijd de ui niet voor het eten.	Я не режу лук для еды.
+Het varkensvlees is duur.	Свинина дорогая.
+Is het varkensvlees duur?	Свинина дорогая?
+Het varkensvlees is niet duur.	Свинина не дорогая.
+Ik heb veel vrienden.	У меня много друзей.
+Heb je veel vrienden?	У тебя много друзей?
+Ik heb niet veel vrienden.	У меня не много друзей.
+Het verband zit op zijn arm.	Повязка на его руке.
+Zit het verband op zijn arm?	Повязка на его руке?
+Het verband zit niet op zijn arm.	Повязка не на его руке.
+De verkoper helpt de klant.	Продавец помогает клиенту.
+Helpt de verkoper de klant?	Продавец помогает клиенту?
+De verkoper helpt de klant niet.	Продавец не помогает клиенту.
+De taart smaakt verrukkelijk.	Торт восхитительный на вкус.
+Smaakt de taart verrukkelijk?	Торт восхитительный на вкус?
+De taart smaakt niet verrukkelijk.	Торт не восхитительный на вкус.
+Het brood is vers.	Хлеб свежий.
+Is het brood vers?	Хлеб свежий?
+Het brood is niet vers.	Хлеб не свежий.
+We hebben verschillende meningen.	У нас разные мнения.
+Hebben jullie verschillende meningen?	У вас разные мнения?
+We hebben geen verschillende meningen.	У нас не разные мнения.
+Het vest is warm.	Жилет теплый.
+Is het vest warm?	Жилет теплый?
+Het vest is niet warm.	Жилет не теплый.
+De vlaai komt uit Limburg.	Влаай родом из Лимбурга.
+Komt de vlaai uit Limburg?	Влаай родом из Лимбурга?
+De vlaai komt niet uit Limburg.	Влаай не родом из Лимбурга.
+Het vlees ligt in de koelkast.	Мясо лежит в холодильнике.
+Ligt het vlees in de koelkast?	Мясо лежит в холодильнике?
+Het vlees ligt niet in de koelkast.	Мясо не лежит в холодильнике.
+Ik koop vleeswaren bij de slager.	Я покупаю колбасные изделия в мясной лавке.
+Koop je vleeswaren bij de slager?	Ты покупаешь колбасные изделия в мясной лавке?
+Ik koop geen vleeswaren bij de slager.	Я не покупаю колбасные изделия в мясной лавке.
+Ik wacht voor de deur.	Я жду перед дверью.
+Wacht je voor de deur?	Ты ждешь перед дверью?
+Ik wacht niet voor de deur.	Я не жду перед дверью.
+Het water is warm.	Вода теплая.
+Is het water warm?	Вода теплая?
+Het water is niet warm.	Вода не теплая.
+Wat wil je kopen?	Что ты хочешь купить?
+Wat koop je in de winkel?	Что ты покупаешь в магазине?
+Wat wil je niet kopen?	Что ты не хочешь купить?
+Ik koop het wc-papier in de supermarkt.	Я покупаю туалетную бумагу в супермаркете.
+Koop je het wc-papier in de supermarkt?	Ты покупаешь туалетную бумагу в супермаркете?
+Ik koop het wc-papier niet in de supermarkt.	Я не покупаю туалетную бумагу в супермаркете.
+Het weekend is lang.	Выходные длинные.
+Is het weekend lang?	Выходные длинные?
+Het weekend is niet lang.	Выходные не длинные.
+Het weer is mooi vandaag.	Сегодня хорошая погода.
+Is het weer mooi vandaag?	Сегодня хорошая погода?
+Het weer is niet mooi vandaag.	Сегодня плохая погода.
+Ik heb weinig tijd.	У меня мало времени.
+Heb je weinig tijd?	У тебя мало времени?
+Ik heb niet weinig tijd.	У меня не мало времени.
+De whisky is duur.	Виски дорогой.
+Is de whisky duur?	Виски дорогой?
+De whisky is niet duur.	Виски не дорогой.
+Ik drink de wijn bij het eten.	Я пью вино за едой.
+Drink je de wijn bij het eten?	Ты пьешь вино за едой?
+Ik drink de wijn niet bij het eten.	Я не пью вино за едой.
+De winkel is open.	Магазин открыт.
+Is de winkel open?	Магазин открыт?
+De winkel is niet open.	Магазин не открыт.
+Ik ga winkelen in de stad.	Я иду за покупками в город.
+Ga je winkelen in de stad?	Ты идешь за покупками в город?
+Ik ga niet winkelen in de stad.	Я не иду за покупками в город.
+De winter is koud.	Зима холодная.
+Is de winter koud?	Зима холодная?
+De winter is niet koud.	Зима не холодная.
+Het brood is wit.	Хлеб белый.
+Is het brood wit?	Хлеб белый?
+Het brood is niet wit.	Хлеб не белый.
+De worst ligt op het bord.	Колбаса лежит на тарелке.
+Ligt de worst op het bord?	Колбаса лежит на тарелке?
+De worst ligt niet op het bord.	Колбаса не лежит на тарелке.
+Het bed is zacht.	Кровать мягкая.
+Is het bed zacht?	Кровать мягкая?
+Het bed is niet zacht.	Кровать не мягкая.
+Ik heb een zak appels.	У меня есть мешок яблок.
+Heb je een zak appels?	У тебя есть мешок яблок?
+Ik heb geen zak appels.	У меня нет мешка яблок.
+Het zakje is leeg.	Пакетик пустой.
+Is het zakje leeg?	Пакетик пустой?
+Het zakje is niet leeg.	Пакетик не пустой.
+Ik zie je graag.	Я рад тебя видеть.
+Zie je me graag?	Ты рад меня видеть?
+Ik zie je niet graag.	Я не рад тебя видеть.
+Ik heb zin in koffie.	Мне хочется кофе.
+Heb je zin in koffie?	Тебе хочется кофе?
+Ik heb geen zin in koffie.	Мне не хочется кофе.
+De taart is zoet.	Торт сладкий.
+Is de taart zoet?	Торт сладкий?
+De taart is niet zoet.	Торт не сладкий.
+De zomer is warm.	Лето теплое.
+Is de zomer warm?	Лето теплое?
+De zomer is niet warm.	Лето не теплое.
+Ik drink koffie zonder suiker.	Я пью кофе без сахара.
+Drink je koffie zonder suiker?	Ты пьешь кофе без сахара?
+Ik drink koffie niet zonder suiker.	Я не пью кофе без сахара.
+Het eten is zout.	Еда соленая.
+Is het eten zout?	Еда соленая?
+Het eten is niet zout.	Еда не соленая.
+De citroen is zuur.	Лимон кислый.
+Is de citroen zuur?	Лимон кислый?
+De citroen is niet zuur.	Лимон не кислый.
+De koffie is zwart.	Кофе черный.
+Is de koffie zwart?	Кофе черный?
+De koffie is niet zwart.	Кофе не черный.
+

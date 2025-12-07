@@ -1,0 +1,53 @@
+stokbrood (het)
+stroopwafel (de)
+stropdas (de)
+suiker (de)
+supermarkt (de)
+taart (de)
+tafel (de)
+tas (de)
+tasje (het)
+televisie (de)
+terug
+tomaat (de)
+trui (de)
+T-shirt (het)
+tulp (de)
+ui (de)
+varkensvlees (het)
+veel
+verband (het)
+verkoper (de)
+verrukkelijk
+vers
+verschillend
+vest (het)
+vlaai (de)
+vlees (het)
+vleeswaren (de)
+voor
+warm
+wat
+water (het)
+wc-papier (het)
+weekend (het)
+weer
+weinig
+whisky (de)
+wijn (de)
+winkel (de)
+winkelen
+winter (de)
+wit
+worst (de)
+zacht
+zak (de)
+zakje (het)
+ziens
+zin (de)
+zoet
+zomer (de)
+zonder
+zout
+zuur
+zwart

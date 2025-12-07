@@ -1,0 +1,542 @@
+#separator:tab
+#html:false
+De trein komt om 10 uur aan.	Поезд прибывает в 10 часов.
+De trein komt vandaag niet aan.	Поезд сегодня не прибывает.
+Hoe laat komt de trein aan?	Во сколько прибывает поезд?
+Mijn buurman is erg aardig.	Мой сосед очень приятный.
+Hij is niet zo aardig tegen mij.	Он не очень приветлив со мной.
+Vind je haar aardig?	Она тебе нравится?
+Je hebt absoluut gelijk.	Ты абсолютно прав.
+Dat is absoluut niet waar.	Это абсолютно неправда.
+Weet je het absoluut zeker?	Ты абсолютно уверен?
+Ik accepteer je excuses.	Я принимаю твои извинения.
+Ik accepteer dit gedrag niet.	Я не принимаю такое поведение.
+Accepteer je creditcards?	Вы принимаете кредитные карты?
+Als het regent, blijf ik thuis.	Если идёт дождь, я остаюсь дома.
+Als je niet komt, bel me dan.	Если ты не придёшь, позвони мне.
+Wat doe je als je vrij bent?	Что ты делаешь, когда свободен?
+Ik neem een andere route.	Я поеду другим маршрутом.
+Ik wil geen andere kleur.	Я не хочу другой цвет.
+Heb je een ander idee?	У тебя есть другая идея?
+Vandaag doe ik het anders.	Сегодня я сделаю это по-другому.
+Ik kan het niet anders doen.	Я не могу сделать это иначе.
+Wil je het anders proberen?	Хочешь попробовать по-другому?
+Ik baal van het slechte weer.	Меня раздражает плохая погода.
+Ik baal niet van een beetje regen.	Меня не расстраивает небольшой дождь.
+Baal je ervan dat je moet werken?	Тебя расстраивает, что нужно работать?
+Ik ben bang voor honden.	Я боюсь собак.
+Ik ben niet bang in het donker.	Я не боюсь темноты.
+Ben je bang om te vliegen?	Ты боишься летать?
+Dit bedrijf heeft veel werknemers.	В этой компании много сотрудников.
+Het bedrijf maakt geen winst.	Компания не приносит прибыли.
+Waar staat het bedrijf?	Где находится компания?
+Ik wacht beneden op je.	Я жду тебя внизу.
+Hij is niet beneden.	Его нет внизу.
+Woon je beneden of boven?	Ты живёшь внизу или наверху?
+Onze bestemming is Rotterdam.	Наш пункт назначения — Роттердам.
+Dit is niet mijn eindbestemming.	Это не мой конечный пункт.
+Wat is je bestemming vandaag?	Куда ты направляешься сегодня?
+Het bezoek aan oma was fijn.	Визит к бабушке был приятным.
+Het bezoek duurde niet lang.	Визит длился недолго.
+Hoe was je bezoek aan Amsterdam?	Как прошёл твой визит в Амстердам?
+Ik bezoek mijn ouders elk weekend.	Я навещаю родителей каждые выходные.
+Ik bezoek hem niet vaak.	Я не часто его навещаю.
+Bezoek je wel eens musea?	Ты иногда ходишь в музеи?
+We zijn er bijna.	Мы почти на месте.
+Ik ben bijna nooit ziek.	Я почти никогда не болею.
+Ben je bijna klaar?	Ты почти готов?
+Dit is een bijzondere dag.	Это особенный день.
+Er is niets bijzonders aan de hand.	Ничего особенного не происходит.
+Is er iets bijzonders te doen?	Есть что-то особенное?
+De gasten komen om acht uur binnen.	Гости входят в восемь часов.
+Kom niet zonder kloppen binnen.	Не входи без стука.
+Mag ik binnenkomen?	Можно войти?
+Ik ga binnenkort op vakantie.	Я скоро поеду в отпуск.
+Hij komt binnenkort niet terug.	Он не вернётся в ближайшее время.
+Verhuis je binnenkort?	Ты скоро переезжаешь?
+Mijn portemonnee zit in de binnenzak.	Мой кошелёк во внутреннем кармане.
+Er zit niets in mijn binnenzak.	В моём внутреннем кармане ничего нет.
+Heb je een binnenzak in je jas?	У тебя есть внутренний карман в куртке?
+We nemen de boot naar de eilanden.	Мы плывём на пароме на острова.
+De boot vaart vandaag niet.	Паром сегодня не ходит.
+Hoe laat vertrekt de boot?	Во сколько отплывает паром?
+De slaapkamer is boven.	Спальня наверху.
+Ik ben nu niet boven.	Я сейчас не наверху.
+Is er iemand boven?	Есть кто-нибудь наверху?
+We rijden over de brug.	Мы едем через мост.
+Loop niet over die oude brug.	Не ходи по тому старому мосту.
+Waar is de dichtstbijzijnde brug?	Где ближайший мост?
+Ik ga met de bus naar mijn werk.	Я езжу на работу на автобусе.
+De bus stopt hier niet.	Автобус здесь не останавливается.
+Hoe laat komt de volgende bus?	Во сколько следующий автобус?
+De bushalte is om de hoek.	Автобусная остановка за углом.
+Er is geen bushalte in de buurt.	Поблизости нет автобусной остановки.
+Waar is de bushalte?	Где автобусная остановка?
+We logeren op een camping aan zee.	Мы останавливаемся в кемпинге у моря.
+Ik slaap niet graag op een camping.	Я не люблю спать в кемпинге.
+Is de camping vol in de zomer?	Кемпинг полон летом?
+Het centrum is druk op zaterdag.	В центре людно в субботу.
+Ik woon niet in het centrum.	Я не живу в центре.
+Hoe kom ik naar het centrum?	Как добраться до центра?
+De conducteur controleert de kaartjes.	Кондуктор проверяет билеты.
+De conducteur kwam niet langs.	Кондуктор не прошёл мимо.
+Waar is de conducteur?	Где кондуктор?
+Ik zit in de stiltecoupé.	Я сижу в тихом вагоне.
+Deze coupé is niet comfortabel.	Этот вагон не удобный.
+In welke coupé zit je?	В каком вагоне ты сидишь?
+Mijn auto staat daar.	Моя машина стоит там.
+Ik ga daar niet naartoe.	Я туда не пойду.
+Ken je iemand daar?	Ты там кого-нибудь знаешь?
+De dame bij de balie kan je helpen.	Дама у стойки может тебе помочь.
+Die dame werkt hier niet meer.	Эта дама здесь больше не работает.
+Kent u die dame?	Вы знаете эту даму?
+Dit is een deel van de stad.	Это часть города.
+Dat is geen deel van mijn werk.	Это не часть моей работы.
+Welk deel van het boek lees je?	Какую часть книги ты читаешь?
+Het station is dichtbij.	Станция рядом.
+De supermarkt is niet dichtbij.	Супермаркет не близко.
+Is er een apotheek dichtbij?	Есть ли аптека поблизости?
+Mijn doel is Nederlands leren.	Моя цель — выучить нидерландский.
+Ik heb geen duidelijk doel.	У меня нет чёткой цели.
+Wat is het doel van je reis?	Какова цель твоей поездки?
+Ik droom van een huis aan zee.	Я мечтаю о доме у моря.
+Ik droom nooit over mijn werk.	Мне никогда не снится моя работа.
+Waar droom je van?	О чём ты мечтаешь?
+De dubbeldekker rijdt door de stad.	Двухэтажный автобус ездит по городу.
+Er rijdt geen dubbeldekker hier.	Здесь не ходит двухэтажный автобус.
+Heb je wel eens in een dubbeldekker gezeten?	Ты когда-нибудь ездил на двухэтажном автобусе?
+Deze jas is te dun voor de winter.	Эта куртка слишком тонкая для зимы.
+Het ijs is niet dun genoeg.	Лёд недостаточно тонкий.
+Is deze stof dun?	Эта ткань тонкая?
+De film duurt twee uur.	Фильм длится два часа.
+De vergadering duurde niet lang.	Собрание длилось недолго.
+Hoe lang duurt de vlucht?	Сколько длится полёт?
+Ik heb mijn eigen kamer.	У меня есть своя комната.
+Ik heb geen eigen auto.	У меня нет своей машины.
+Heb je je eigen bedrijf?	У тебя есть свой бизнес?
+Ik wil een enkele reis naar Utrecht.	Я хочу билет в одну сторону до Утрехта.
+Ik neem geen enkele reis, maar een retour.	Я беру не в одну сторону, а туда-обратно.
+Hoeveel kost een enkele reis?	Сколько стоит билет в одну сторону?
+Het concert was fantastisch.	Концерт был фантастическим.
+Het weer is vandaag niet fantastisch.	Погода сегодня не фантастическая.
+Vond je de film fantastisch?	Тебе понравился фильм?
+Ik ga overal met de fiets.	Я везде езжу на велосипеде.
+Mijn fiets is niet nieuw.	Мой велосипед не новый.
+Waar staat je fiets?	Где стоит твой велосипед?
+Ik fiets elke dag naar school.	Я каждый день езжу в школу на велосипеде.
+Ik fiets niet graag in de regen.	Я не люблю ездить на велосипеде в дождь.
+Fiets je naar je werk?	Ты ездишь на работу на велосипеде?
+Er staat file op de snelweg.	На шоссе пробка.
+Er is vandaag geen file.	Сегодня нет пробок.
+Hoe lang staat de file?	Насколько длинная пробка?
+De scheidsrechter blaast op het fluitje.	Судья дует в свисток.
+Ik hoor het fluitje niet.	Я не слышу свисток.
+Heb je een fluitje bij je?	У тебя есть с собой свисток?
+Ik heb veel geduld met kinderen.	У меня много терпения с детьми.
+Ik heb geen geduld meer.	У меня больше нет терпения.
+Heb je geduld om te wachten?	У тебя есть терпение подождать?
+Ik geloof wat je zegt.	Я верю тому, что ты говоришь.
+Ik geloof hem niet.	Я ему не верю.
+Geloof je in spoken?	Ты веришь в привидения?
+Ik heb genoeg geld bij me.	У меня достаточно денег с собой.
+Ik heb niet genoeg tijd.	У меня недостаточно времени.
+Heb je genoeg gegeten?	Ты достаточно поел?
+Het gesprek duurde een uur.	Разговор длился час.
+Het was geen makkelijk gesprek.	Это был непростой разговор.
+Hoe ging het gesprek?	Как прошёл разговор?
+Ik heb haast, ik moet gaan.	Я спешу, мне нужно идти.
+Ik heb geen haast vandaag.	Сегодня я не спешу.
+Heb je haast?	Ты спешишь?
+Het was heel leuk.	Было очень здорово.
+Het is niet heel ver.	Это не очень далеко.
+Was het heel druk?	Там было очень людно?
+De heer Jansen wacht op u.	Господин Янсен ждёт вас.
+De heer is er nog niet.	Господин ещё не пришёл.
+Spreekt u met de heer De Vries?	Вы говорите с господином Де Фрисом?
+De helikopter landt op het dak.	Вертолёт садится на крышу.
+Ik ben nog nooit in een helikopter geweest.	Я никогда не был в вертолёте.
+Vlieg je wel eens met een helikopter?	Ты когда-нибудь летал на вертолёте?
+Ik woon hier al vijf jaar.	Я живу здесь уже пять лет.
+Ik werk hier niet meer.	Я здесь больше не работаю.
+Woon je hier in de buurt?	Ты живёшь здесь поблизости?
+Dit is een historisch gebouw.	Это историческое здание.
+Deze straat is niet historisch.	Эта улица не историческая.
+Is het centrum historisch?	Центр исторический?
+Amsterdam is de hoofdstad van Nederland.	Амстердам — столица Нидерландов.
+Den Haag is niet de hoofdstad.	Гаага — не столица.
+Wat is de hoofdstad van België?	Какая столица Бельгии?
+Ik huur een appartement in de stad.	Я снимаю квартиру в городе.
+Ik huur geen auto op vakantie.	Я не арендую машину в отпуске.
+Wil je een fiets huren?	Хочешь арендовать велосипед?
+Er is iemand aan de deur.	Кто-то у двери.
+Er is niemand thuis.	Дома никого нет.
+Ken je iemand in deze stad?	Ты знаешь кого-нибудь в этом городе?
+Alles is in orde.	Всё в порядке.
+Het is niet helemaal in orde.	Это не совсем в порядке.
+Is alles in orde met je?	У тебя всё в порядке?
+Ik check in bij de balie.	Я регистрируюсь у стойки.
+Ik check niet online in.	Я не регистрируюсь онлайн.
+Waar kan ik inchecken?	Где я могу зарегистрироваться?
+De intercity naar Amsterdam vertrekt om 9 uur.	Интерсити до Амстердама отправляется в 9.
+De intercity stopt niet in alle stations.	Интерсити не останавливается на всех станциях.
+Gaat deze intercity naar Eindhoven?	Этот интерсити идёт до Эйндховена?
+De vertraging irriteert me.	Задержка меня раздражает.
+Het irriteert me niet zo erg.	Меня это не очень раздражает.
+Irriteert het geluid je?	Шум тебя раздражает?
+Ik ben jaloers op je vakantie.	Я завидую твоему отпуску.
+Ik ben niet jaloers op hem.	Я ему не завидую.
+Ben je jaloers?	Ты ревнуешь?
+Ik koop een kaartje bij de automaat.	Я покупаю билет в автомате.
+Ik heb geen kaartje bij me.	У меня нет билета с собой.
+Waar kan ik een kaartje kopen?	Где можно купить билет?
+De kerk staat in het centrum.	Церковь находится в центре.
+Ik ga niet naar de kerk.	Я не хожу в церковь.
+Is die kerk oud?	Эта церковь старая?
+Ik kijk naar het nieuws.	Я смотрю новости.
+Ik kijk niet veel televisie.	Я не много смотрю телевизор.
+Waar kijk je naar?	На что ты смотришь?
+Kom op, we zijn laat!	Давай, мы опаздываем!
+Kom op, niet opgeven!	Давай, не сдавайся!
+Kom op, ga je mee?	Ну давай, пойдёшь со мной?
+Studenten krijgen korting.	Студенты получают скидку.
+Er is geen korting op deze producten.	На эти товары нет скидки.
+Hoeveel korting krijg ik?	Какую скидку я получу?
+Het is vandaag erg koud.	Сегодня очень холодно.
+Het water is niet koud.	Вода не холодная.
+Is het buiten koud?	На улице холодно?
+We gaan naar de kroeg na het werk.	Мы идём в бар после работы.
+Ik ga niet vaak naar de kroeg.	Я не часто хожу в бар.
+Zullen we naar de kroeg gaan?	Пойдём в бар?
+Ik ben over een kwartier klaar.	Я буду готов через четверть часа.
+Het duurt geen kwartier meer.	Это займёт меньше четверти часа.
+Kun je een kwartiertje wachten?	Можешь подождать минут пятнадцать?
+Het vliegtuig landt om zes uur.	Самолёт приземляется в шесть часов.
+We landen niet op Schiphol.	Мы не приземляемся в Схипхоле.
+Waar landen we?	Где мы приземляемся?
+De trein rijdt langzaam.	Поезд едет медленно.
+Hij praat niet langzaam genoeg.	Он говорит недостаточно медленно.
+Kun je wat langzamer rijden?	Можешь ехать помедленнее?
+Ik laat mijn tas hier.	Я оставлю сумку здесь.
+Laat me niet alleen.	Не оставляй меня одного.
+Kun je me even met rust laten?	Можешь оставить меня в покое?
+Dit lied ken ik goed.	Эту песню я хорошо знаю.
+Ik ken dit lied niet.	Я не знаю эту песню.
+Welk lied wil je horen?	Какую песню ты хочешь услышать?
+Ga bij de rotonde links.	На кругу поверни налево.
+Het is niet links, maar rechts.	Это не слева, а справа.
+Is het links of rechts?	Это налево или направо?
+Ik loop elke dag naar de winkel.	Я каждый день хожу в магазин пешком.
+Ik loop niet graag in de regen.	Я не люблю ходить под дождём.
+Loop je mee naar het station?	Пойдёшь со мной до станции?
+Ik ga lopend naar mijn werk.	Я хожу на работу пешком.
+Lopend duurt het niet lang.	Пешком это занимает недолго.
+Ga je lopend of met de fiets?	Ты пойдёшь пешком или на велосипеде?
+De hond loopt los in het park.	Собака бегает свободно в парке.
+Je schoenveters zitten los.	Твои шнурки развязаны.
+Zit deze knoop los?	Эта пуговица болтается?
+Ik mail je de informatie vanavond.	Я пришлю тебе информацию по почте сегодня вечером.
+Ik mail niet vaak meer.	Я уже не часто пишу электронные письма.
+Kun je me de details mailen?	Можешь прислать мне детали по почте?
+Ik ga meestal met de fiets.	Я обычно езжу на велосипеде.
+Ik eet meestal niet zo laat.	Я обычно не ем так поздно.
+Werk je meestal thuis?	Ты обычно работаешь дома?
+De metro is snel en goedkoop.	Метро быстрое и дешёвое.
+Er is geen metro in deze stad.	В этом городе нет метро.
+Waar is het dichtstbijzijnde metrostation?	Где ближайшая станция метро?
+De minister geeft een toespraak.	Министр произносит речь.
+De minister is er vandaag niet.	Министра сегодня нет.
+Wie is de minister van onderwijs?	Кто министр образования?
+De trein vertrekt over vijf minuten.	Поезд отправляется через пять минут.
+Ik heb geen minuut te verliezen.	У меня нет ни минуты лишней.
+Hoeveel minuten duurt het nog?	Сколько ещё минут это займёт?
+Dit gebouw is heel modern.	Это здание очень современное.
+Mijn huis is niet zo modern.	Мой дом не такой современный.
+Is de keuken modern?	Кухня современная?
+Ik rijd op een motor naar mijn werk.	Я езжу на работу на мотоцикле.
+Ik heb geen motor.	У меня нет мотоцикла.
+Heb je een rijbewijs voor de motor?	У тебя есть права на мотоцикл?
+Ik ga naar de supermarkt.	Я иду в супермаркет.
+Ik ga vandaag niet naar kantoor.	Я сегодня не пойду в офис.
+Waar ga je naartoe?	Куда ты идёшь?
+De test was negatief.	Тест был отрицательным.
+Wees niet zo negatief.	Не будь таким негативным.
+Is je reactie negatief?	Твоя реакция отрицательная?
+Ik ben nerveus voor het examen.	Я нервничаю перед экзаменом.
+Ik ben niet nerveus voor de presentatie.	Я не нервничаю перед презентацией.
+Ben je nerveus?	Ты нервничаешь?
+Ik heb nog tijd.	У меня ещё есть время.
+De bus is er nog niet.	Автобус ещё не приехал.
+Heb je nog vragen?	У тебя ещё есть вопросы?
+Dit is normaal gedrag.	Это нормальное поведение.
+Dit is niet normaal.	Это ненормально.
+Is dit normaal hier?	Это здесь нормально?
+Ik blijf thuis omdat ik ziek ben.	Я остаюсь дома, потому что болею.
+Ik ga niet mee omdat ik moet werken.	Я не пойду, потому что мне нужно работать.
+Waarom niet? Omdat het regent?	Почему нет? Потому что идёт дождь?
+De omroeper meldt een vertraging.	Диктор объявляет о задержке.
+Ik hoor de omroeper niet goed.	Я плохо слышу диктора.
+Wat zei de omroeper?	Что сказал диктор?
+Ik ben onderweg naar huis.	Я по пути домой.
+Ik ben nog niet onderweg.	Я ещё не в пути.
+Ben je al onderweg?	Ты уже в пути?
+De boeken liggen op tafel.	Книги лежат на столе.
+De sleutels liggen niet op de plank.	Ключи не лежат на полке.
+Ligt je telefoon op het bureau?	Твой телефон лежит на столе?
+Ik reis met het openbaar vervoer.	Я езжу на общественном транспорте.
+Ik neem geen openbaar vervoer.	Я не пользуюсь общественным транспортом.
+Gebruik je het openbaar vervoer?	Ты пользуешься общественным транспортом?
+Ik haal je op om acht uur.	Я заберу тебя в восемь.
+Ik kan je vandaag niet ophalen.	Я не могу тебя сегодня забрать.
+Kun je me ophalen van het station?	Можешь забрать меня со станции?
+Dit is de beste oplossing.	Это лучшее решение.
+Er is geen makkelijke oplossing.	Нет простого решения.
+Heb je een oplossing voor dit probleem?	У тебя есть решение этой проблемы?
+Schiet op, we moeten gaan!	Поторопись, нам пора идти!
+Het schiet niet erg op.	Дело не очень продвигается.
+Schiet het een beetje op?	Ты поторапливаешься?
+Ik betaal met mijn ov-chipkaart.	Я плачу транспортной картой.
+Mijn ov-chipkaart is niet opgeladen.	Моя транспортная карта не пополнена.
+Waar kan ik een ov-chipkaart kopen?	Где можно купить транспортную карту?
+De trein vertrekt over tien minuten.	Поезд отправляется через десять минут.
+Ik weet niet veel over dit onderwerp.	Я мало знаю об этой теме.
+Waar praten jullie over?	О чём вы говорите?
+Ik stap over in Utrecht.	Я пересаживаюсь в Утрехте.
+Je hoeft niet over te stappen.	Тебе не нужно пересаживаться.
+Waar moet ik overstappen?	Где мне пересаживаться?
+Pardon, mag ik er even langs?	Извините, можно пройти?
+Pardon, ik hoorde u niet.	Простите, я вас не расслышал.
+Pardon, kunt u dat herhalen?	Простите, можете повторить?
+We passeren de grens.	Мы пересекаем границу.
+De trein passeert dit station niet.	Поезд не проезжает эту станцию.
+Passeren we Rotterdam?	Мы проезжаем Роттердам?
+Mag ik uw plaatsbewijs zien?	Могу я увидеть ваш билет?
+Ik heb geen geldig plaatsbewijs.	У меня нет действительного билета.
+Waar kan ik een plaatsbewijs kopen?	Где можно купить билет?
+Ik heb een plan voor het weekend.	У меня есть план на выходные.
+Ik heb geen plan voor vanavond.	У меня нет плана на сегодняшний вечер.
+Wat is je plan?	Какой у тебя план?
+Ik kijk op de plattegrond.	Я смотрю на карту.
+Op de plattegrond staat dit gebouw niet.	На карте этого здания нет.
+Heb je een plattegrond van de stad?	У тебя есть карта города?
+We spreken af op het plein.	Мы встречаемся на площади.
+Er is geen plein in deze buurt.	В этом районе нет площади.
+Hoe heet dit plein?	Как называется эта площадь?
+Het uitzicht is prachtig.	Вид великолепный.
+Het weer is vandaag niet prachtig.	Погода сегодня не прекрасная.
+Vind je dit schilderij prachtig?	Тебе эта картина кажется прекрасной?
+Het was een prettige reis.	Это была приятная поездка.
+Het gesprek was niet prettig.	Разговор был неприятным.
+Had je een prettige vlucht?	У тебя был приятный полёт?
+Ik krijg twintig procent korting.	Я получаю двадцать процентов скидки.
+Ik betaal geen extra procenten.	Я не плачу дополнительные проценты.
+Hoeveel procent korting is er?	Сколько процентов скидка?
+Dit is een proef met nieuwe treinen.	Это эксперимент с новыми поездами.
+De proef is nog niet klaar.	Эксперимент ещё не завершён.
+Hoe gaat de proef?	Как идёт эксперимент?
+Ik wil de wijn even proeven.	Я хочу попробовать вино.
+Ik proef geen verschil.	Я не чувствую разницы.
+Wil je even proeven?	Хочешь попробовать?
+Ik luister naar de radio in de auto.	Я слушаю радио в машине.
+Ik luister niet vaak naar de radio.	Я не часто слушаю радио.
+Staat de radio aan?	Радио включено?
+Je moet hier rechtdoor gaan.	Тебе нужно идти здесь прямо.
+Niet rechtdoor, maar links.	Не прямо, а налево.
+Moet ik hier rechtdoor?	Мне здесь идти прямо?
+Het station is rechts.	Станция справа.
+Het is niet rechts, maar links.	Это не справа, а слева.
+Moet ik hier rechts afslaan?	Мне здесь повернуть направо?
+Er is veel reclame op televisie.	На телевидении много рекламы.
+Ik kijk geen reclame.	Я не смотрю рекламу.
+Irriteert de reclame je?	Реклама тебя раздражает?
+De reis duurt drie uur.	Поездка длится три часа.
+Het was geen lange reis.	Это была недолгая поездка.
+Hoe was je reis?	Как прошла твоя поездка?
+Ik reis graag met de trein.	Я люблю путешествовать на поезде.
+Ik reis niet vaak voor mijn werk.	Я не часто путешествую по работе.
+Reis je graag?	Ты любишь путешествовать?
+De reizigers wachten op de trein.	Пассажиры ждут поезд.
+Er zijn niet veel reizigers vandaag.	Сегодня не много пассажиров.
+Bent u een frequente reiziger?	Вы часто путешествуете?
+Ik ren naar de bus.	Я бегу к автобусу.
+Ik ren niet graag.	Я не люблю бегать.
+Waarom ren je?	Почему ты бежишь?
+Het resultaat is positief.	Результат положительный.
+Het resultaat is niet wat ik verwachtte.	Результат не тот, что я ожидал.
+Wat is het resultaat?	Какой результат?
+Ik koop een retour naar Den Haag.	Я покупаю билет туда-обратно до Гааги.
+Ik neem geen retour, alleen heen.	Я беру не туда-обратно, только туда.
+Is een retour goedkoper?	Билет туда-обратно дешевле?
+Ik rijd elke dag naar mijn werk.	Я каждый день езжу на работу на машине.
+Ik rijd niet zo snel.	Я не езжу так быстро.
+Rijd jij of rijd ik?	Ты ведёшь или я?
+De rit duurde een half uur.	Поездка заняла полчаса.
+Het was geen makkelijke rit.	Это была непростая поездка.
+Hoe lang duurt de rit?	Сколько длится поездка?
+We rijden over de ring rond Amsterdam.	Мы едем по кольцевой вокруг Амстердама.
+De ring is niet zo druk vandaag.	Кольцевая сегодня не такая загруженная.
+Moeten we over de ring?	Нам нужно ехать по кольцевой?
+De rivier stroomt door de stad.	Река течёт через город.
+Deze rivier is niet diep.	Эта река неглубокая.
+Hoe heet deze rivier?	Как называется эта река?
+Ik neem de roltrap naar boven.	Я поднимаюсь на эскалаторе.
+De roltrap werkt niet.	Эскалатор не работает.
+Waar is de roltrap?	Где эскалатор?
+Het is hier lekker rustig.	Здесь приятно тихо.
+De buurt is niet zo rustig.	Район не такой тихий.
+Is het rustig op je werk?	На работе спокойно?
+De film was nogal saai.	Фильм был довольно скучным.
+Het werk is niet saai.	Работа не скучная.
+Vind je het saai?	Тебе скучно?
+Het schip vaart naar Engeland.	Корабль плывёт в Англию.
+Het schip is nog niet vertrokken.	Корабль ещё не отплыл.
+Hoe groot is het schip?	Насколько большой корабль?
+De straten zijn schoon.	Улицы чистые.
+De kamer is niet schoon.	Комната не чистая.
+Is de trein schoon?	Поезд чистый?
+Ik ga met de scooter naar school.	Я езжу в школу на скутере.
+Ik heb geen scooter.	У меня нет скутера.
+Rijd je op een scooter?	Ты ездишь на скутере?
+De winkels sluiten om zes uur.	Магазины закрываются в шесть.
+De deur sluit niet goed.	Дверь плохо закрывается.
+Hoe laat sluit de supermarkt?	Во сколько закрывается супермаркет?
+Het eten smaakt goed.	Еда вкусная.
+De koffie smaakt niet lekker.	Кофе невкусный.
+Hoe smaakt het?	Как на вкус?
+De snelweg is druk in de ochtend.	Шоссе загружено утром.
+De snelweg is niet ver hier vandaan.	Шоссе недалеко отсюда.
+Is er een snelweg naar Rotterdam?	Есть шоссе до Роттердама?
+De trein vertrekt van spoor vijf.	Поезд отправляется с пятой платформы.
+De trein staat niet op dit spoor.	Поезд не на этой платформе.
+Van welk spoor vertrekt de trein?	С какой платформы отправляется поезд?
+In de spits is het druk.	В час пик людно.
+Ik reis niet graag in de spits.	Я не люблю ездить в час пик.
+Is het nu spits?	Сейчас час пик?
+Ik stap in de trein.	Я сажусь в поезд.
+Ik stap hier niet uit.	Я здесь не выхожу.
+Waar stap je uit?	Где ты выходишь?
+Het station is in het centrum.	Вокзал находится в центре.
+Het station is niet ver.	Вокзал недалеко.
+Hoe kom ik naar het station?	Как добраться до вокзала?
+De trein staat stil op het perron.	Поезд стоит на перроне.
+We staan niet stil in de file.	Мы не стоим в пробке.
+Waarom staan we stil?	Почему мы стоим?
+Ik heb een suggestie voor je.	У меня есть предложение для тебя.
+Ik heb geen suggesties.	У меня нет предложений.
+Heb je een suggestie?	У тебя есть предложение?
+Ik neem een taxi naar het hotel.	Я беру такси до отеля.
+Ik neem geen taxi, te duur.	Я не беру такси, слишком дорого.
+Hoeveel kost een taxi naar het centrum?	Сколько стоит такси до центра?
+Mijn telefoon ligt op tafel.	Мой телефон лежит на столе.
+Ik heb mijn telefoon niet bij me.	У меня нет с собой телефона.
+Mag ik je telefoon even lenen?	Можно одолжить твой телефон?
+We zitten op het terras.	Мы сидим на террасе.
+Het terras is niet open vandaag.	Терраса сегодня не открыта.
+Zullen we op het terras zitten?	Сядем на террасе?
+Ik ga te voet naar het park.	Я иду пешком в парк.
+Te voet duurt het niet lang.	Пешком это недолго.
+Ga je te voet of met de fiets?	Ты идёшь пешком или на велосипеде?
+Ik heb genoeg tijd.	У меня достаточно времени.
+Ik heb geen tijd vandaag.	У меня сегодня нет времени.
+Heb je tijd om te praten?	У тебя есть время поговорить?
+Ik heb een goede tip voor je.	У меня есть хороший совет для тебя.
+Ik heb geen tips.	У меня нет советов.
+Heb je tips voor Amsterdam?	У тебя есть советы по Амстердаму?
+Ik ga toch naar het feest.	Я всё-таки пойду на вечеринку.
+Ik ga toch niet mee.	Я всё же не пойду.
+Ga je toch?	Ты всё-таки идёшь?
+De tocht door de bergen was mooi.	Поездка по горам была красивой.
+Het was geen makkelijke tocht.	Это была непростая поездка.
+Hoe lang duurt de tocht?	Сколько длится поездка?
+Ik ben het totaal met je eens.	Я полностью с тобой согласен.
+Ik begrijp het totaal niet.	Я совсем не понимаю.
+Ben je het totaal vergeten?	Ты совсем забыл?
+Ik neem de tram naar het museum.	Я еду на трамвае в музей.
+De tram stopt hier niet.	Трамвай здесь не останавливается.
+Welke tram gaat naar het centrum?	Какой трамвай идёт в центр?
+De trein naar Rotterdam is vertraagd.	Поезд до Роттердама задерживается.
+De trein rijdt vandaag niet.	Поезд сегодня не ходит.
+Hoe laat vertrekt de trein?	Во сколько отправляется поезд?
+Ik check uit bij de poortjes.	Я отмечаю выход у турникетов.
+Vergeet niet uit te checken.	Не забудь отметить выход.
+Heb je uitgecheckt?	Ты отметил выход?
+De les duurt een uur.	Урок длится час.
+Het duurt geen uur.	Это займёт не час.
+Hoeveel uur werk je vandaag?	Сколько часов ты работаешь сегодня?
+Ik ga vaak naar de bioscoop.	Я часто хожу в кино.
+Ik reis niet vaak.	Я не часто путешествую.
+Ga je vaak uit eten?	Ты часто ходишь в ресторан?
+De bladeren vallen van de bomen.	Листья падают с деревьев.
+Ik val niet zo snel.	Я не так быстро падаю.
+Ben je gevallen?	Ты упал?
+De trein komt van Amsterdam.	Поезд прибывает из Амстердама.
+Ik kom niet van hier.	Я не отсюда.
+Waar kom je vandaan?	Откуда ты?
+We varen over het meer.	Мы плывём по озеру.
+Ik vaar niet graag bij slecht weer.	Я не люблю плавать в плохую погоду.
+Vaar je wel eens?	Ты иногда плаваешь на лодке?
+Dit is vast de goede weg.	Это наверняка правильная дорога.
+Dat is vast niet waar.	Это наверняка неправда.
+Is dit vast de laatste trein?	Это точно последний поезд?
+De situatie verandert snel.	Ситуация быстро меняется.
+De regels veranderen niet.	Правила не меняются.
+Verandert er iets?	Что-то меняется?
+De trein is vertraagd.	Поезд задержан.
+De vlucht is niet vertraagd.	Рейс не задержан.
+Is de bus vertraagd?	Автобус задержан?
+Er is een vertraging van tien minuten.	Задержка десять минут.
+Er is geen vertraging vandaag.	Сегодня нет задержек.
+Hoeveel vertraging is er?	Какая задержка?
+De bus vertrekt om half negen.	Автобус отправляется в половине девятого.
+De trein vertrekt niet op tijd.	Поезд не отправляется вовремя.
+Hoe laat vertrek je?	Во сколько ты уезжаешь?
+Het openbaar vervoer is goed hier.	Общественный транспорт здесь хороший.
+Er is geen vervoer na middernacht.	После полуночи нет транспорта.
+Hoe is het vervoer in deze stad?	Какой транспорт в этом городе?
+De fiets is een populair vervoermiddel.	Велосипед — популярное транспортное средство.
+Dit is geen geschikt vervoermiddel.	Это не подходящее транспортное средство.
+Welk vervoermiddel gebruik je?	Каким транспортом ты пользуешься?
+De supermarkt is vlakbij.	Супермаркет рядом.
+Het station is niet vlakbij.	Станция не рядом.
+Is er een café vlakbij?	Есть кафе поблизости?
+Ik vlieg morgen naar Londen.	Я завтра лечу в Лондон.
+Ik vlieg niet graag.	Я не люблю летать.
+Vlieg je vaak?	Ты часто летаешь?
+Het vliegtuig vertrekt om 7 uur.	Самолёт вылетает в 7 часов.
+Het vliegtuig is niet vol.	Самолёт не полный.
+Met welk vliegtuig vlieg je?	Каким самолётом ты летишь?
+De vlucht duurt twee uur.	Полёт длится два часа.
+De vlucht is niet geannuleerd.	Рейс не отменён.
+Hoe was je vlucht?	Как прошёл твой полёт?
+De trein is vol.	Поезд полный.
+De bus is niet vol.	Автобус не полный.
+Is het hotel vol?	Отель полный?
+Ik sta vroeg op.	Я встаю рано.
+Ik sta niet graag vroeg op.	Я не люблю рано вставать.
+Kom je vroeg of laat?	Ты придёшь рано или поздно?
+Het waait hard vandaag.	Сегодня сильный ветер.
+Het waait niet zo hard.	Ветер не такой сильный.
+Waait het buiten?	На улице ветрено?
+Ik wacht op de bus.	Я жду автобус.
+Ik wacht niet lang.	Я не жду долго.
+Hoelang moet ik wachten?	Сколько мне ждать?
+Ik ga met de auto, want het regent.	Я еду на машине, потому что идёт дождь.
+Ik kom niet, want ik ben ziek.	Я не приду, потому что болею.
+Waarom niet? Want je moet werken?	Почему нет? Потому что тебе нужно работать?
+We varen met een zeilboot.	Мы плывём на парусной лодке.
+Ik heb geen zeilboot.	У меня нет парусной лодки.
+Heb je wel eens op een zeilboot gevaren?	Ты когда-нибудь плавал на парусной лодке?
+We gaan dit weekend zeilen.	Мы в эти выходные поплывём под парусом.
+Ik zeil niet vaak.	Я не часто хожу под парусом.
+Kun je zeilen?	Ты умеешь ходить под парусом?
+Ik doe het zelf.	Я сделаю это сам.
+Ik kan het niet zelf doen.	Я не могу сделать это сам.
+Doe je het zelf of vraag je hulp?	Ты сделаешь это сам или попросишь помощь?
+Ik reis zonder bagage.	Я путешествую без багажа.
+Ik ga niet zonder jou.	Я не пойду без тебя.
+Kun je leven zonder internet?	Ты можешь жить без интернета?
+We rijden naar het zuiden.	Мы едем на юг.
+Het zuiden is niet ver.	Юг недалеко.
+Woon je in het zuiden van Nederland?	Ты живёшь на юге Нидерландов?
+De koffer is erg zwaar.	Чемодан очень тяжёлый.
+De tas is niet zwaar.	Сумка не тяжёлая.
+Is je rugzak zwaar?	Твой рюкзак тяжёлый?
