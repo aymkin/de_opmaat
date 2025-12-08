@@ -79,3 +79,14 @@ Common mistakes to watch for:
 - User's native language: Russian/Ukrainian
 - Course level: A2 (elementary)
 - Provide bilingual support when helpful (Dutch ↔ Russian/English)
+- How to generate stories and postactions:
+ What's included:
+
+  - The story text with bolded verbs for easy pattern recognition
+  - Grammar summary tables showing each pattern
+  - Vocabulary list (Dutch → Russian → English)
+
+  Would you like me to:
+  1. Create more stories with different themes (shopping, daily routine)?
+  2. Add audio script markers for ElevenLabs TTS?
+  3. Create an Anki-compatible version of the story sentences?
