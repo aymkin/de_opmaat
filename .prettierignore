@@ -1,0 +1,5 @@
+node_modules/
+*.pdf
+*.mp3
+*.docx
+*_anki.txt
