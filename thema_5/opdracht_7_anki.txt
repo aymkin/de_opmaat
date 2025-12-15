@@ -1,0 +1,100 @@
+#separator:tab
+#html:false
+Wat doe je na de lunch?	Что ты делаешь после обеда?
+Na de lunch doe ik boodschappen.	После обеда я делаю покупки.
+Na de lunch ga ik wandelen.	После обеда я иду гулять.
+Van hoe laat tot hoe laat duurt de les?	С которого до которого часа длится урок?
+De les duurt van negen uur tot half elf.	Урок длится с девяти до половины одиннадцатого.
+De les duurt van tien uur tot kwart voor twaalf.	Урок длится с десяти до без четверти двенадцать.
+Dat is anderhalf uur.	Это полтора часа.
+Wat ga je na de les doen?	Что ты будешь делать после урока?
+Na de les ga ik naar huis.	После урока я иду домой.
+Daarna ga ik lunchen en dan doe ik mijn huiswerk.	Потом я обедаю, а затем делаю домашнее задание.
+Na de les ga ik eerst koffie drinken met vrienden.	После урока я сначала пью кофе с друзьями.
+Vervolgens ga ik naar de supermarkt.	Затем я иду в супермаркет.
+Hoe laat ontbijt je?	Во сколько ты завтракаешь?
+Ik ontbijt om half acht 's ochtends.	Я завтракаю в половине восьмого утра.
+Op werkdagen ontbijt ik om kwart over zeven.	В рабочие дни я завтракаю в четверть восьмого.
+In het weekend ontbijt ik later, rond tien uur.	На выходных я завтракаю позже, около десяти.
+Hoe laat lunch je?	Во сколько ты обедаешь?
+Ik lunch meestal om twaalf uur.	Я обычно обедаю в двенадцать.
+Ik lunch tussen twaalf en één.	Я обедаю между двенадцатью и часом.
+Wat doe je graag in de winter?	Что ты любишь делать зимой?
+In de winter ga ik graag schaatsen.	Зимой я люблю кататься на коньках.
+In de winter blijf ik graag thuis.	Зимой я люблю оставаться дома.
+Het is te koud om buiten te sporten.	Слишком холодно, чтобы заниматься спортом на улице.
+In welk seizoen ga je op vakantie?	В какое время года ты едешь в отпуск?
+Ik ga meestal in de zomer op vakantie.	Я обычно езжу в отпуск летом.
+Ik ga het liefst in de herfst op vakantie.	Я больше всего люблю ездить в отпуск осенью.
+Dan is het niet zo druk.	Тогда не так людно.
+Wat heb je vorige week woensdag gedaan?	Что ты делал в прошлую среду?
+Vorige week woensdag heb ik Nederlands geleerd.	В прошлую среду я учил нидерландский.
+Daarna ben ik naar de sportschool gegaan.	Потом я пошёл в спортзал.
+Wat doe je elk jaar op 1 januari?	Что ты делаешь каждый год 1 января?
+Op 1 januari vier ik Nieuwjaar met mijn familie.	1 января я отмечаю Новый год с семьёй.
+We eten oliebollen en kijken naar vuurwerk.	Мы едим олиболлен и смотрим фейерверк.
+Wat doe je meestal in het weekend?	Что ты обычно делаешь на выходных?
+In het weekend slaap ik uit.	На выходных я отсыпаюсь.
+Daarna ontbijt ik laat, rond tien uur.	Потом я завтракаю поздно, около десяти.
+'s Middags ga ik vaak wandelen of sporten.	Днём я часто гуляю или занимаюсь спортом.
+Wat heb je afgelopen weekend gedaan?	Что ты делал в прошлые выходные?
+Afgelopen weekend ben ik naar Amsterdam geweest.	В прошлые выходные я был в Амстердаме.
+Ik heb het Rijksmuseum bezocht.	Я посетил Рейксмюсеум.
+Daarna heb ik in de stad gewinkeld.	Потом я ходил по магазинам в городе.
+Wat ga je komend weekend doen?	Что ты будешь делать в эти выходные?
+Komend weekend ga ik naar een concert.	В эти выходные я иду на концерт.
+Het begint om acht uur 's avonds.	Он начинается в восемь вечера.
+Daarna ga ik met vrienden naar de kroeg.	Потом я иду с друзьями в бар.
+Wat heb je afgelopen maand gedaan?	Что ты делал в прошлом месяце?
+Afgelopen maand heb ik veel gewerkt.	В прошлом месяце я много работал.
+Ik heb ook een nieuwe cursus Nederlands gevolgd.	Я также прошёл новый курс нидерландского.
+Die was elke dinsdag van zes tot acht.	Он был каждый вторник с шести до восьми.
+Wat ga je volgende maand doen?	Что ты будешь делать в следующем месяце?
+Volgende maand ga ik op vakantie naar Spanje.	В следующем месяце я еду в отпуск в Испанию.
+Ik vertrek op 15 juli en kom op 29 juli terug.	Я уезжаю 15 июля и возвращаюсь 29 июля.
+Volg je een studie?	Ты учишься?
+Ja, ik volg een cursus Nederlands.	Да, я прохожу курс нидерландского.
+Ik studeer op maandag en woensdag.	Я учусь в понедельник и среду.
+Op welke dagen studeer je?	В какие дни ты учишься?
+Heb je een baan?	У тебя есть работа?
+Ja, ik heb een baan als ontwikkelaar.	Да, я работаю разработчиком.
+Op welke dagen werk je?	В какие дни ты работаешь?
+Ik werk van maandag tot en met vrijdag.	Я работаю с понедельника по пятницу.
+Ik werk van negen tot vijf.	Я работаю с девяти до пяти.
+Wat doe je over 2 jaar?	Что ты будешь делать через 2 года?
+Over twee jaar werk ik hopelijk nog steeds.	Через два года я, надеюсь, всё ещё работаю.
+Ik wil dan ook vloeiend Nederlands spreken.	Я также хочу тогда свободно говорить по-нидерландски.
+Wat ga je komende zaterdag doen?	Что ты будешь делать в эту субботу?
+Komende zaterdag ga ik naar een verjaardag.	В эту субботу я иду на день рождения.
+Wat heb je afgelopen vrijdag gedaan?	Что ты делал в прошлую пятницу?
+Afgelopen vrijdag ben ik naar de bioscoop geweest.	В прошлую пятницу я был в кино.
+Wat doe je over vijf jaar?	Что ты будешь делать через пять лет?
+Over vijf jaar wil ik een eigen huis hebben.	Через пять лет я хочу иметь собственный дом.
+Wat wil je volgend jaar doen?	Что ты хочешь сделать в следующем году?
+Volgend jaar wil ik naar Japan reizen.	В следующем году я хочу поехать в Японию.
+Dat is mijn droom.	Это моя мечта.
+Hoe laat sta je op?	Во сколько ты встаёшь?
+Ik sta meestal om zeven uur op.	Я обычно встаю в семь часов.
+In het weekend slaap ik uit tot negen uur.	На выходных я сплю до девяти.
+Van hoe laat tot hoe laat werk je?	С которого до которого часа ты работаешь?
+Ik werk van negen uur 's ochtends tot vijf uur 's middags.	Я работаю с девяти утра до пяти вечера.
+Op welke dag ga je naar de sportschool?	В какой день ты ходишь в спортзал?
+Ik ga op dinsdag en donderdag naar de sportschool.	Я хожу в спортзал во вторник и четверг.
+In welk seizoen ga je het liefst op vakantie?	В какое время года ты больше всего любишь ездить в отпуск?
+Ik ga het liefst in de zomer op vakantie.	Я больше всего люблю ездить в отпуск летом.
+Want dan is het lekker warm.	Потому что тогда приятно тепло.
+Hoeveel jaar geleden ben je naar Nederland gekomen?	Сколько лет назад ты приехал в Нидерланды?
+Ik ben twee jaar geleden naar Nederland gekomen.	Я приехал в Нидерланды два года назад.
+Werk je dan? Studeer je dan?	Ты тогда работаешь? Ты тогда учишься?
+Ja, ik werk dan nog steeds.	Да, я тогда всё ещё работаю.
+Nee, ik studeer dan niet meer.	Нет, я тогда уже не учусь.
+De lente begint in maart.	Весна начинается в марте.
+De zomer begint in juni.	Лето начинается в июне.
+De herfst begint in september.	Осень начинается в сентябре.
+De winter begint in december.	Зима начинается в декабре.
+Wat doe je 's avonds?	Что ты делаешь вечером?
+'s Avonds kijk ik televisie.	Вечером я смотрю телевизор.
+Wat doe je 's ochtends?	Что ты делаешь утром?
+'s Ochtends ga ik naar mijn werk.	Утром я иду на работу.
+Wat doe je 's middags?	Что ты делаешь днём?
+'s Middags heb ik vaak een vergadering.	Днём у меня часто собрание.
