@@ -1,0 +1,172 @@
+# 150 Zinnen - Daily Standup Vocabulaire (Zipf's Law)
+
+## Werkwoorden: ZIJN / HEBBEN / GAAN / DOEN / KOMEN
+
+1. Ik ben bezig met een ticket.
+2. Hij is vandaag niet aanwezig.
+3. We zijn vroeg vandaag.
+4. Ben je morgen vrij?
+5. Zij zijn op kantoor.
+6. Ik heb een vraag.
+7. Hij heeft een probleem.
+8. We hebben een vergadering.
+9. Heb je het ticket gezien?
+10. Zij hebben hulp nodig.
+11. Ik ga naar kantoor.
+12. Hij gaat aan de slag.
+13. We gaan door naar het volgende.
+14. Ga je vandaag werken?
+15. Zij gaan het fixen.
+16. Ik doe het vandaag.
+17. Hij doet het goed.
+18. We doen het samen.
+19. Doe je mee?
+20. Zij doen de review.
+21. Ik kom erop terug.
+22. Hij komt later.
+23. We komen bij je langs.
+24. Kom je naar de vergadering?
+25. Zij komen om twee uur.
+
+## Werkwoorden: WERKEN / BEGINNEN / MAKEN / HELPEN / KIJKEN
+
+26. Ik werk aan de PR.
+27. Hij werkt hard vandaag.
+28. We werken samen.
+29. Werk je thuis of op kantoor?
+30. Zij werken aan het project.
+31. Ik begin morgen.
+32. Hij begint met de tickets.
+33. We beginnen om negen uur.
+34. Begin je alvast?
+35. Zij beginnen volgende week.
+36. Ik maak een ticket aan.
+37. Hij maakt het af.
+38. We maken een plan.
+39. Maak je een PR?
+40. Zij maken goede voortgang.
+41. Ik help je graag.
+42. Hij helpt met de tests.
+43. We helpen elkaar.
+44. Help je even?
+45. Zij helpen het team.
+46. Ik kijk ernaar.
+47. Hij kijkt naar de code.
+48. We kijken samen.
+49. Kijk je even mee?
+50. Zij kijken naar de problemen.
+
+## Werkwoorden: WETEN / ZEGGEN / DENKEN / VRAGEN / ZETTEN
+
+51. Ik weet het niet.
+52. Hij weet waar het staat.
+53. We weten het al.
+54. Weet je wanneer het klaar is?
+55. Zij weten hoe het werkt.
+56. Ik zeg het even.
+57. Hij zegt dat het klaar is.
+58. We zeggen het door.
+59. Zeg je het tegen hem?
+60. Zij zeggen dat het werkt.
+61. Ik denk dat het goed is.
+62. Hij denkt erover na.
+63. We denken dat het kan.
+64. Denk je dat het lukt?
+65. Zij denken mee.
+66. Ik vraag het aan Suus.
+67. Hij vraagt om hulp.
+68. We vragen het na.
+69. Vraag je het even?
+70. Zij vragen om meer informatie.
+71. Ik zet het op review.
+72. Hij zet het ticket klaar.
+73. We zetten het door.
+74. Zet je het erin?
+75. Zij zetten het op de lijst.
+
+## Tijd: VANDAAG / MORGEN / GISTEREN / NU / LATER
+
+76. Vandaag heb ik veel te doen.
+77. Vandaag is donderdag.
+78. Wat doe je vandaag?
+79. Vandaag gaat het goed.
+80. Ik ben vandaag op kantoor.
+81. Morgen ben ik vrij.
+82. Morgen ga ik werken.
+83. Wat doe je morgen?
+84. Morgen komt het af.
+85. Hij is morgen niet aanwezig.
+86. Gisteren heb ik het gemaakt.
+87. Gisteren was de vergadering.
+88. Wat deed je gisteren?
+89. Gisteren liep het goed.
+90. Hij begon gisteren.
+91. Nu ben ik bezig.
+92. Nu ga ik beginnen.
+93. Wat doe je nu?
+94. Nu werkt het goed.
+95. Hij komt nu.
+96. Later kom ik erop terug.
+97. Later kijk ik ernaar.
+98. Wat doe je later?
+99. Later gaan we door.
+100. Hij komt later langs.
+
+## Kantoor vocabulaire
+
+101. Ik ga naar kantoor.
+102. Hij is op kantoor.
+103. We werken op kantoor.
+104. Ben je op kantoor?
+105. Het kantoor is dichtbij.
+106. Ik heb een vergadering.
+107. De vergadering duurt een uur.
+108. We hebben een korte vergadering.
+109. Is de vergadering al begonnen?
+110. Na de vergadering ga ik weg.
+111. Ik pak een ticket op.
+112. Dit ticket is van mij.
+113. We hebben veel tickets.
+114. Is het ticket al klaar?
+115. Hij werkt aan het ticket.
+116. De PR staat op review.
+117. Ik maak een PR aan.
+118. We bekijken de PR.
+119. Is de PR goedgekeurd?
+120. Hij heeft de PR gemerged.
+
+## Beschrijvende woorden
+
+121. Het is goed.
+122. Het gaat goed.
+123. Dat is heel goed.
+124. Goed bezig!
+125. Alles loopt goed.
+126. Dat is mooi.
+127. Mooi werk!
+128. Het ziet er mooi uit.
+129. Dat is een mooi resultaat.
+130. Mooi, laten we doorgaan.
+131. Het is klaar.
+132. Ben je klaar?
+133. De PR is klaar.
+134. We zijn bijna klaar.
+135. Alles is klaar.
+136. Ik ben bezig.
+137. Hij is druk bezig.
+138. We zijn ermee bezig.
+139. Ben je nog bezig?
+140. Lekker bezig!
+
+## Uitdrukkingen en reacties
+
+141. Oké, helemaal goed.
+142. Ja, precies.
+143. Geen probleem.
+144. Dat kan gebeuren.
+145. Tot zo!
+146. Succes!
+147. Dankjewel!
+148. Graag gedaan.
+149. Geef maar een seintje.
+150. Ik kom erop terug.
