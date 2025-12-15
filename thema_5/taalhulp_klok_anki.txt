@@ -1,0 +1,90 @@
+#separator:tab
+#html:false
+Hoe laat is het?	Который час?
+Het is tien uur.	Сейчас десять часов.
+Het is elf uur.	Сейчас одиннадцать часов.
+Het is twaalf uur.	Сейчас двенадцать часов.
+Het is één uur.	Сейчас час.
+Het is twee uur.	Сейчас два часа.
+Het is drie uur.	Сейчас три часа.
+Het is half elf.	Сейчас половина одиннадцатого. (10:30)
+Het is half twaalf.	Сейчас половина двенадцатого. (11:30)
+Het is half één.	Сейчас половина первого. (12:30)
+Het is half twee.	Сейчас половина второго. (13:30)
+Het is half drie.	Сейчас половина третьего. (14:30)
+Het is kwart over tien.	Сейчас четверть одиннадцатого. (10:15)
+Het is kwart over elf.	Сейчас четверть двенадцатого. (11:15)
+Het is kwart over twaalf.	Сейчас четверть первого. (12:15)
+Het is kwart voor elf.	Сейчас без четверти одиннадцать. (10:45)
+Het is kwart voor twaalf.	Сейчас без четверти двенадцать. (11:45)
+Het is kwart voor één.	Сейчас без четверти час. (12:45)
+Het is vijf over tien.	Сейчас пять минут одиннадцатого. (10:05)
+Het is tien over tien.	Сейчас десять минут одиннадцатого. (10:10)
+Het is vijf voor elf.	Сейчас без пяти одиннадцать. (10:55)
+Het is tien voor elf.	Сейчас без десяти одиннадцать. (10:50)
+Hoe laat begint de vergadering?	Во сколько начинается собрание?
+De vergadering begint om negen uur.	Собрание начинается в девять часов.
+De vergadering begint om half tien.	Собрание начинается в половине десятого. (9:30)
+Hoe laat vertrekt de trein?	Во сколько отправляется поезд?
+De trein vertrekt om kwart over acht.	Поезд отправляется в четверть девятого. (8:15)
+De trein vertrekt om half negen.	Поезд отправляется в половине девятого. (8:30)
+De trein vertrekt om kwart voor negen.	Поезд отправляется без четверти девять. (8:45)
+Hoe laat is je afspraak?	Во сколько твоя встреча?
+Mijn afspraak is om tien uur.	Моя встреча в десять часов.
+Mijn afspraak is om half elf.	Моя встреча в половине одиннадцатого. (10:30)
+Hoe laat moet je op je werk zijn?	Во сколько тебе нужно быть на работе?
+Ik moet om negen uur op mijn werk zijn.	Мне нужно быть на работе в девять.
+Ik moet om half negen beginnen.	Мне нужно начать в половине девятого. (8:30)
+Hoe laat eet je 's avonds?	Во сколько ты ужинаешь?
+We eten om zes uur.	Мы едим в шесть часов.
+We eten om half zeven.	Мы едим в половине седьмого. (18:30)
+Hoe laat ga je naar bed?	Во сколько ты ложишься спать?
+Ik ga om elf uur naar bed.	Я ложусь спать в одиннадцать.
+Ik ga om half twaalf naar bed.	Я ложусь спать в половине двенадцатого. (23:30)
+Hoe laat sta je op?	Во сколько ты встаёшь?
+Ik sta om zeven uur op.	Я встаю в семь часов.
+Ik sta om half acht op.	Я встаю в половине восьмого. (7:30)
+Hoe laat begint de film?	Во сколько начинается фильм?
+De film begint om acht uur.	Фильм начинается в восемь.
+De film begint om kwart over acht.	Фильм начинается в четверть девятого. (20:15)
+De film begint om half negen.	Фильм начинается в половине девятого. (20:30)
+Hoe laat is de winkel open?	Во сколько открывается магазин?
+De winkel is om negen uur open.	Магазин открывается в девять.
+De winkel sluit om zes uur.	Магазин закрывается в шесть.
+De winkel sluit om half tien.	Магазин закрывается в половине десятого. (21:30)
+Hoe laat kom je thuis?	Во сколько ты приходишь домой?
+Ik kom om vijf uur thuis.	Я прихожу домой в пять.
+Ik kom om half zes thuis.	Я прихожу домой в половине шестого. (17:30)
+Hoe laat spreken we af?	Во сколько мы договоримся?
+Laten we om drie uur afspreken.	Давай договоримся на три часа.
+Laten we om half vier afspreken.	Давай договоримся на половину четвёртого. (15:30)
+Om hoe laat wil je komen?	Во сколько ты хочешь прийти?
+Ik kom om twee uur.	Я приду в два часа.
+Ik kom rond half drie.	Я приду около половины третьего. (14:30)
+Het is bijna tien uur.	Уже почти десять.
+Het is net half elf geweest.	Только что было половина одиннадцатого.
+Het is iets na twaalven.	Немного после двенадцати.
+Het is iets voor zessen.	Немного до шести.
+Ik ben om tien uur 's ochtends vrij.	Я свободен в десять утра.
+Ik werk tot vijf uur 's middags.	Я работаю до пяти вечера.
+De les begint om negen uur 's ochtends.	Урок начинается в девять утра.
+Het feest begint om acht uur 's avonds.	Вечеринка начинается в восемь вечера.
+De apotheek is open van negen tot zes.	Аптека открыта с девяти до шести.
+De supermarkt is open van acht tot tien.	Супермаркет открыт с восьми до десяти.
+Kun je om drie uur komen?	Ты можешь прийти в три?
+Kun je om half vier komen?	Ты можешь прийти в половине четвёртого? (15:30)
+Sorry, ik ben te laat. Het is al half tien.	Извини, я опоздал. Уже половина десятого.
+Je bent vroeg! Het is pas kwart voor negen.	Ты рано! Ещё только без четверти девять.
+Hoe laat heb je pauze?	Во сколько у тебя перерыв?
+Ik heb pauze om half één.	У меня перерыв в половине первого. (12:30)
+Ik heb lunchpauze van twaalf tot één.	У меня обеденный перерыв с двенадцати до часу.
+De bus komt om kwart over.	Автобус приходит в четверть. (15 минут после часа)
+De bus komt om half.	Автобус приходит в половину.
+De bus komt om kwart voor.	Автобус приходит без четверти.
+We hebben nog een half uur.	У нас ещё полчаса.
+We hebben nog een kwartier.	У нас ещё четверть часа. (15 минут)
+Over een half uur ben ik klaar.	Через полчаса я буду готов.
+Over een kwartier vertrekken we.	Через четверть часа мы уезжаем.
+Ik bel je over een uurtje.	Я позвоню тебе через часик.
+Tot straks, om drie uur!	До скорого, в три часа!
+Tot vanmiddag om half twee!	До обеда, в половине второго! (13:30)
