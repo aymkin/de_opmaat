@@ -1,0 +1,110 @@
+#separator:tab
+#html:false
+Eerst moet je je aanmelden.	Сначала тебе нужно зарегистрироваться.
+Ik ga eerst douchen.	Сначала я приму душ.
+Eerst eten, dan werken.	Сначала поесть, потом работать.
+Wat doe je eerst?	Что ты делаешь сначала?
+Ik ontbijt eerst en dan ga ik naar mijn werk.	Сначала я завтракаю, а потом иду на работу.
+Dan kan je een film selecteren.	Потом ты можешь выбрать фильм.
+Dan gaan we naar huis.	Потом мы идём домой.
+En dan?	И потом?
+Wat doe je dan?	Что ты потом делаешь?
+Dan ben ik vrij.	Тогда я свободен.
+Daarna kan je een kaartje kopen.	После этого ты можешь купить билет.
+Daarna ga ik naar de sportschool.	После этого я иду в спортзал.
+Wat doe je daarna?	Что ты делаешь после этого?
+Daarna heb ik geen tijd meer.	После этого у меня больше нет времени.
+Ik werk eerst en daarna ga ik eten.	Сначала я работаю, а потом иду есть.
+Vervolgens kan je betalen.	Затем ты можешь оплатить.
+Vervolgens gingen we naar het restaurant.	Затем мы пошли в ресторан.
+Wat deed je vervolgens?	Что ты сделал затем?
+Vervolgens moet je op "OK" klikken.	Затем тебе нужно нажать "OK".
+Tot slot wil ik iedereen bedanken.	В заключение я хочу всех поблагодарить.
+Tot slot bekijken we de resultaten.	В заключение мы рассмотрим результаты.
+Wat zeg je tot slot?	Что ты скажешь в заключение?
+Tot slot nog een vraag.	В заключение ещё один вопрос.
+Ten slotte kan je een kaartje reserveren.	Наконец, ты можешь забронировать билет.
+Ten slotte wil ik nog iets zeggen.	Наконец, я хочу ещё кое-что сказать.
+Ten slotte is het niet zo moeilijk.	В конце концов, это не так сложно.
+De vergadering begint om negen uur.	Собрание начинается в девять часов.
+Veel Nederlanders eten om zes uur.	Многие нидерландцы едят в шесть часов.
+Om hoe laat kom je?	Во сколько ты придёшь?
+Ik kom om half acht.	Я приду в половине восьмого.
+We spreken af om drie uur.	Мы договоримся на три часа.
+Je kan me voor twaalf uur bellen.	Ты можешь позвонить мне до двенадцати.
+Ik ben voor vijf uur thuis.	Я буду дома до пяти.
+Kom je voor of na het eten?	Ты придёшь до или после еды?
+Voor de les moet je je huiswerk maken.	Перед уроком тебе нужно сделать домашнее задание.
+Ik drink altijd koffie voor mijn werk.	Я всегда пью кофе перед работой.
+Na de lunch controleer ik mijn mail.	После обеда я проверяю почту.
+Na het eten ga ik wandelen.	После еды я иду гулять.
+Wat doe je na je werk?	Что ты делаешь после работы?
+Na de film gingen we naar huis.	После фильма мы пошли домой.
+Ik ben na zessen thuis.	Я буду дома после шести.
+Ik werk tot vijf uur.	Я работаю до пяти.
+De winkel is open tot zes uur.	Магазин открыт до шести.
+Tot hoe laat werk je?	До скольких ты работаешь?
+Ik blijf tot het einde.	Я остаюсь до конца.
+Tot wanneer ben je in Nederland?	До когда ты в Нидерландах?
+De winkel is open van negen tot zes.	Магазин открыт с девяти до шести.
+Het instituut is van negen uur 's ochtends tot tien uur 's avonds open.	Институт открыт с девяти утра до десяти вечера.
+Van negen uur 's ochtends tot tien uur 's avonds.	С девяти утра до десяти вечера.
+De les duurt van tien tot elf.	Урок длится с десяти до одиннадцати.
+Van wanneer tot wanneer heb je vakantie?	С какого до какого у тебя отпуск?
+Tussen twaalf en één is de administratie gesloten.	С двенадцати до часу администрация закрыта.
+Ik kom tussen vijf en zes.	Я приду между пятью и шестью.
+Tussen de middag heb ik pauze.	В обед у меня перерыв.
+Ik bel je ergens tussen drie en vier.	Я позвоню тебе где-то между тремя и четырьмя.
+Op maandag ben ik vrij.	В понедельник я свободен.
+Op welke dag heb je les?	В какой день у тебя урок?
+Op zaterdag ga ik naar de markt.	В субботу я иду на рынок.
+Op vijf december vieren we pakjesavond.	Пятого декабря мы отмечаем вечер подарков.
+Op welke datum is je verjaardag?	Какого числа твой день рождения?
+Ik werk van dinsdag tot en met vrijdag.	Я работаю со вторника по пятницу включительно.
+Ik werk vier dagen per week: van dinsdag tot en met vrijdag.	Я работаю четыре дня в неделю: со вторника по пятницу включительно.
+De winkel is open van maandag tot en met zaterdag.	Магазин открыт с понедельника по субботу включительно.
+Van één tot en met vijf juni ben ik op vakantie.	С первого по пятое июня включительно я в отпуске.
+In de zomer neemt hij altijd drie weken vrij.	Летом он всегда берёт три недели отпуска.
+In juni begint de zomer.	В июне начинается лето.
+In het weekend gaan we graag naar de film.	На выходных мы любим ходить в кино.
+In welk seizoen ga je op vakantie?	В какое время года ты едешь в отпуск?
+In de winter is het koud in Nederland.	Зимой в Нидерландах холодно.
+In januari begint het nieuwe jaar.	В январе начинается новый год.
+Over drie weken heb ik vakantie.	Через три недели у меня отпуск.
+Over vijf maanden gaat mijn broer trouwen.	Через пять месяцев мой брат женится.
+Over twee jaar is zij klaar met haar studie.	Через два года она закончит учёбу.
+Over een uur ben ik klaar.	Через час я буду готов.
+Over hoeveel tijd kom je?	Через сколько ты придёшь?
+Over een half uur vertrekken we.	Через полчаса мы уезжаем.
+Volgend jaar willen ze naar Amerika gaan.	В следующем году они хотят поехать в Америку.
+Volgende maand begint de vakantie.	В следующем месяце начинается отпуск.
+Volgende week woensdag ben ik jarig.	В следующую среду у меня день рождения.
+Volgende keer doe ik het beter.	В следующий раз я сделаю лучше.
+Wat zijn je plannen voor volgend jaar?	Какие у тебя планы на следующий год?
+Komende woensdag ben ik jarig.	В эту среду у меня день рождения.
+Komend weekend gaan we naar Haarlem.	В эти выходные мы едем в Харлем.
+Komende week heb ik het druk.	На этой неделе я занят.
+Wat doe je komend weekend?	Что ты делаешь в эти выходные?
+Aanstaande maandag begint de nieuwe cursus.	В ближайший понедельник начинается новый курс.
+Aanstaande vrijdag is de deadline.	В ближайшую пятницу дедлайн.
+A.s. maandag heb ik een afspraak.	В ближ. понедельник у меня встреча.
+Zes weken geleden ben ik in Parijs geweest.	Шесть недель назад я был в Париже.
+Twee jaar geleden ben ik verhuisd.	Два года назад я переехал.
+Hoe lang geleden was dat?	Как давно это было?
+Een maand geleden heb ik hem ontmoet.	Месяц назад я его встретил.
+Lang geleden woonde ik in Amsterdam.	Давно я жил в Амстердаме.
+Afgelopen zondag zijn we naar het Van Gogh museum geweest.	В прошлое воскресенье мы были в музее Ван Гога.
+Afgelopen weekend was ik ziek.	На прошлых выходных я болел.
+Afgelopen maand heb ik veel gewerkt.	В прошлом месяце я много работал.
+Hoe was afgelopen week?	Как прошла прошлая неделя?
+Vorig jaar is hij twee maanden in Australië geweest.	В прошлом году он был два месяца в Австралии.
+Vorige week maandag ben ik met mijn nieuwe baan begonnen.	В прошлый понедельник я начал новую работу.
+Vorige maand was ik op vakantie.	В прошлом месяце я был в отпуске.
+Wat deed je vorig weekend?	Что ты делал на прошлых выходных?
+Vorige keer was het leuker.	В прошлый раз было веселее.
+'s Ochtends werk ik, 's middags heb ik vrij.	Утром я работаю, днём я свободен.
+'s Avonds kijk ik televisie.	Вечером я смотрю телевизор.
+'s Nachts slaap ik.	Ночью я сплю.
+Overdag ben ik op kantoor.	Днём я в офисе.
+Eerst douchen, dan ontbijten, daarna naar mijn werk.	Сначала душ, потом завтрак, затем на работу.
+Eerst moet je inloggen, dan selecteer je een product, vervolgens betaal je, en tot slot krijg je een bevestiging.	Сначала нужно войти, потом выбираешь товар, затем оплачиваешь, и в конце получаешь подтверждение.
