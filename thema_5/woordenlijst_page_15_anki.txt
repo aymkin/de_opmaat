@@ -1,0 +1,296 @@
+#separator:tab
+#html:false
+Ik moet op mijn lijn letten.	Мне нужно следить за фигурой.
+Ik let niet op mijn lijn.	Я не слежу за фигурой.
+Let je op je lijn?	Ты следишь за фигурой?
+Deze oefening is makkelijk.	Это упражнение лёгкое.
+Het examen was niet makkelijk.	Экзамен был нелёгким.
+Is Nederlands makkelijk te leren?	Нидерландский легко учить?
+Ik wil meer sporten.	Я хочу больше заниматься спортом.
+Ik heb niet meer tijd.	У меня больше нет времени.
+Wil je meer koffie?	Хочешь ещё кофе?
+Dit is het meest populaire programma.	Это самая популярная программа.
+Dit is niet het meest interessante boek.	Это не самая интересная книга.
+Wat is het meest leuke aan je hobby?	Что самое приятное в твоём хобби?
+Ik sport meestal in de ochtend.	Я обычно занимаюсь спортом утром.
+Ik ga meestal niet zo laat naar bed.	Я обычно не ложусь так поздно.
+Wat doe je meestal in het weekend?	Что ты обычно делаешь на выходных?
+Ik zit op het middelbaar onderwijs.	Я учусь в средней школе.
+Dit is geen middelbare school.	Это не средняя школа.
+Zit je op het middelbaar onderwijs?	Ты учишься в средней школе?
+Het feest duurde tot middernacht.	Вечеринка длилась до полуночи.
+Ik blijf niet tot na middernacht op.	Я не ложусь спать после полуночи.
+Ben je om middernacht nog wakker?	Ты ещё не спишь в полночь?
+Ik sport minder dan vroeger.	Я занимаюсь спортом меньше, чем раньше.
+Ik eet niet minder dan jij.	Я ем не меньше тебя.
+Wil je minder suiker in je thee?	Хочешь меньше сахара в чае?
+Dit kost het minst.	Это стоит меньше всего.
+Dat interesseert me het minst.	Это меня интересует меньше всего.
+Welke sport vind je het minst leuk?	Какой вид спорта тебе нравится меньше всего?
+Mijn broer is heel muzikaal.	Мой брат очень музыкальный.
+Ik ben niet muzikaal.	Я немузыкальный.
+Ben je muzikaal?	Ты музыкальный?
+Na het eten ga ik wandelen.	После еды я иду гулять.
+Ik heb na acht uur geen tijd.	После восьми у меня нет времени.
+Wat doe je na je werk?	Что ты делаешь после работы?
+Ik ga natuurlijk mee naar het concert.	Конечно, я пойду на концерт.
+Natuurlijk is dat niet waar.	Конечно, это неправда.
+Kom je natuurlijk ook?	Ты, конечно, тоже придёшь?
+Ik kijk elke dag naar het nieuws.	Я каждый день смотрю новости.
+Er is geen goed nieuws vandaag.	Сегодня нет хороших новостей.
+Heb je het nieuws al gehoord?	Ты уже слышал новости?
+Ik ga nooit naar de opera.	Я никогда не хожу в оперу.
+Ik ben nooit te laat.	Я никогда не опаздываю.
+Ben je nooit in Amsterdam geweest?	Ты никогда не был в Амстердаме?
+Ik schrijf de notulen van de vergadering.	Я пишу протокол собрания.
+Er zijn geen notulen van dit gesprek.	Протокола этого разговора нет.
+Heb je de notulen al gelezen?	Ты уже прочитал протокол?
+Ik moet elke dag oefenen.	Мне нужно заниматься каждый день.
+Ik oefen niet genoeg.	Я недостаточно занимаюсь.
+Hoe vaak oefen je?	Как часто ты занимаешься?
+Het concert begint om acht uur.	Концерт начинается в восемь часов.
+Het gaat niet om geld.	Дело не в деньгах.
+Hoe laat begint de film om?	Во сколько начинается фильм?
+Ik ontbijt elke ochtend om zeven uur.	Я завтракаю каждое утро в семь часов.
+Ik ontbijt niet in het weekend.	Я не завтракаю на выходных.
+Ontbijt je thuis of op je werk?	Ты завтракаешь дома или на работе?
+Ik wil ooit naar Japan reizen.	Когда-нибудь я хочу поехать в Японию.
+Ik heb hem nooit ooit ontmoet.	Я никогда его не встречал.
+Heb je ooit een marathon gelopen?	Ты когда-нибудь бегал марафон?
+De muziek staat op.	Музыка играет.
+De winkel is niet op zondag open.	Магазин не открыт по воскресеньям.
+Is de televisie op?	Телевизор включён?
+Mijn moeder heeft een operatie gehad.	Моя мама перенесла операцию.
+De operatie was niet moeilijk.	Операция была несложной.
+Wanneer is de operatie?	Когда операция?
+Ik speel in een orkest.	Я играю в оркестре.
+Er is geen orkest in onze stad.	В нашем городе нет оркестра.
+Speel je in een orkest?	Ты играешь в оркестре?
+We praten over de film.	Мы говорим о фильме.
+Ik wil er niet over praten.	Я не хочу об этом говорить.
+Waar gaat de film over?	О чём этот фильм?
+Ik moet vandaag overwerken.	Мне нужно сегодня работать сверхурочно.
+Ik werk niet over in het weekend.	Я не работаю сверхурочно на выходных.
+Moet je vaak overwerken?	Тебе часто приходится работать сверхурочно?
+Ik sport drie keer per week.	Я занимаюсь спортом три раза в неделю.
+Ik rijd niet per auto naar mijn werk.	Я не езжу на работу на машине.
+Hoeveel kost het per maand?	Сколько это стоит в месяц?
+Ik speel piano sinds mijn jeugd.	Я играю на пианино с детства.
+Ik heb geen piano thuis.	У меня дома нет пианино.
+Kun je piano spelen?	Ты умеешь играть на пианино?
+Ik luister graag naar popmuziek.	Я люблю слушать поп-музыку.
+Ik luister niet naar popmuziek.	Я не слушаю поп-музыку.
+Hou je van popmuziek?	Ты любишь поп-музыку?
+Ik haal de post uit de brievenbus.	Я забираю почту из почтового ящика.
+Er is geen post vandaag.	Сегодня нет почты.
+Is er post voor mij?	Есть для меня почта?
+De recensie van de film was positief.	Рецензия на фильм была положительной.
+De recensie was niet goed.	Рецензия была нехорошей.
+Heb je de recensie al gelezen?	Ты уже прочитал рецензию?
+Ik regel alles voor de reis.	Я организую всё для поездки.
+Ik regel het niet zelf.	Я не организую это сам.
+Kun je dat regelen?	Ты можешь это организовать?
+Ik sport regelmatig.	Я регулярно занимаюсь спортом.
+Ik ga niet regelmatig naar de tandarts.	Я нерегулярно хожу к стоматологу.
+Sport je regelmatig?	Ты регулярно занимаешься спортом?
+Ik wil een tafel reserveren.	Я хочу забронировать столик.
+Ik heb geen kamer gereserveerd.	Я не забронировал номер.
+Heb je al gereserveerd?	Ты уже забронировал?
+Hij is heel rijk geworden.	Он стал очень богатым.
+Ik ben niet rijk.	Я не богатый.
+Is die man rijk?	Этот мужчина богатый?
+Ik dans salsa elke vrijdag.	Я танцую сальсу каждую пятницу.
+Ik dans geen salsa.	Я не танцую сальсу.
+Kun je salsa dansen?	Ты умеешь танцевать сальсу?
+In de winter ga ik schaatsen.	Зимой я катаюсь на коньках.
+Ik schaats niet goed.	Я плохо катаюсь на коньках.
+Kun je schaatsen?	Ты умеешь кататься на коньках?
+Mijn oma schildert als hobby.	Моя бабушка рисует как хобби.
+Ik schilder niet vaak.	Я не часто рисую.
+Kun je schilderen?	Ты умеешь рисовать?
+Ik ben geslaagd voor mijn examen.	Я сдал экзамен.
+Ik ben niet geslaagd.	Я не сдал.
+Ben je geslaagd voor je rijexamen?	Ты сдал экзамен по вождению?
+Ik slaap acht uur per nacht.	Я сплю восемь часов за ночь.
+Ik slaap niet goed de laatste tijd.	Я плохо сплю в последнее время.
+Hoeveel uur slaap je?	Сколько часов ты спишь?
+Hij is een echte snob.	Он настоящий сноб.
+Ik ben geen snob.	Я не сноб.
+Vind je hem een snob?	Ты считаешь его снобом?
+Ik ga soms naar het theater.	Иногда я хожу в театр.
+Ik ben soms niet op tijd.	Иногда я опаздываю.
+Ga je soms naar de sportschool?	Ты иногда ходишь в спортзал?
+Ik speel gitaar in mijn vrije tijd.	Я играю на гитаре в свободное время.
+Ik speel geen voetbal.	Я не играю в футбол.
+Welk instrument speel je?	На каком инструменте ты играешь?
+Hij is een goede speler.	Он хороший игрок.
+Hij is geen professionele speler.	Он не профессиональный игрок.
+Ken je die speler?	Ты знаешь этого игрока?
+Ik sport elke dag.	Я занимаюсь спортом каждый день.
+Ik sport niet in de zomer.	Я не занимаюсь спортом летом.
+Hoe vaak sport je?	Как часто ты занимаешься спортом?
+Mijn broer is heel sportief.	Мой брат очень спортивный.
+Ik ben niet zo sportief.	Я не очень спортивный.
+Ben je sportief?	Ты спортивный?
+Ik squash elke woensdag.	Я играю в сквош каждую среду.
+Ik squash niet meer.	Я больше не играю в сквош.
+Squash je wel eens?	Ты иногда играешь в сквош?
+De temperatuur stijgt morgen.	Температура завтра поднимется.
+De prijzen stijgen niet.	Цены не растут.
+Stijgt de temperatuur vandaag?	Температура сегодня поднимется?
+De bus stopt hier.	Автобус останавливается здесь.
+De trein stopt niet in dit station.	Поезд не останавливается на этой станции.
+Waar stopt de bus?	Где останавливается автобус?
+In mijn studententijd ging ik vaak uit.	В студенческие годы я часто ходил на вечеринки.
+Ik denk niet vaak aan mijn studententijd.	Я не часто думаю о студенческих годах.
+Hoe was je studententijd?	Как прошли твои студенческие годы?
+Ik bekijk de tabel met resultaten.	Я смотрю таблицу с результатами.
+Er is geen tabel in dit rapport.	В этом отчёте нет таблицы.
+Kun je de tabel uitleggen?	Ты можешь объяснить таблицу?
+Het is te koud om te zwemmen.	Слишком холодно, чтобы плавать.
+Het is niet te ver.	Это не слишком далеко.
+Is het te laat?	Уже слишком поздно?
+Ons team heeft gewonnen.	Наша команда победила.
+Ik zit niet in een team.	Я не в команде.
+In welk team speel je?	В какой команде ты играешь?
+De temperatuur is vandaag hoog.	Температура сегодня высокая.
+De temperatuur is niet laag.	Температура не низкая.
+Wat is de temperatuur buiten?	Какая температура на улице?
+Ten slotte wil ik iedereen bedanken.	Наконец, я хочу всех поблагодарить.
+Ten slotte is het niet erg.	В конце концов, это не страшно.
+Wat zei hij ten slotte?	Что он сказал в конце?
+Ik tennis elke zaterdag.	Я играю в теннис каждую субботу.
+Ik tennis niet zo goed.	Я не очень хорошо играю в теннис.
+Tennis je graag?	Тебе нравится играть в теннис?
+Ik ga vanavond naar het theater.	Сегодня вечером я иду в театр.
+Ik ga niet vaak naar het theater.	Я не часто хожу в театр.
+Ga je graag naar het theater?	Ты любишь ходить в театр?
+Mijn zoon speelt toneel op school.	Мой сын играет в школьном театре.
+Ik hou niet van toneel.	Я не люблю театр.
+Speel je toneel?	Ты играешь в театре?
+De winkel is open tot zes uur.	Магазин открыт до шести часов.
+Ik werk niet tot laat.	Я не работаю допоздна.
+Tot hoe laat ben je thuis?	До скольких ты дома?
+Tot slot wil ik nog iets zeggen.	В заключение я хочу ещё кое-что сказать.
+Tot slot was het niet moeilijk.	В заключение скажу, что это было нетрудно.
+Wat zeg je tot slot?	Что ты скажешь в заключение?
+De les is tussen twaalf en één.	Урок с двенадцати до часа.
+Er is niets tussen ons.	Между нами ничего нет.
+Wat is het verschil tussen deze twee?	Какая разница между этими двумя?
+Kijk uit met die trap!	Осторожно с этой лестницей!
+Ik kijk niet uit naar het examen.	Я не жду экзамена с нетерпением.
+Kijk je uit naar de vakantie?	Ты ждёшь отпуск с нетерпением?
+Ik sport vaak.	Я часто занимаюсь спортом.
+Ik ga niet vaak naar de bioscoop.	Я не часто хожу в кино.
+Hoe vaak ga je naar de sportschool?	Как часто ты ходишь в спортзал?
+Ik hou van muziek.	Я люблю музыку.
+Ik hou niet van vroeg opstaan.	Я не люблю рано вставать.
+Waar hou je van?	Что тебе нравится?
+De supermarkt is ver van hier.	Супермаркет далеко отсюда.
+Het station is niet ver.	Станция недалеко.
+Hoe ver is het naar het centrum?	Как далеко до центра?
+Mijn leven is veel veranderd.	Моя жизнь сильно изменилась.
+De situatie verandert niet.	Ситуация не меняется.
+Wil je iets veranderen?	Ты хочешь что-то изменить?
+Ik wil mijn Nederlands verbeteren.	Я хочу улучшить свой нидерландский.
+Ik verbeter mijn score niet.	Я не улучшаю свой результат.
+Wil je je uitspraak verbeteren?	Ты хочешь улучшить произношение?
+Ik vertel je verder over de reis.	Я расскажу тебе дальше о поездке.
+Ik ga niet verder met dit project.	Я не продолжаю этот проект.
+Ga je verder met je studie?	Ты продолжишь учёбу?
+Hij verdient veel geld.	Он зарабатывает много денег.
+Ik verdien niet genoeg.	Я зарабатываю недостаточно.
+Hoeveel verdien je per maand?	Сколько ты зарабатываешь в месяц?
+Ik lees een spannend verhaal.	Я читаю захватывающую историю.
+Dit is geen interessant verhaal.	Это неинтересная история.
+Ken je dit verhaal?	Ты знаешь эту историю?
+Ons team heeft de wedstrijd verloren.	Наша команда проиграла матч.
+Ik verlies nooit mijn sleutels.	Я никогда не теряю свои ключи.
+Verlies je vaak?	Ты часто проигрываешь?
+Sporten is soms vermoeiend.	Спорт иногда утомляет.
+Deze oefening is niet vermoeiend.	Это упражнение неутомительное.
+Is je werk vermoeiend?	Твоя работа утомительная?
+Ik vertel je over mijn weekend.	Я расскажу тебе о своих выходных.
+Ik vertel het niet aan iedereen.	Я не рассказываю это всем.
+Kun je me meer vertellen?	Ты можешь рассказать мне больше?
+Ik doe eerst de afwas en vervolgens ruim ik op.	Сначала я мою посуду, а затем убираюсь.
+Vervolgens gingen we niet naar huis.	Затем мы не пошли домой.
+Wat deed je vervolgens?	Что ты сделал потом?
+Ik speel viool in een orkest.	Я играю на скрипке в оркестре.
+Ik heb geen viool.	У меня нет скрипки.
+Kun je viool spelen?	Ты умеешь играть на скрипке?
+Ik voetbal elke zondag.	Я играю в футбол каждое воскресенье.
+Ik voetbal niet meer.	Я больше не играю в футбол.
+Voetbal je bij een club?	Ты играешь в футбол в клубе?
+Ik kijk naar de voetbalwedstrijd.	Я смотрю футбольный матч.
+Er is geen voetbalwedstrijd vandaag.	Сегодня нет футбольного матча.
+Kijk je naar de voetbalwedstrijd?	Ты смотришь футбольный матч?
+Ik volg een cursus Nederlands.	Я прохожу курс нидерландского языка.
+Ik volg geen nieuws.	Я не слежу за новостями.
+Welke cursus volg je?	Какой курс ты проходишь?
+De volgende week heb ik vakantie.	На следующей неделе у меня отпуск.
+Ik ga niet naar de volgende vergadering.	Я не пойду на следующее собрание.
+Wat zijn je plannen voor de volgende maand?	Какие у тебя планы на следующий месяц?
+Ik volleybal op dinsdag.	Я играю в волейбол по вторникам.
+Ik volleybal niet zo goed.	Я не очень хорошо играю в волейбол.
+Volleybal je graag?	Тебе нравится играть в волейбол?
+Ik sport voor mijn gezondheid.	Я занимаюсь спортом для здоровья.
+Ik doe het niet voor het geld.	Я делаю это не ради денег.
+Waar doe je het voor?	Ради чего ты это делаешь?
+Vorig jaar was ik in Spanje.	В прошлом году я был в Испании.
+De vorige keer was het niet leuk.	В прошлый раз было неинтересно.
+Wat deed je vorige week?	Что ты делал на прошлой неделе?
+Morgen ben ik vrij.	Завтра я свободен.
+Ik ben niet vrij dit weekend.	Я не свободен в эти выходные.
+Ben je morgen vrij?	Ты завтра свободен?
+Vroeger ging ik elke dag zwemmen.	Раньше я плавал каждый день.
+Vroeger was dat niet zo.	Раньше так не было.
+Wat deed je vroeger als hobby?	Чем ты раньше занимался как хобби?
+Ik word om zeven uur wakker.	Я просыпаюсь в семь часов.
+Ik word niet vroeg wakker.	Я не просыпаюсь рано.
+Hoe laat word je wakker?	Во сколько ты просыпаешься?
+Ik wandel graag in het bos.	Я люблю гулять в лесу.
+Ik wandel niet vaak.	Я не часто гуляю.
+Wandel je graag?	Ты любишь гулять?
+Ik ben wel moe vandaag.	Я всё-таки устал сегодня.
+Ik voel me wel goed.	Я чувствую себя хорошо.
+Voel je je wel goed?	Ты хорошо себя чувствуешь?
+Ik ga wel eens naar een concert.	Я иногда хожу на концерт.
+Ik ga niet wel eens naar de opera.	Я не хожу иногда в оперу.
+Ga je wel eens naar het theater?	Ты иногда ходишь в театр?
+Hij heeft het wereldrecord gebroken.	Он побил мировой рекорд.
+Ik heb geen wereldrecord.	У меня нет мирового рекорда.
+Ken je het wereldrecord op de 100 meter?	Ты знаешь мировой рекорд на 100 метров?
+Op een werkdag sta ik vroeg op.	В рабочий день я встаю рано.
+Ik sport niet op een werkdag.	Я не занимаюсь спортом в рабочий день.
+Wat doe je op een gewone werkdag?	Что ты делаешь в обычный рабочий день?
+Dat is een wijze beslissing.	Это мудрое решение.
+Dat was niet wijs van mij.	Это было неразумно с моей стороны.
+Vind je dat een wijs advies?	Ты считаешь это мудрым советом?
+Ons team heeft de wedstrijd gewonnen.	Наша команда выиграла матч.
+Ik win niet vaak.	Я не часто выигрываю.
+Heb je de loterij gewonnen?	Ты выиграл в лотерею?
+Ik wil arts worden.	Я хочу стать врачом.
+Ik word niet boos.	Я не злюсь.
+Wat wil je worden?	Кем ты хочешь стать?
+De concertzaal is heel groot.	Концертный зал очень большой.
+Er is geen grote zaal in dit gebouw.	В этом здании нет большого зала.
+Hoe groot is de zaal?	Какого размера зал?
+Ik ben gezakt voor mijn examen.	Я провалил экзамен.
+Ik ben niet gezakt.	Я не провалился.
+Ben je gezakt voor je rijexamen?	Ты провалил экзамен по вождению?
+Ik weet het zeker.	Я уверен.
+Ik ben niet zeker van mijn antwoord.	Я не уверен в своём ответе.
+Weet je het zeker?	Ты уверен?
+Ik ga zelden naar de opera.	Я редко хожу в оперу.
+Ik ben zelden ziek.	Я редко болею.
+Ga je zelden naar feestjes?	Ты редко ходишь на вечеринки?
+Mijn vader werkt in het ziekenhuis.	Мой отец работает в больнице.
+Ik wil niet naar het ziekenhuis.	Я не хочу в больницу.
+Waar is het ziekenhuis?	Где находится больница?
+Ik zing graag onder de douche.	Я люблю петь в душе.
+Ik zing niet goed.	Я плохо пою.
+Kun je goed zingen?	Ты хорошо поёшь?
+Ik ben zojuist aangekomen.	Я только что приехал.
+Ik heb zojuist niet gebeld.	Я только что не звонил.
+Heb je zojuist gehoord wat er is gebeurd?	Ты только что услышал, что произошло?
