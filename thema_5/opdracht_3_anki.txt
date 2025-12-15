@@ -1,0 +1,127 @@
+#separator:tab
+#html:false
+Kijk je weleens naar voetbal op tv?	Ты когда-нибудь смотришь футбол по телевизору?
+Ja, ik kijk regelmatig naar voetbal op tv.	Да, я регулярно смотрю футбол по телевизору.
+Nee, ik kijk nooit naar voetbal op tv.	Нет, я никогда не смотрю футбол по телевизору.
+Doe je weleens aan sport?	Ты когда-нибудь занимаешься спортом?
+Ja, ik sport regelmatig.	Да, я регулярно занимаюсь спортом.
+Ik voetbal elke zondag.	Я играю в футбол каждое воскресенье.
+Ik ga vaak naar de sportschool.	Я часто хожу в спортзал.
+Ik ben best sportief.	Я довольно спортивный.
+Nee, ik sport zelden.	Нет, я редко занимаюсь спортом.
+Ga je weleens naar de bioscoop?	Ты когда-нибудь ходишь в кино?
+Ja, ik ga af en toe naar de bioscoop.	Да, я время от времени хожу в кино.
+Mijn favoriete films zijn komische films.	Мои любимые фильмы — комедии.
+Nee, ik ga nooit naar de bioscoop.	Нет, я никогда не хожу в кино.
+Luister je weleens naar Nederlandstalige muziek?	Ты когда-нибудь слушаешь нидерландскую музыку?
+Ja, ik luister soms naar Nederlandstalige popmuziek.	Да, я иногда слушаю нидерландскую поп-музыку.
+Ik hou het meest van jazz.	Больше всего я люблю джаз.
+Nee, ik luister nooit naar Nederlandstalige muziek.	Нет, я никогда не слушаю нидерландскую музыку.
+Fiets je weleens?	Ты когда-нибудь ездишь на велосипеде?
+Ja, ik fiets altijd naar mijn werk.	Да, я всегда езжу на работу на велосипеде.
+Het is makkelijk en ik krijg veel energie ervan.	Это легко, и я получаю от этого много энергии.
+Nee, ik fiets nooit.	Нет, я никогда не езжу на велосипеде.
+Kijk je vaak televisie?	Ты часто смотришь телевизор?
+Nee, ik kijk zelden televisie.	Нет, я редко смотрю телевизор.
+Ik kijk meestal alleen naar het journaal.	Я обычно смотрю только новости.
+Ja, ik kijk vaak televisie.	Да, я часто смотрю телевизор.
+Zit je in je vrije tijd vaak achter de computer?	Ты в свободное время часто сидишь за компьютером?
+Ja, ik zit vaak achter de computer.	Да, я часто сижу за компьютером.
+Ik game regelmatig met mijn vrienden online.	Я регулярно играю с друзьями онлайн.
+Nee, ik zit zelden achter de computer.	Нет, я редко сижу за компьютером.
+Ga je weleens naar een restaurant?	Ты когда-нибудь ходишь в ресторан?
+Ja, ik ga af en toe naar een restaurant.	Да, я время от времени хожу в ресторан.
+Ik eet het liefst in een Italiaans restaurant.	Больше всего я люблю есть в итальянском ресторане.
+Nee, ik ga nooit naar een restaurant.	Нет, я никогда не хожу в ресторан.
+Maak je zelf weleens muziek?	Ты сам когда-нибудь играешь музыку?
+Ja, ik speel regelmatig gitaar.	Да, я регулярно играю на гитаре.
+Ik ben niet heel muzikaal, maar het is mijn favoriete hobby.	Я не очень музыкальный, но это моё любимое хобби.
+Nee, ik maak nooit zelf muziek.	Нет, я никогда сам не играю музыку.
+Schaats je weleens?	Ты когда-нибудь катаешься на коньках?
+Nee, ik schaats zelden.	Нет, я редко катаюсь на коньках.
+Ik ben er niet zo goed in.	Я не очень хорошо это умею.
+Vroeger deed ik het vaak.	Раньше я делал это часто.
+Ja, ik schaats regelmatig in de winter.	Да, я регулярно катаюсь на коньках зимой.
+Wandel je weleens?	Ты когда-нибудь гуляешь?
+Ja, ik wandel regelmatig in het park.	Да, я регулярно гуляю в парке.
+Het is niet vermoeiend en ik vind het heel fijn.	Это неутомительно, и мне это очень нравится.
+Nee, ik wandel nooit.	Нет, я никогда не гуляю.
+Ga je regelmatig naar het theater?	Ты регулярно ходишь в театр?
+Nee, ik ga nooit naar het theater.	Нет, я никогда не хожу в театр.
+Ik hou liever van dansvoorstellingen of concerten.	Я предпочитаю танцевальные представления или концерты.
+Ja, ik ga regelmatig naar het theater.	Да, я регулярно хожу в театр.
+Ben je ooit in Japan geweest?	Ты когда-нибудь был в Японии?
+Nee, ik ben nooit in Japan geweest.	Нет, я никогда не был в Японии.
+Maar ik wil er ooit naartoe reizen.	Но когда-нибудь я хочу туда поехать.
+Ja, ik ben ooit in Japan geweest.	Да, я когда-то был в Японии.
+Spreek je regelmatig Nederlands?	Ты регулярно говоришь по-нидерландски?
+Ja, ik spreek vaak Nederlands.	Да, я часто говорю по-нидерландски.
+Ik volg een cursus en ik oefen elke dag.	Я хожу на курсы и занимаюсь каждый день.
+Nee, ik spreek zelden Nederlands.	Нет, я редко говорю по-нидерландски.
+Kijk je weleens naar Nederlandse video's op internet?	Ты когда-нибудь смотришь нидерландские видео в интернете?
+Ja, ik kijk regelmatig naar Nederlandse video's.	Да, я регулярно смотрю нидерландские видео.
+Het is gratis en ik verbeter mijn Nederlands ermee.	Это бесплатно, и я улучшаю свой нидерландский.
+Nee, ik kijk nooit naar Nederlandse video's.	Нет, я никогда не смотрю нидерландские видео.
+Ga je weleens op bezoek bij de buren?	Ты когда-нибудь ходишь в гости к соседям?
+Ja, ik ga soms bij mijn buren op bezoek.	Да, я иногда хожу в гости к соседям.
+Mijn buur is heel aardig.	Мой сосед очень приятный.
+We kletsen vaak samen.	Мы часто болтаем вместе.
+Nee, ik ga nooit bij de buren op bezoek.	Нет, я никогда не хожу в гости к соседям.
+Speel je weleens een instrument?	Ты когда-нибудь играешь на инструменте?
+Ja, ik speel af en toe piano.	Да, я время от времени играю на пианино.
+Ik ben niet zo ervaren, maar ik oefen regelmatig.	У меня не так много опыта, но я регулярно занимаюсь.
+Nee, ik speel nooit een instrument.	Нет, я никогда не играю на инструменте.
+Ga je vaak naar concerten?	Ты часто ходишь на концерты?
+Ja, ik ga regelmatig naar concerten.	Да, я регулярно хожу на концерты.
+Ik ben een grote fan van klassieke muziek.	Я большой фанат классической музыки.
+Nee, ik ga zelden naar concerten.	Нет, я редко хожу на концерты.
+Lees je weleens een boek in je vrije tijd?	Ты когда-нибудь читаешь книгу в свободное время?
+Ja, ik lees vaak boeken.	Да, я часто читаю книги.
+Het liefst lees ik spannende verhalen.	Больше всего я люблю читать захватывающие истории.
+Nee, ik lees nooit boeken.	Нет, я никогда не читаю книги.
+Heb je ooit in een koor gezongen?	Ты когда-нибудь пел в хоре?
+Nee, ik heb nooit in een koor gezongen.	Нет, я никогда не пел в хоре.
+Ik zing niet zo goed, helaas.	К сожалению, я не очень хорошо пою.
+Ja, ik heb ooit in een koor gezongen.	Да, я когда-то пел в хоре.
+Ga je weleens naar de kroeg met vrienden?	Ты когда-нибудь ходишь в бар с друзьями?
+Ja, ik ga soms naar de kroeg na het werk.	Да, я иногда хожу в бар после работы.
+We drinken dan een kop koffie en kletsen.	Мы тогда пьём чашку кофе и болтаем.
+Nee, ik ga nooit naar de kroeg.	Нет, я никогда не хожу в бар.
+Wat is je favoriete hobby?	Какое твоё любимое хобби?
+Mijn favoriete hobby is fotograferen.	Моё любимое хобби — фотография.
+Mijn favoriete hobby is lezen.	Моё любимое хобби — чтение.
+Mijn favoriete hobby is gamen.	Моё любимое хобби — компьютерные игры.
+Wat doe je het liefst in je vrije tijd?	Что ты больше всего любишь делать в свободное время?
+Ik ga het liefst naar het strand.	Больше всего я люблю ходить на пляж.
+Ik blijf het liefst thuis.	Больше всего я люблю оставаться дома.
+Ik sport het liefst met vrienden.	Больше всего я люблю заниматься спортом с друзьями.
+Hoe vaak sport je?	Как часто ты занимаешься спортом?
+Ik sport elke dag.	Я занимаюсь спортом каждый день.
+Ik sport drie keer per week.	Я занимаюсь спортом три раза в неделю.
+Ik sport af en toe.	Я занимаюсь спортом время от времени.
+Ik sport zelden.	Я редко занимаюсь спортом.
+Wat doe je meestal in het weekend?	Что ты обычно делаешь на выходных?
+Ik ga meestal naar de sportschool.	Я обычно хожу в спортзал.
+Ik blijf meestal thuis.	Я обычно остаюсь дома.
+Ik ga meestal uit met vrienden.	Я обычно гуляю с друзьями.
+Ben je sportief?	Ты спортивный?
+Ja, ik ben heel sportief.	Да, я очень спортивный.
+Nee, ik ben niet zo sportief.	Нет, я не очень спортивный.
+Ik ben best sportief.	Я довольно спортивный.
+Ben je muzikaal?	Ты музыкальный?
+Ja, ik ben heel muzikaal.	Да, я очень музыкальный.
+Nee, ik ben niet zo muzikaal.	Нет, я не очень музыкальный.
+Ik ben een beetje muzikaal.	Я немного музыкальный.
+Waar hou je van?	Что тебе нравится?
+Ik hou van lezen.	Я люблю читать.
+Ik hou van muziek.	Я люблю музыку.
+Ik hou van sporten.	Я люблю заниматься спортом.
+Ik hou van reizen.	Я люблю путешествовать.
+Waar hou je niet van?	Что тебе не нравится?
+Ik hou niet van vroeg opstaan.	Я не люблю рано вставать.
+Ik hou niet van koken.	Я не люблю готовить.
+Ik hou niet van de afwas doen.	Я не люблю мыть посуду.
+Heb je een hekel aan iets?	Ты что-нибудь терпеть не можешь?
+Ik heb een hekel aan vroeg opstaan.	Я терпеть не могу рано вставать.
+Ik heb een hekel aan de afwas.	Я терпеть не могу мыть посуду.
+Ik heb een hekel aan files.	Я терпеть не могу пробки.
