@@ -1,0 +1,22 @@
+#separator:tab
+#html:false
+Gisteren heeft Paul de review gedaan.	Вчера Пол сделал ревью.
+Hij heeft een paar comments achtergelaten.	Он оставил несколько комментариев.
+Hij heeft ook potentiële bugs gevonden.	Он также нашёл потенциальные баги.
+Ik denk dat het niet veel werk is.	Я думаю, что это немного работы.
+Ik kan het vandaag afmaken.	Я могу закончить это сегодня.
+Misschien duurt het twee uur.	Возможно, это займёт два часа.
+Dat was het over FE-979.	Это всё по FE-979.
+Hier is niet veel voortgang.	Тут немного прогресса.
+Ik wilde alles in één keer upgraden.	Я хотел всё обновить за один раз.
+Maar dat lukte niet.	Но это не получилось.
+Dus heb ik een andere strategie gekozen.	Поэтому я выбрал другую стратегию.
+Nu doe ik kleine stappen.	Теперь я делаю маленькие шаги.
+Dit neemt veel tijd.	Это занимает много времени.
+Dat is het.	Это всё.
+Heb je hulp nodig?	Тебе нужна помощь?
+Nee, ik denk dat het lukt.	Нет, я думаю, что получится.
+Misschien later, ik kom erop terug.	Может быть позже, я вернусь к этому.
+Wanneer is het klaar?	Когда будет готово?
+Vandaag, denk ik.	Сегодня, думаю.
+Ik weet het nog niet precies.	Я ещё точно не знаю.

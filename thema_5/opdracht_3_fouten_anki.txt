@@ -1,0 +1,17 @@
+#separator:tab
+#html:false
+Ik ___ (fietsen) naar mijn werk.	fiets (ik fiets, jij fietst, wij fietsen)
+Ik ga ___ (никогда) naar de bioscoop.	nooit (niet: noot!)
+___ (К сожалению) luister ik nooit naar muziek.	Helaas (niet: heelas)
+Ik sport ___ (часто).	vaak (niet: vak - lange 'a' = aa)
+Helaas ___ ik nooit naar Nederlandstalige muziek. (luisteren - inversie!)	luister (Helaas LUISTER IK - inversie na bijwoord)
+Ja, ___ vaak naar mijn werk. (ik/fiets - woordvolgorde na "Ja")	ik fiets (geen inversie na Ja/Nee!)
+Nooit ___ televisie. (ik/kijken - inversie)	kijk ik (inversie: werkwoord vóór subject)
+Af en toe ___ naar een restaurant. (ik/gaan - inversie)	ga ik (inversie na "af en toe")
+Soms ___ Nederlands met mijn vrienden. (ik/spreken - inversie)	spreek ik
+Gisteren ___ naar de bioscoop. (ik/gaan - inversie)	ging ik
+vaak (vertaling)	часто / often
+nooit (vertaling)	никогда / never
+zelden (vertaling)	редко / rarely
+af en toe (vertaling)	время от времени / now and then
+regelmatig (vertaling)	регулярно / regularly
