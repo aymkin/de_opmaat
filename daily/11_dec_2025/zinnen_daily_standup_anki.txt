@@ -1,0 +1,152 @@
+#separator:tab
+#html:false
+Ik ben bezig met een ticket.	Я занят тикетом.
+Hij is vandaag niet aanwezig.	Его сегодня нет (он отсутствует).
+We zijn vroeg vandaag.	Мы сегодня рано.
+Ben je morgen vrij?	Ты завтра свободен?
+Zij zijn op kantoor.	Они в офисе.
+Ik heb een vraag.	У меня есть вопрос.
+Hij heeft een probleem.	У него проблема.
+We hebben een vergadering.	У нас совещание.
+Heb je het ticket gezien?	Ты видел тикет?
+Zij hebben hulp nodig.	Им нужна помощь.
+Ik ga naar kantoor.	Я еду в офис.
+Hij gaat aan de slag.	Он приступает к работе.
+We gaan door naar het volgende.	Мы переходим к следующему.
+Ga je vandaag werken?	Ты сегодня работаешь?
+Zij gaan het fixen.	Они это исправят.
+Ik doe het vandaag.	Я сделаю это сегодня.
+Hij doet het goed.	Он делает это хорошо.
+We doen het samen.	Мы делаем это вместе.
+Doe je mee?	Ты участвуешь?
+Zij doen de review.	Они делают ревью.
+Ik kom erop terug.	Я вернусь к этому.
+Hij komt later.	Он придёт позже.
+We komen bij je langs.	Мы к тебе зайдём.
+Kom je naar de vergadering?	Ты придёшь на совещание?
+Zij komen om twee uur.	Они придут в два часа.
+Ik werk aan de PR.	Я работаю над PR.
+Hij werkt hard vandaag.	Он сегодня усердно работает.
+We werken samen.	Мы работаем вместе.
+Werk je thuis of op kantoor?	Ты работаешь дома или в офисе?
+Zij werken aan het project.	Они работают над проектом.
+Ik begin morgen.	Я начинаю завтра.
+Hij begint met de tickets.	Он начинает с тикетов.
+We beginnen om negen uur.	Мы начинаем в девять часов.
+Begin je alvast?	Ты уже начинаешь?
+Zij beginnen volgende week.	Они начинают на следующей неделе.
+Ik maak een ticket aan.	Я создаю тикет.
+Hij maakt het af.	Он это заканчивает.
+We maken een plan.	Мы составляем план.
+Maak je een PR?	Ты делаешь PR?
+Zij maken goede voortgang.	Они делают хороший прогресс.
+Ik help je graag.	Я с удовольствием тебе помогу.
+Hij helpt met de tests.	Он помогает с тестами.
+We helpen elkaar.	Мы помогаем друг другу.
+Help je even?	Поможешь?
+Zij helpen het team.	Они помогают команде.
+Ik kijk ernaar.	Я посмотрю на это.
+Hij kijkt naar de code.	Он смотрит код.
+We kijken samen.	Мы смотрим вместе.
+Kijk je even mee?	Посмотришь вместе?
+Zij kijken naar de problemen.	Они смотрят на проблемы.
+Ik weet het niet.	Я не знаю.
+Hij weet waar het staat.	Он знает, где это находится.
+We weten het al.	Мы уже знаем.
+Weet je wanneer het klaar is?	Ты знаешь, когда будет готово?
+Zij weten hoe het werkt.	Они знают, как это работает.
+Ik zeg het even.	Я быстро скажу.
+Hij zegt dat het klaar is.	Он говорит, что готово.
+We zeggen het door.	Мы передаём (сообщаем дальше).
+Zeg je het tegen hem?	Скажешь ему?
+Zij zeggen dat het werkt.	Они говорят, что работает.
+Ik denk dat het goed is.	Я думаю, что это хорошо.
+Hij denkt erover na.	Он над этим думает.
+We denken dat het kan.	Мы думаем, что это возможно.
+Denk je dat het lukt?	Думаешь, получится?
+Zij denken mee.	Они тоже думают (помогают думать).
+Ik vraag het aan Suus.	Я спрошу у Сюс.
+Hij vraagt om hulp.	Он просит помощи.
+We vragen het na.	Мы уточним.
+Vraag je het even?	Спросишь?
+Zij vragen om meer informatie.	Они просят больше информации.
+Ik zet het op review.	Я ставлю это на ревью.
+Hij zet het ticket klaar.	Он подготавливает тикет.
+We zetten het door.	Мы передаём это дальше.
+Zet je het erin?	Ты добавишь это?
+Zij zetten het op de lijst.	Они добавляют это в список.
+Vandaag heb ik veel te doen.	Сегодня у меня много дел.
+Vandaag is donderdag.	Сегодня четверг.
+Wat doe je vandaag?	Что ты делаешь сегодня?
+Vandaag gaat het goed.	Сегодня всё хорошо.
+Ik ben vandaag op kantoor.	Я сегодня в офисе.
+Morgen ben ik vrij.	Завтра я свободен.
+Morgen ga ik werken.	Завтра я иду работать.
+Wat doe je morgen?	Что ты делаешь завтра?
+Morgen komt het af.	Завтра будет готово.
+Hij is morgen niet aanwezig.	Его завтра не будет.
+Gisteren heb ik het gemaakt.	Вчера я это сделал.
+Gisteren was de vergadering.	Вчера было совещание.
+Wat deed je gisteren?	Что ты делал вчера?
+Gisteren liep het goed.	Вчера всё шло хорошо.
+Hij begon gisteren.	Он начал вчера.
+Nu ben ik bezig.	Сейчас я занят.
+Nu ga ik beginnen.	Сейчас я начну.
+Wat doe je nu?	Что ты сейчас делаешь?
+Nu werkt het goed.	Сейчас это работает хорошо.
+Hij komt nu.	Он сейчас придёт.
+Later kom ik erop terug.	Позже я к этому вернусь.
+Later kijk ik ernaar.	Позже я на это посмотрю.
+Wat doe je later?	Что ты делаешь потом?
+Later gaan we door.	Позже мы продолжим.
+Hij komt later langs.	Он зайдёт позже.
+Ik ga naar kantoor.	Я еду в офис.
+Hij is op kantoor.	Он в офисе.
+We werken op kantoor.	Мы работаем в офисе.
+Ben je op kantoor?	Ты в офисе?
+Het kantoor is dichtbij.	Офис близко.
+Ik heb een vergadering.	У меня совещание.
+De vergadering duurt een uur.	Совещание длится час.
+We hebben een korte vergadering.	У нас короткое совещание.
+Is de vergadering al begonnen?	Совещание уже началось?
+Na de vergadering ga ik weg.	После совещания я ухожу.
+Ik pak een ticket op.	Я беру тикет.
+Dit ticket is van mij.	Этот тикет мой.
+We hebben veel tickets.	У нас много тикетов.
+Is het ticket al klaar?	Тикет уже готов?
+Hij werkt aan het ticket.	Он работает над тикетом.
+De PR staat op review.	PR на ревью.
+Ik maak een PR aan.	Я создаю PR.
+We bekijken de PR.	Мы смотрим PR.
+Is de PR goedgekeurd?	PR одобрен?
+Hij heeft de PR gemerged.	Он замержил PR.
+Het is goed.	Это хорошо.
+Het gaat goed.	Всё идёт хорошо.
+Dat is heel goed.	Это очень хорошо.
+Goed bezig!	Молодец! (Хорошо работаешь!)
+Alles loopt goed.	Всё идёт хорошо.
+Dat is mooi.	Это красиво / отлично.
+Mooi werk!	Отличная работа!
+Het ziet er mooi uit.	Это хорошо выглядит.
+Dat is een mooi resultaat.	Это хороший результат.
+Mooi, laten we doorgaan.	Отлично, давай продолжим.
+Het is klaar.	Готово.
+Ben je klaar?	Ты готов?
+De PR is klaar.	PR готов.
+We zijn bijna klaar.	Мы почти готовы.
+Alles is klaar.	Всё готово.
+Ik ben bezig.	Я занят.
+Hij is druk bezig.	Он очень занят.
+We zijn ermee bezig.	Мы этим занимаемся.
+Ben je nog bezig?	Ты ещё занят?
+Lekker bezig!	Молодец! (Хорошо работаешь!)
+Oké, helemaal goed.	Окей, всё хорошо.
+Ja, precies.	Да, точно.
+Geen probleem.	Нет проблем.
+Dat kan gebeuren.	Бывает.
+Tot zo!	До скорого!
+Succes!	Удачи!
+Dankjewel!	Спасибо!
+Graag gedaan.	Пожалуйста (не за что).
+Geef maar een seintje.	Дай знать.
+Ik kom erop terug.	Я вернусь к этому.
