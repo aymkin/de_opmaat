@@ -1,0 +1,22 @@
+#separator:tab
+#html:false
+Carolina wordt om zeven uur 's ochtends wakker.	Каролина просыпается в семь часов утра.
+Ze rekt zich uit in bed.	Она потягивается в постели.
+Om kwart over zeven doucht Carolina.	В четверть восьмого Каролина принимает душ.
+Ze staat onder de douche.	Она стоит под душем.
+Om half acht ontbijt Carolina.	В полвосьмого Каролина завтракает.
+Ze drinkt koffie of thee en eet iets aan tafel.	Она пьёт кофе или чай и ест что-то за столом.
+Om kwart over acht kleedt Carolina zich aan.	В четверть девятого Каролина одевается.
+Ze staat voor de spiegel en maakt zich klaar.	Она стоит перед зеркалом и собирается.
+Om kwart voor negen drinkt Carolina koffie met een vriendin.	Без четверти девять Каролина пьёт кофе с подругой.
+Ze praat en drinkt samen met haar vriendin aan een tafel.	Она разговаривает и пьёт вместе с подругой за столом.
+Van negen uur tot elf uur leest Carolina.	С девяти до одиннадцати часов Каролина читает.
+Ze zit aan een bureau en leest een boek.	Она сидит за письменным столом и читает книгу.
+Om twaalf uur luncht Carolina.	В двенадцать часов Каролина обедает.
+Ze eet samen met twee andere mensen aan een eettafel.	Она ест вместе с двумя другими людьми за обеденным столом.
+Van één uur 's middags tot zes uur 's avonds winkelt Carolina.	С часу дня до шести вечера Каролина ходит по магазинам.
+Ze is in een winkel en kijkt naar kleding.	Она в магазине и смотрит на одежду.
+Om half zeven 's avonds kookt Carolina.	В полседьмого вечера Каролина готовит.
+Ze snijdt groenten op een snijplank in de keuken.	Она режет овощи на разделочной доске на кухне.
+Om acht uur 's avonds werkt Carolina aan de computer.	В восемь часов вечера Каролина работает за компьютером.
+Ze zit aan een bureau met een laptop en boeken.	Она сидит за столом с ноутбуком и книгами.
