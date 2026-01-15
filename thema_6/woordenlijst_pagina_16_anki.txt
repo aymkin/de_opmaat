@@ -1,0 +1,78 @@
+#separator:tab
+#html:false
+Het schilderij hangt aan de muur.	Картина висит на стене.
+De makelaar biedt ons een mooie woning aan.	Маклер предлагает нам красивое жильё.
+Er is een groot aanbod van huurwoningen.	Есть большое предложение съёмного жилья.
+Geef aandacht aan de details van het huis.	Обратите внимание на детали дома.
+De aannemer bouwt ons nieuwe huis.	Подрядчик строит наш новый дом.
+Ik snijd groenten op het aanrecht.	Я режу овощи на кухонной столешнице.
+Ik spreek mijn buurman aan over het lawaai.	Я обращаюсь к соседу по поводу шума.
+Onze buren zijn erg aardig.	Наши соседи очень милые.
+De tuin ligt achter het huis.	Сад находится за домом.
+Ik zoek een woning via advertenties.	Я ищу жильё через объявления.
+Waar is de afstandsbediening van de televisie?	Где пульт от телевизора?
+De afzuigkap hangt boven het fornuis.	Вытяжка висит над плитой.
+Deze flat is ideaal voor alleenstaande mensen.	Эта квартира идеальна для одиноких людей.
+Het adres is als volgt: Hoofdstraat 10.	Адрес следующий: Hoofdstraat 10.
+De documenten liggen in de archiefkast.	Документы лежат в архивном шкафу.
+Ik neem elke avond een bad.	Я принимаю ванну каждый вечер.
+De badkamer is op de eerste verdieping.	Ванная комната на первом этаже.
+Leg de badmat naast de douche.	Положи коврик для ванной рядом с душем.
+Wij ontbijten op het balkon in de zomer.	Мы завтракаем на балконе летом.
+De bank staat in de woonkamer.	Диван стоит в гостиной.
+Een goede locatie is de basis voor een fijn huis.	Хорошее расположение — основа хорошего дома.
+De basisschool is vlakbij ons huis.	Начальная школа рядом с нашим домом.
+Het bed staat in de slaapkamer.	Кровать стоит в спальне.
+Wat bedoel je met "ruim"?	Что ты имеешь в виду под «просторным»?
+De keuken is op de begane grond.	Кухня на первом этаже.
+Wij gaan de slaapkamer behangen.	Мы собираемся оклеить спальню обоями.
+De behanger komt morgen.	Обойщик придёт завтра.
+Ik krijg een bekeuring voor fout parkeren.	Я получаю штраф за неправильную парковку.
+Wij gaan het huis bekijken.	Мы идём осматривать дом.
+Een goede locatie is belangrijk.	Хорошее расположение важно.
+De tegelzetter gaat de badkamer betegelen.	Плиточник будет класть плитку в ванной.
+De bezichtiging is om drie uur.	Осмотр в три часа.
+De school is bij het park.	Школа рядом с парком.
+Ik moet een boete betalen.	Я должен заплатить штраф.
+Er staat een grote boom in de tuin.	В саду стоит большое дерево.
+De slaapkamers zijn boven.	Спальни наверху.
+In de brochure staat informatie over het huis.	В брошюре есть информация о доме.
+De kinderen spelen buiten.	Дети играют на улице.
+Mijn laptop staat op het bureau.	Мой ноутбук стоит на письменном столе.
+De bureaulamp geeft goed licht.	Настольная лампа даёт хороший свет.
+Deze bureaustoel is erg comfortabel.	Этот офисный стул очень удобный.
+Onze buren zijn heel vriendelijk.	Наши соседи очень дружелюбные.
+In welke prijscategorie zoekt u?	В какой ценовой категории вы ищете?
+Het dak lekt als het regent.	Крыша протекает, когда идёт дождь.
+Wij hebben een mooi dakterras.	У нас красивая терраса на крыше.
+De huizenprijzen dalen.	Цены на жильё снижаются.
+Je bent dapper om zo'n oud huis te kopen.	Ты смелый, что покупаешь такой старый дом.
+Dat huis is te duur.	Тот дом слишком дорогой.
+Het dekbed is lekker warm.	Одеяло приятно тёплое.
+Deze woning heeft drie slaapkamers.	В этом жилье три спальни.
+Het station is dicht bij het huis.	Станция близко к дому.
+Die flat is te klein.	Та квартира слишком маленькая.
+Het huis is direct beschikbaar.	Дом сразу доступен.
+Dit appartement bevalt me.	Эта квартира мне нравится.
+De douche is in de badkamer.	Душ в ванной комнате.
+Het douchegordijn is vies, ik koop een nieuwe.	Шторка для душа грязная, я куплю новую.
+De uitleg van de makelaar was duidelijk.	Объяснение маклера было понятным.
+Wij zoeken een eengezinswoning met tuin.	Мы ищем дом на одну семью с садом.
+Eigenlijk wil ik liever een flat.	На самом деле я предпочитаю квартиру.
+De elektricien repareert het licht.	Электрик чинит свет.
+Er zit veel verschil tussen de prijzen.	Между ценами большая разница.
+De woning heeft twee etages.	В жилье два этажа.
+Ik zit graag in de fauteuil te lezen.	Я люблю сидеть читать в кресле.
+Er is een fietspad naast het huis.	Рядом с домом есть велосипедная дорожка.
+Wij wonen in een flat op de vijfde verdieping.	Мы живём в многоквартирном доме на пятом этаже.
+Ik kook op het fornuis.	Я готовлю на плите.
+De gang is lang en smal.	Коридор длинный и узкий.
+De auto staat in de garage.	Машина стоит в гараже.
+Er is veel geluidsoverlast van de snelweg.	Много шума от автострады.
+De woonkamer is groot genoeg.	Гостиная достаточно большая.
+Ik was de borden af in de gootsteen.	Я мою тарелки в раковине.
+De gordijnen zijn blauw.	Шторы синие.
+De prijs is gunstig voor deze locatie.	Цена выгодная для этого расположения.
+Hang je jas in de hal.	Повесь куртку в прихожей.
+De lamp hangt aan het plafond.	Лампа висит на потолке.
+De kast staat in de hoek van de kamer.	Шкаф стоит в углу комнаты.

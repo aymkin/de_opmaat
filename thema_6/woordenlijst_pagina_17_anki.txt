@@ -1,0 +1,98 @@
+#separator:tab
+#html:false
+Een hoekwoning heeft meer licht dan een tussenwoning.	Угловой дом светлее, чем дом в середине ряда.
+De hond slaapt in de gang.	Собака спит в коридоре.
+Er ligt veel hondenpoep op straat.	На улице много собачьих экскрементов.
+Ik hoop snel van u te horen.	Надеюсь скоро от вас услышать.
+De hovenier onderhoudt onze tuin.	Садовник ухаживает за нашим садом.
+Mijn huidige woning is te klein.	Моё нынешнее жильё слишком маленькое.
+De huur is 800 euro per maand.	Арендная плата 800 евро в месяц.
+Wij zoeken een huurwoning in het centrum.	Мы ищем съёмное жильё в центре.
+Wij hebben een hypotheek van de bank.	У нас ипотека от банка.
+Dit huis is ideaal voor ons gezin.	Этот дом идеален для нашей семьи.
+Heb je een idee voor de inrichting?	У тебя есть идея для обстановки?
+Ik zoek iets met een balkon.	Я ищу что-то с балконом.
+Kunt u meer informatie geven over het huis?	Можете дать больше информации о доме?
+Je inkomen bepaalt hoeveel je kunt lenen.	Твой доход определяет, сколько ты можешь занять.
+De isolatie van dit huis is slecht.	Изоляция этого дома плохая.
+Wij moeten het dak isoleren.	Нам нужно утеплить крышу.
+Deze woningen zijn voor jongeren.	Это жильё для молодёжи.
+De kachel brandt in de winter.	Печь топится зимой.
+Ik werk thuis in mijn kantoor.	Я работаю дома в своём кабинете.
+De kleren hangen in de kast.	Одежда висит в шкафу.
+De wijn staat in de kelder.	Вино стоит в подвале.
+De keuken is modern en ruim.	Кухня современная и просторная.
+Er is veel keus op de woningmarkt.	На рынке жилья большой выбор.
+De kinderopvang is vlakbij.	Детский сад рядом.
+De kledingkast staat in de slaapkamer.	Платяной шкаф стоит в спальне.
+Het kleed ligt op de vloer.	Ковёр лежит на полу.
+Ik heb nog veel klussen in huis.	У меня ещё много работы по дому.
+Ik klus graag in het weekend.	Я люблю делать ремонт в выходные.
+De melk staat in de koelkast.	Молоко стоит в холодильнике.
+Wij willen een koopwoning, geen huurwoning.	Мы хотим жильё в собственность, не съёмное.
+De kraan in de badkamer lekt.	Кран в ванной течёт.
+Ik zoek woningen in de krant.	Я ищу жильё в газете.
+Door de kredietcrisis dalen de huizenprijzen.	Из-за кредитного кризиса цены на жильё падают.
+Ik slaap met twee kussens.	Я сплю с двумя подушками.
+Wij leggen laminaat in de woonkamer.	Мы укладываем ламинат в гостиной.
+De lamp hangt aan het plafond.	Лампа висит на потолке.
+Mijn laptop staat op het bureau.	Мой ноутбук стоит на столе.
+Er is veel lawaai van de buren.	От соседей много шума.
+Wij leggen nieuw tapijt in de kamer.	Мы укладываем новый ковёр в комнате.
+Het dak lekt als het regent.	Крыша протекает, когда идёт дождь.
+In de lente is de tuin mooi.	Весной сад красивый.
+Er komt veel licht binnen door de ramen.	Через окна проникает много света.
+De lichtknop zit naast de deur.	Выключатель света рядом с дверью.
+Het ligt aan de locatie.	Это зависит от расположения.
+De loodgieter repareert de kraan.	Сантехник чинит кран.
+Ik warm het eten op in de magnetron.	Я разогреваю еду в микроволновке.
+De makelaar laat ons het huis zien.	Маклер показывает нам дом.
+Ik ga naar het makelaarskantoor.	Я иду в агентство недвижимости.
+Onze maximale huur is 1000 euro.	Наша максимальная аренда 1000 евро.
+Ik meld de overlast bij de verhuurder.	Я сообщаю о неудобствах арендодателю.
+De metselaar bouwt de muur.	Каменщик строит стену.
+Dit meubel is antiek.	Эта мебель антикварная.
+De muur is wit geverfd.	Стена покрашена в белый цвет.
+De bank staat naast de fauteuil.	Диван стоит рядом с креслом.
+De wekker staat op het nachtkastje.	Будильник стоит на прикроватной тумбочке.
+Ik heb een grotere woning nodig.	Мне нужно жильё побольше.
+Het raam kijkt op het noorden.	Окно выходит на север.
+Er staat een hek om de tuin.	Вокруг сада стоит забор.
+De omgeving is rustig en groen.	Район тихий и зелёный.
+De kat zit onder de tafel.	Кошка сидит под столом.
+De verhuurder onderhoudt het huis.	Арендодатель содержит дом.
+Ik ontdek een lek in het dak.	Я обнаруживаю протечку в крыше.
+Ik ben in deze wijk opgegroeid.	Я вырос в этом районе.
+Ik hang de gordijnen op.	Я вешаю шторы.
+Neem de meterstanden op.	Запишите показания счётчиков.
+Ik moet mijn kamer opruimen.	Мне нужно убрать комнату.
+De taart staat in de oven.	Пирог стоит в духовке.
+De winkel is aan de overkant van de straat.	Магазин на противоположной стороне улицы.
+Er is veel overlast van de buren.	От соседей много неудобств.
+Het park is vlakbij het huis.	Парк рядом с домом.
+Er is een parkeerplaats bij het huis.	При доме есть парковочное место.
+Het parket in de woonkamer is mooi.	Паркет в гостиной красивый.
+Na mijn pensioen wil ik kleiner wonen.	После пенсии я хочу жить в меньшем жилье.
+De lamp hangt aan het plafond.	Лампа висит на потолке.
+Er ligt poep op het trottoir.	На тротуаре лежат какашки.
+De hond poept in de tuin.	Собака какает в саду.
+Het is prettig wonen in deze buurt.	В этом районе приятно жить.
+In welke prijscategorie zoekt u?	В какой ценовой категории вы ищете?
+Deze woning is in de hogere prijsklasse.	Это жильё в более высоком ценовом классе.
+De printer staat op het bureau.	Принтер стоит на столе.
+De raamkozijnen zijn van hout.	Оконные рамы из дерева.
+Recent zijn de prijzen gestegen.	Недавно цены выросли.
+De huur is relatief laag.	Аренда относительно низкая.
+De loodgieter repareert de kraan.	Сантехник чинит кран.
+De huur is rond de 800 euro.	Аренда около 800 евро.
+Het huis heeft een renovatie nodig.	Дому нужен ремонт.
+De woonkamer is ruim en licht.	Гостиная просторная и светлая.
+Wij wonen in een rijtjeshuis.	Мы живём в таунхаусе.
+De buurt is rustig.	Район тихий.
+De salontafel staat voor de bank.	Журнальный столик стоит перед диваном.
+Wij gaan samenwonen in een nieuwe flat.	Мы будем жить вместе в новой квартире.
+De schemerlamp geeft zacht licht.	Торшер даёт мягкий свет.
+De zon schijnt door het raam.	Солнце светит через окно.
+De schilder verft de muren.	Маляр красит стены.
+Wij gaan de kamer schilderen.	Мы будем красить комнату.
+Het schilderij hangt aan de muur.	Картина висит на стене.

@@ -1,0 +1,70 @@
+#separator:tab
+#html:false
+De schoorsteen is op het dak.	Дымоход на крыше.
+De fietsen staan in de schuur.	Велосипеды стоят в сарае.
+In welk seizoen wil je verhuizen?	В какой сезон ты хочешь переехать?
+Mijn oma woont in een seniorenwoning.	Моя бабушка живёт в жилье для пожилых.
+De sfeer in dit huis is gezellig.	Атмосфера в этом доме уютная.
+Ik woon hier sinds 2020.	Я живу здесь с 2020 года.
+De situatie op de woningmarkt is moeilijk.	Ситуация на рынке жилья сложная.
+De slaapkamer is op de eerste verdieping.	Спальня на первом этаже.
+Het slot van de deur is kapot.	Замок двери сломан.
+De spiegel hangt in de badkamer.	Зеркало висит в ванной.
+Mijn spullen staan in dozen.	Мои вещи стоят в коробках.
+Deze flat is ideaal voor starters.	Эта квартира идеальна для начинающих.
+Het huis heeft een moderne stijl.	Дом имеет современный стиль.
+De stoel staat aan de tafel.	Стул стоит у стола.
+Ik werk in de studeerkamer.	Я работаю в кабинете.
+De tablet ligt op de salontafel.	Планшет лежит на журнальном столике.
+De tafel staat in de eetkamer.	Стол стоит в столовой.
+Er staat een tafeltje naast de bank.	Рядом с диваном стоит столик.
+Het tapijt ligt in de woonkamer.	Ковёр лежит в гостиной.
+De tapijtlegger legt nieuw tapijt.	Укладчик ковров укладывает новый ковёр.
+De tegelzetter betegelt de badkamer.	Плиточник укладывает плитку в ванной.
+De televisie staat in de woonkamer.	Телевизор стоит в гостиной.
+De kast staat tegen de muur.	Шкаф стоит у стены.
+De buren wonen tegenover ons.	Соседи живут напротив нас.
+Ik ben tevreden met mijn nieuwe woning.	Я доволен своим новым жильём.
+De tijdschriften liggen op de salontafel.	Журналы лежат на журнальном столике.
+De timmerman maakt een nieuwe kast.	Плотник делает новый шкаф.
+Het toilet is op de begane grond.	Туалет на первом этаже.
+Het totaal is 1200 euro per maand.	Всего 1200 евро в месяц.
+De trap gaat naar de eerste verdieping.	Лестница ведёт на первый этаж.
+De tuin is achter het huis.	Сад за домом.
+Ik tuinier graag in het weekend.	Я люблю заниматься садом в выходные.
+De keuken is tussen de woonkamer en de hal.	Кухня между гостиной и прихожей.
+Een tussenwoning heeft buren aan beide kanten.	У среднего дома соседи с обеих сторон.
+Wij wonen in een twee-onder-een-kap-woning.	Мы живём в двухквартирном доме.
+Het tweepersoonsbed past niet in de kamer.	Двуспальная кровать не помещается в комнате.
+Maak het licht uit als je weggaat.	Выключи свет, когда уходишь.
+Ik laat de hond uit in het park.	Я выгуливаю собаку в парке.
+De vaas staat op de tafel.	Ваза стоит на столе.
+De borden staan in de vaatwasser.	Тарелки стоят в посудомоечной машине.
+De buurt is veilig voor kinderen.	Район безопасен для детей.
+Het huis heeft drie verdiepingen.	В доме три этажа.
+Wij verhuizen naar een nieuwe woning.	Мы переезжаем в новое жильё.
+Er is veel verkeersoverlast in deze straat.	На этой улице много помех от транспорта.
+Wij willen ons huis verkopen.	Мы хотим продать наш дом.
+De gootsteen is verstopt.	Раковина засорилась.
+Ik moet de lamp vervangen.	Мне нужно заменить лампу.
+De verwarming staat hoog in de winter.	Отопление стоит на высоком уровне зимой.
+Ik verzamel oude schilderijen.	Я коллекционирую старые картины.
+De vitrage hangt voor het raam.	Тюль висит перед окном.
+De vlag hangt aan het balkon.	Флаг висит на балконе.
+Ik stel me voor dat hier een bank staat.	Я представляю, что здесь стоит диван.
+Dit voorwerp is een antieke lamp.	Этот предмет — антикварная лампа.
+De prijzen stijgen waarschijnlijk.	Цены, вероятно, вырастут.
+De wasmachine staat in de badkamer.	Стиральная машина стоит в ванной.
+De wastafel is in de badkamer.	Умывальник в ванной.
+De wc is apart van de badkamer.	Туалет отдельно от ванной.
+De wekker gaat om zeven uur.	Будильник звонит в семь часов.
+Ik heb een eigen werkkamer nodig.	Мне нужен собственный рабочий кабинет.
+Wij wonen in een rustige wijk.	Мы живём в тихом районе.
+Wij gaan het plafond witten.	Мы будем белить потолок.
+Wij zoeken een woning met tuin.	Мы ищем жильё с садом.
+De woningmarkt is moeilijk voor starters.	Рынок жилья сложен для начинающих.
+De woonkamer is ruim en licht.	Гостиная просторная и светлая.
+Ik zoek een woning zoals deze.	Я ищу жильё, как это.
+De dozen staan op zolder.	Коробки стоят на чердаке.
+De zon schijnt in de woonkamer.	Солнце светит в гостиной.
+Mijn vrouw is zwanger, we hebben meer ruimte nodig.	Моя жена беременна, нам нужно больше места.
