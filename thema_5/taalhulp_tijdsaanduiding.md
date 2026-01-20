@@ -1,75 +1,50 @@
 # Taalhulp ➤ Tijdsaanduiding
-eerst
-Je moet eerst naar www.belbios.nl gaan.
 
-dan
-Dan kan je een stad selecteren.
+eerst Je moet eerst naar www.belbios.nl gaan.
 
-daarna
-Daarna kan je een film selecteren.
+dan Dan kan je een stad selecteren.
 
-vervolgens
-Vervolgens kan je informatie over de film lezen.
+daarna Daarna kan je een film selecteren.
 
-tot slot
-Tot slot kan je een kaartje reserveren.
+vervolgens Vervolgens kan je informatie over de film lezen.
 
-ten slotte
-Ten slotte kan je een kaartje reserveren.
+tot slot Tot slot kan je een kaartje reserveren.
 
-om
-Veel Nederlanders eten om zes uur
+ten slotte Ten slotte kan je een kaartje reserveren.
 
-voor
-Je kan me voor twaalf uur bellen. Daarna ben ik weg.
+om Veel Nederlanders eten om zes uur
 
-na
-Na de lunch controleer ik mijn mail.
+voor Je kan me voor twaalf uur bellen. Daarna ben ik weg.
 
-tot
-Ik werk tot vijf uur.
+na Na de lunch controleer ik mijn mail.
 
-van tot
-Het instituut is van negen uur 's ochtends tot tien uur 's avonds open.
+tot Ik werk tot vijf uur.
 
-tussen ... en
-Tussen twaalf en één is de administratie gesloten.
+van tot Het instituut is van negen uur 's ochtends tot tien uur 's avonds open.
 
-op
-Op maandag ben ik vrij.
-Op vijf december vieren we pakjesavond.
+tussen ... en Tussen twaalf en één is de administratie gesloten.
 
-van tot en met ...
-Ik werk vier dagen per week: van dinsdag tot en met vrijdag.
+op Op maandag ben ik vrij. Op vijf december vieren we pakjesavond.
 
-in ...
-In de zomer neemt hij altijd drie weken vrij.
-In juni begint de zomer.
-In het weekend gaan we graag naar de film.
+van tot en met ... Ik werk vier dagen per week: van dinsdag tot en met vrijdag.
 
-over
-Over drie weken heb ik vakantie.
-Over vijf maanden gaat mijn broer trouwen.
+in ... In de zomer neemt hij altijd drie weken vrij. In juni begint de zomer. In
+het weekend gaan we graag naar de film.
+
+over Over drie weken heb ik vakantie. Over vijf maanden gaat mijn broer trouwen.
 Over twee jaar is zij klaar met haar studie.
 
-volgend(e)...
-Volgend jaar willen ze naar Amerika gaan.
-Volgende maand begint de vakantie.
-Volgende week woensdag ben ik jarig.
+volgend(e)... Volgend jaar willen ze naar Amerika gaan. Volgende maand begint de
+vakantie. Volgende week woensdag ben ik jarig.
 
-komend(e) ...
-Komende woensdag ben ik jarig.
-Komend weekend gaan we naar Haarlem.
+komend(e) ... Komende woensdag ben ik jarig. Komend weekend gaan we naar
+Haarlem.
 
-aanstaande (a.s.)...
-Aanstaande maandag begint de nieuwe cursus.
-geleden
-Zes weken geleden ben ik in Parijs geweest.
+aanstaande (a.s.)... Aanstaande maandag begint de nieuwe cursus. geleden Zes
+weken geleden ben ik in Parijs geweest.
 
-afgelopen ...
-Afgelopen zondag zijn we naar het Van Gogh museum in
-Amsterdam geweest.
+afgelopen ... Afgelopen zondag zijn we naar het Van Gogh museum in Amsterdam
+geweest.
 
-vorig(e) ...
-Vorig jaar is hij twee maanden in Australië geweest.
-Vorige week maandag ben ik met mijn nieuwe baan begonnen.
+vorig(e) ... Vorig jaar is hij twee maanden in Australië geweest. Vorige week
+maandag ben ik met mijn nieuwe baan begonnen.
