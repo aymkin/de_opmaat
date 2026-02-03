@@ -12,18 +12,37 @@ documents.
 
 ## Directory Structure
 
-- `thema_1/` through `thema_4/` - Course materials organized by theme/chapter
+- `thema_1/` through `thema_7/` - Course materials organized by theme/chapter
+- `daily/` - Daily practice sessions with dated subfolders (e.g.,
+  `11_dec_2025/`)
+- `stories/` - Narrative exercises with bolded verbs and grammar patterns
+- `transcriptions/` - Audio transcripts
 - `existin_not_sorted/` - Raw/unsorted learning materials and vocabulary exports
-- `other/` - Administrative documents (registration forms, payment receipts)
-- Root contains supplementary materials (e.g., verb conjugation lists)
+- `other/` - Administrative documents and learning methodology notes
+
+## Commands
+
+```bash
+npm run format        # Format all markdown files with Prettier
+npm run format:check  # Check formatting without changes
+```
+
+## File Naming Conventions
+
+| Pattern                            | Example                                  | Purpose                   |
+| ---------------------------------- | ---------------------------------------- | ------------------------- |
+| `{N}_opdracht.md`                  | `6_opdracht.md`                          | Numbered exercises        |
+| `woordenlijst_pagina_{N}_anki.txt` | `woordenlijst_pagina_16_anki.txt`        | Vocabulary by page        |
+| `grammatica_{topic}.md`            | `grammatica_praten_over_het_verleden.md` | Grammar explanations      |
+| `taalhulp_{topic}_anki.txt`        | `taalhulp_klok_anki.txt`                 | Topic-specific flashcards |
+| `verhaal_{NN}_{title}.md`          | `verhaal_01_de_reis_naar_amsterdam.md`   | Story exercises           |
 
 ## Common File Types
 
 - `.pdf` - Vocabulary lists (woordenlijst), tests (toetsen), answer keys
   (beoordeling)
 - `.mp3` - Audio exercises and listening materials
-- `.docx` - Word documents for forms and reference materials
-- `.md` - Converted tests and grammar notes for interactive practice
+- `.md` - Exercises, grammar notes, error tracking, stories
 - `*_anki.txt` - Anki flashcard format files (see format below)
 
 ## Anki File Formats
@@ -56,41 +75,118 @@ Audio files reference external TTS services:
 - ElevenLabs: `[sound:elevenlabs_filename.mp3]`
 - Amazon Polly: `[sound:polly_filename.mp3]`
 
-## Common Tasks
+### Construction Cards (Multisensory Format)
 
-### PDF to Markdown Conversion
+For language constructions (ready-made phrases), use the multisensory format
+that activates multiple memory systems:
 
-Convert PDF tests to editable markdown for interactive practice sessions. Output
-should preserve exercise structure with blank answer spaces.
+**File naming:** `constructies_{topic}_anki.txt`
 
-### Interactive Dutch Practice
+**Header:**
 
-- Review and correct user's Dutch sentences
-- Provide grammar explanations when corrections are needed
-- Track common spelling mistakes to reinforce learning
+```
+#separator:tab
+#html:true
+#tags column:6
+```
 
-### Working with Anki Files
+**Fields:** Russian prompt | Dutch construction | Context sentences | Image cue
+| Audio | Tags
 
-- When creating new word lists, maintain the Anki format conventions
-- Dutch nouns should include articles (de/het)
-- Keep thematic organization when adding new content
-- Dialogues can exist in plain text and audio-referenced versions
+**Card template (front):**
 
-### Grammar Explanations
+```
+🇷🇺 {{Russian prompt}}
 
-When explaining Dutch grammar, use tables to show word order patterns:
+💭 Где ты это используешь? (think before flipping)
+```
 
-- **want** → normal word order (subject + verb)
-- **omdat/als** → verb to the end
-- **inversie** → when sentence starts with non-subject element
+**Card template (back):**
 
-### Spelling Corrections
+```
+🇳🇱 {{Dutch construction}}
 
-Common mistakes to watch for:
+🔊 {{Audio}}
 
-- kapot (not capot)
-- stropdas (not stroopdas)
-- het station (het-woord, not de)
+📝 {{Context sentences}}
+
+🖼️ {{Image cue}}
+```
+
+**Example entry:**
+
+```
+Я хотел бы...	Ik zou graag...	- Ik zou graag een tafel reserveren.<br>- Ik zou graag meer informatie willen.	представь себя в ресторане	[sound:ik_zou_graag.mp3]	constructies::vragen::A2
+```
+
+**Construction categories for tags:**
+
+| Category   | Tag prefix                | Examples                           |
+| ---------- | ------------------------- | ---------------------------------- |
+| Opinions   | `constructies::mening`    | Ik vind dat..., Naar mijn mening.. |
+| Requests   | `constructies::vragen`    | Zou ik... mogen?, Kunt u...        |
+| Causes     | `constructies::oorzaak`   | Omdat..., Daarom...                |
+| Time/Order | `constructies::tijd`      | Ten eerste..., Uiteindelijk...     |
+| Comparison | `constructies::contrast`  | Aan de ene kant..., Terwijl...     |
+| Daily      | `constructies::dagelijks` | Hoeveel kost...?, Waar is...?      |
+| Fillers    | `constructies::fillers`   | Nou..., Eigenlijk...               |
+
+**Level tags:** Add `::A1`, `::A2`, or `::B1` suffix based on complexity.
+
+**Reference:** See
+`other/language_learning_methods/integrated_method_daily_routine.md` for the
+full construction library (65+ phrases) organized by communicative function.
+
+## Content Conventions
+
+### Vocabulary
+
+- Dutch nouns must include articles: `het stokbrood`, `de stroopwafel`
+- Provide Russian translations; English as supplementary
+- Show sentences in context (positive, negative, interrogative forms)
+
+### Exercise Markdown Format
+
+Use visual indicators for corrections:
+
+- ✅ for correct answers
+- ❌ for incorrect
+- ~~strikethrough~~ for wrong parts with correction following
+
+### Error Tracking Notes
+
+Structure error notes with:
+
+- Date stamp
+- Sections: Spelling errors, Grammar rules, Frequency words
+- Markdown tables showing: Error | Correction | Rule/Tip
+
+### Story Files
+
+Include:
+
+- Narrative text with **bolded verbs** for pattern recognition
+- Grammar summary tables
+- Vocabulary list (Dutch → Russian → English)
+
+## Grammar Reference
+
+When explaining Dutch grammar, use tables for word order patterns:
+
+| Conjunction | Word Order         | Example                            |
+| ----------- | ------------------ | ---------------------------------- |
+| **want**    | normal (S + V)     | Ik blijf thuis, want ik ben ziek.  |
+| **omdat**   | verb to end        | Ik blijf thuis, omdat ik ziek ben. |
+| **als**     | verb to end        | Als het regent, blijf ik thuis.    |
+| (inversie)  | V + S after adverb | Morgen ga ik naar Amsterdam.       |
+
+### Common Spelling Corrections
+
+| Wrong      | Correct     | Note           |
+| ---------- | ----------- | -------------- |
+| capot      | kapot       | Dutch uses 'k' |
+| stroopdas  | stropdas    | Single 'o'     |
+| de station | het station | het-woord      |
 
 ## Language Context
 
@@ -98,12 +194,3 @@ Common mistakes to watch for:
 - User's native language: Russian/Ukrainian
 - Course level: A2 (elementary)
 - Provide bilingual support when helpful (Dutch ↔ Russian/English)
-- How to generate stories and postactions: What's included:
-  - The story text with bolded verbs for easy pattern recognition
-  - Grammar summary tables showing each pattern
-  - Vocabulary list (Dutch → Russian → English)
-
-  Would you like me to:
-  1. Create more stories with different themes (shopping, daily routine)?
-  2. Add audio script markers for ElevenLabs TTS?
-  3. Create an Anki-compatible version of the story sentences?
