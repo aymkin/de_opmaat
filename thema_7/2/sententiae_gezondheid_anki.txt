@@ -1,0 +1,65 @@
+#separator:tab
+#html:true
+#tags column:4
+
+Hoi schat, lekker getennist?	Привет, дорогой, хорошо поиграл в теннис?	[sound:h07_oefening_02_sentence_001.mp3]	sententiae::gezondheid::A2::audio
+Niet echt.	Не совсем.	[sound:h07_oefening_02_sentence_002.mp3]	sententiae::gezondheid::A2::audio
+Het eerste half uur heb ik heerlijk gespeeld, maar toen maakte ik een verkeerde beweging.	Первые полчаса я прекрасно играл, но потом сделал неправильное движение.	[sound:h07_oefening_02_sentence_003.mp3]	sententiae::gezondheid::A2::audio
+Nu heb ik zo'n pijn aan mijn linkerenkel.	Теперь у меня такая боль в левой лодыжке.	[sound:h07_oefening_02_sentence_004.mp3]	sententiae::gezondheid::A2::audio
+Volgens mij is hij dikker.	По-моему, она опухла (стала толще).	[sound:h07_oefening_02_sentence_005.mp3]	sententiae::gezondheid::A2::audio
+Doe je sokken eens even uit.	Сними-ка носки.	[sound:h07_oefening_02_sentence_006.mp3]	sententiae::gezondheid::A2::audio
+Ja inderdaad, deze enkel is dikker dan de andere.	Да, действительно, эта лодыжка толще другой.	[sound:h07_oefening_02_sentence_007.mp3]	sententiae::gezondheid::A2::audio
+Auww, kijk uit, niet aankomen!	Ауу, осторожно, не трогай!	[sound:h07_oefening_02_sentence_008.mp3]	sententiae::gezondheid::A2::audio
+Sorry, hoor.	Извини.	[sound:h07_oefening_02_sentence_010.mp3]	sententiae::gezondheid::A2::audio
+Tja, ik denk dat je even langs de huisarts moet.	Ну, я думаю тебе нужно зайти к врачу.	[sound:h07_oefening_02_sentence_011.mp3]	sententiae::gezondheid::A2::audio
+Ja, dat denk ik ook.	Да, я тоже так думаю.	[sound:h07_oefening_02_sentence_012.mp3]	sententiae::gezondheid::A2::audio
+Ik zal even bellen voor een afspraak.	Я позвоню записаться на приём.	[sound:h07_oefening_02_sentence_013.mp3]	sententiae::gezondheid::A2::audio
+Goedemiddag, huisartsenpraktijk Notenbomenlaan.	Добрый день, врачебная практика на Нотенбоменлан.	[sound:h07_oefening_02_sentence_014.mp3]	sententiae::gezondheid::A2::audio
+Goedemiddag, u spreekt met Willem van Dijk.	Добрый день, вы говорите с Виллемом ван Дейком.	[sound:h07_oefening_02_sentence_015.mp3]	sententiae::gezondheid::A2::audio
+Ik heb met tennissen een verkeerde beweging gemaakt en nu is mijn linkerenkel dik.	Я сделал неправильное движение во время тенниса, и теперь моя левая лодыжка опухла.	[sound:h07_oefening_02_sentence_017.mp3]	sententiae::gezondheid::A2::audio
+Kan de dokter er even naar kijken?	Может врач посмотреть?	[sound:h07_oefening_02_sentence_019.mp3]	sententiae::gezondheid::A2::audio
+Wanneer is het gebeurd?	Когда это случилось?	[sound:h07_oefening_02_sentence_020.mp3]	sententiae::gezondheid::A2::audio
+Vanmiddag om 13.30 uur ongeveer.	Сегодня днём, около 13:30.	[sound:h07_oefening_02_sentence_021.mp3]	sententiae::gezondheid::A2::audio
+Hebt u al ijs op uw enkel gelegd?	Вы уже приложили лёд к лодыжке?	[sound:h07_oefening_02_sentence_022.mp3]	sententiae::gezondheid::A2::audio
+Nee, nog niet.	Нет, ещё нет.	[sound:h07_oefening_02_sentence_023.mp3]	sententiae::gezondheid::A2::audio
+Ik heb thuis pas gezien dat de enkel dikker was.	Я только дома увидел, что лодыжка опухла.	[sound:h07_oefening_02_sentence_024.mp3]	sententiae::gezondheid::A2::audio
+U kunt het beste uw enkel nu meteen koelen.	Вам лучше сразу охладить лодыжку.	[sound:h07_oefening_02_sentence_025.mp3]	sententiae::gezondheid::A2::audio
+Ik kijk even in de agenda.	Я посмотрю в расписании.	[sound:h07_oefening_02_sentence_026.mp3]	sententiae::gezondheid::A2::audio
+Kunt u over een half uur hier zijn?	Вы можете быть здесь через полчаса?	[sound:h07_oefening_02_sentence_027.mp3]	sententiae::gezondheid::A2::audio
+Ja hoor, dat is prima. Tot zo!	Да, конечно, отлично. До скорого!	[sound:h07_oefening_02_sentence_028.mp3]	sententiae::gezondheid::A2::audio
+Tot zo.	До скорого.	[sound:h07_oefening_02_sentence_029.mp3]	sententiae::gezondheid::A2::audio
+Hallo, Willem.	Здравствуй, Виллем.	[sound:h07_oefening_02_sentence_031.mp3]	sententiae::gezondheid::A2::audio
+Ik heb gehoord dat je last hebt van je enkel.	Я слышал, что у тебя проблемы с лодыжкой.	[sound:h07_oefening_02_sentence_032.mp3]	sententiae::gezondheid::A2::audio
+Vertel eens. Wat is er gebeurd?	Расскажи. Что случилось?	[sound:h07_oefening_02_sentence_033.mp3]	sententiae::gezondheid::A2::audio
+Nou, ik was vanmiddag met een vriend aan het tennissen.	Ну, я сегодня днём играл в теннис с другом.	[sound:h07_oefening_02_sentence_034.mp3]	sententiae::gezondheid::A2::audio
+En ik heb een verkeerde beweging gemaakt.	И сделал неправильное движение.	[sound:h07_oefening_02_sentence_035.mp3]	sententiae::gezondheid::A2::audio
+En toen ben ik door mijn linkerenkel gegaan.	И тогда я подвернул левую лодыжку.	[sound:h07_oefening_02_sentence_036.mp3]	sententiae::gezondheid::A2::audio
+Hij is helemaal dik geworden.	Она совсем опухла.	[sound:h07_oefening_02_sentence_037.mp3]	sententiae::gezondheid::A2::audio
+En hoe ben je hier naartoe gekomen?	И как ты сюда добрался?	[sound:h07_oefening_02_sentence_039.mp3]	sententiae::gezondheid::A2::audio
+Achterop de fiets van mijn vriendin.	На багажнике велосипеда моей подруги.	[sound:h07_oefening_02_sentence_040.mp3]	sententiae::gezondheid::A2::audio
+Kun je nog lopen?	Ты ещё можешь ходить?	[sound:h07_oefening_02_sentence_041.mp3]	sententiae::gezondheid::A2::audio
+Ja, een beetje, maar het doet pijn.	Да, немного, но больно.	[sound:h07_oefening_02_sentence_042.mp3]	sententiae::gezondheid::A2::audio
+Ik loop heel voorzichtig of ik hinkel.	Я хожу очень осторожно или прыгаю на одной ноге.	[sound:h07_oefening_02_sentence_043.mp3]	sententiae::gezondheid::A2::audio
+Doe maar even je schoenen en sokken uit.	Сними обувь и носки.	[sound:h07_oefening_02_sentence_045.mp3]	sententiae::gezondheid::A2::audio
+Dan zal ik even kijken.	Тогда я посмотрю.	[sound:h07_oefening_02_sentence_046.mp3]	sententiae::gezondheid::A2::audio
+Kun je aanwijzen waar het precies pijn doet?	Можешь показать, где именно болит?	[sound:h07_oefening_02_sentence_047.mp3]	sententiae::gezondheid::A2::audio
+Hier.	Здесь.	[sound:h07_oefening_02_sentence_048.mp3]	sententiae::gezondheid::A2::audio
+Als ik hier druk, doet het dan pijn?	Если я нажму здесь, будет больно?	[sound:h07_oefening_02_sentence_049.mp3]	sententiae::gezondheid::A2::audio
+Niet echt.	Не особо.	[sound:h07_oefening_02_sentence_050.mp3]	sententiae::gezondheid::A2::audio
+En als ik hier druk?	А если я нажму здесь?	[sound:h07_oefening_02_sentence_051.mp3]	sententiae::gezondheid::A2::audio
+Au! Ja, dat doet ontzettend pijn!	Ай! Да, это ужасно больно!	[sound:h07_oefening_02_sentence_053.mp3]	sententiae::gezondheid::A2::audio
+Draai eens met je enkel naar rechts.	Поверни лодыжку вправо.	[sound:h07_oefening_02_sentence_054.mp3]	sententiae::gezondheid::A2::audio
+En naar links.	И влево.	[sound:h07_oefening_02_sentence_055.mp3]	sententiae::gezondheid::A2::audio
+Trek je tenen naar je toe.	Потяни пальцы ног к себе.	[sound:h07_oefening_02_sentence_056.mp3]	sententiae::gezondheid::A2::audio
+Mmm, ja, ik zie dat je niet de hele beweging kunt maken.	Ммм, да, я вижу, что ты не можешь сделать полное движение.	[sound:h07_oefening_02_sentence_058.mp3]	sententiae::gezondheid::A2::audio
+Goed, je enkel is gelukkig niet gebroken.	Хорошо, твоя лодыжка, к счастью, не сломана.	[sound:h07_oefening_02_sentence_060.mp3]	sententiae::gezondheid::A2::audio
+Hij is gekneusd.	Она ушиблена.	[sound:h07_oefening_02_sentence_061.mp3]	sententiae::gezondheid::A2::audio
+De assistente zal een rekverband aanbrengen.	Ассистентка наложит эластичный бинт.	[sound:h07_oefening_02_sentence_062.mp3]	sententiae::gezondheid::A2::audio
+Je moet het verband één week omhouden.	Ты должен носить повязку одну неделю.	[sound:h07_oefening_02_sentence_063.mp3]	sententiae::gezondheid::A2::audio
+Je mag er gewoon op lopen, maar niet door de pijn heenlopen.	Ты можешь нормально ходить, но не ходить через боль.	[sound:h07_oefening_02_sentence_064.mp3]	sententiae::gezondheid::A2::audio
+Als je over twee weken nog last hebt, moet je terugkomen.	Если через две недели ещё будут проблемы, нужно вернуться.	[sound:h07_oefening_02_sentence_065.mp3]	sententiae::gezondheid::A2::audio
+Dan moet je misschien naar de fysiotherapeut.	Тогда тебе, возможно, нужно к физиотерапевту.	[sound:h07_oefening_02_sentence_066.mp3]	sententiae::gezondheid::A2::audio
+Oké. Dus één week verband en na twee weken eventueel terugkomen en naar de fysiotherapeut.	Окей. Значит, неделю повязку и через две недели, возможно, вернуться к физиотерапевту.	[sound:h07_oefening_02_sentence_068.mp3]	sententiae::gezondheid::A2::audio
+Bedankt, dokter.	Спасибо, доктор.	[sound:h07_oefening_02_sentence_069.mp3]	sententiae::gezondheid::A2::audio
+Graag gedaan.	Пожалуйста.	[sound:h07_oefening_02_sentence_070.mp3]	sententiae::gezondheid::A2::audio
+En sterkte met het herstel.	И удачи с выздоровлением.	[sound:h07_oefening_02_sentence_071.mp3]	sententiae::gezondheid::A2::audio

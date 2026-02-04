@@ -19,6 +19,7 @@ documents.
 - `transcriptions/` - Audio transcripts
 - `existin_not_sorted/` - Raw/unsorted learning materials and vocabulary exports
 - `other/` - Administrative documents and learning methodology notes
+- `scripts/` - Automation utilities (audio_to_anki.py, etc.)
 
 ## Commands
 
@@ -27,15 +28,107 @@ npm run format        # Format all markdown files with Prettier
 npm run format:check  # Check formatting without changes
 ```
 
+## Scripts
+
+> **Подробная документация:** `scripts/README.md`
+
+### audio_to_anki.py — Audio to Anki Sentence Cards
+
+Автоматически нарезает аудио диалогов на предложения и создаёт Anki карточки
+с оригинальной озвучкой из учебника.
+
+**Быстрый старт:**
+
+```bash
+python3 scripts/audio_to_anki.py thema_7/2/h07_oefening_02.mp3 \
+    --theme gezondheid \
+    --copy-to-anki
+```
+
+**Параметры:**
+
+| Параметр | Описание | По умолчанию |
+|----------|----------|--------------|
+| `audio` | Путь к MP3 файлу | (обязательный) |
+| `--theme` | Тема для тегов | `general` |
+| `--level` | Уровень CEFR | `A2` |
+| `--copy-to-anki` | Автокопирование в Anki media | выключено |
+
+**Что создаёт:**
+
+```
+thema_X/N/
+├── {name}.json                # Whisper таймстемпы
+├── {name}_sentences/          # Нарезанные MP3 файлы
+└── sententiae_{theme}_anki.txt  # Импортировать в Anki
+```
+
+**После выполнения:**
+
+1. Заполни переводы в `sententiae_{theme}_anki.txt`
+2. Импортируй в Anki: File → Import
+3. (опционально) Tools → Check Media
+
+**Зависимости:**
+
+```bash
+brew install ffmpeg && pip install openai-whisper
+```
+
+## Anki Integration
+
+### Media Folder
+
+Скрипт автоматически находит Anki media folder по профилю пользователя.
+
+**Текущий профиль:** `alex`
+
+```
+~/Library/Application Support/Anki2/alex/collection.media/
+```
+
+### Ручное копирование (если не используешь --copy-to-anki)
+
+```bash
+cp path/to/sentences/*.mp3 ~/Library/Application\ Support/Anki2/alex/collection.media/
+```
+
+### Настройка карточки (один раз)
+
+**Tools → Manage Note Types → [тип] → Fields:**
+
+- Front (нидерландский текст)
+- Back (русский перевод)
+- Audio (ссылка на звук)
+
+**Cards → Front Template:**
+
+```html
+{{Front}}
+{{Audio}}
+```
+
+**Cards → Back Template:**
+
+```html
+{{FrontSide}}
+<hr id=answer>
+{{Back}}
+```
+
+**После копирования:** В Anki выполни **Tools → Check Media** для обновления индекса
+
 ## File Naming Conventions
 
-| Pattern                            | Example                                  | Purpose                   |
-| ---------------------------------- | ---------------------------------------- | ------------------------- |
-| `{N}_opdracht.md`                  | `6_opdracht.md`                          | Numbered exercises        |
-| `woordenlijst_pagina_{N}_anki.txt` | `woordenlijst_pagina_16_anki.txt`        | Vocabulary by page        |
-| `grammatica_{topic}.md`            | `grammatica_praten_over_het_verleden.md` | Grammar explanations      |
-| `taalhulp_{topic}_anki.txt`        | `taalhulp_klok_anki.txt`                 | Topic-specific flashcards |
-| `verhaal_{NN}_{title}.md`          | `verhaal_01_de_reis_naar_amsterdam.md`   | Story exercises           |
+| Pattern                            | Example                                  | Purpose                      |
+| ---------------------------------- | ---------------------------------------- | ---------------------------- |
+| `{N}_opdracht.md`                  | `6_opdracht.md`                          | Numbered exercises           |
+| `woordenlijst_pagina_{N}_anki.txt` | `woordenlijst_pagina_16_anki.txt`        | Vocabulary by page           |
+| `grammatica_{topic}.md`            | `grammatica_praten_over_het_verleden.md` | Grammar explanations         |
+| `taalhulp_{topic}_anki.txt`        | `taalhulp_klok_anki.txt`                 | Topic-specific flashcards    |
+| `verhaal_{NN}_{title}.md`          | `verhaal_01_de_reis_naar_amsterdam.md`   | Story exercises              |
+| `sententiae_{theme}_anki.txt`      | `sententiae_gezondheid_anki.txt`         | Sentence cards with audio    |
+| `{audio}_sentences/`               | `h07_oefening_02_sentences/`             | Split audio segments folder  |
 
 ## Common File Types
 
@@ -67,6 +160,26 @@ Fields: Dutch term | Russian translation | Notes | Audio | Tags
 ```
 
 Fields: Dutch sentence | Russian translation
+
+**Sentence cards with audio** (from audio_to_anki.py):
+
+```
+#separator:tab
+#html:true
+#tags column:4
+```
+
+Fields: Dutch sentence | Russian translation | Audio | Tags
+
+**File naming:** `sententiae_{theme}_anki.txt`
+
+**Example entry:**
+
+```
+Hoi schat, lekker getennist?	Привет, дорогой, хорошо поиграл в теннис?	[sound:h07_oefening_02_sentence_001.mp3]	sententiae::gezondheid::A2::audio
+```
+
+**Tag structure:** `sententiae::{theme}::{level}::audio`
 
 ### Audio References
 
