@@ -1,0 +1,31 @@
+#separator:tab
+#html:false
+#tags column:3
+Ik ben Iwan.	Я Иван.	link::thema1::taak1::luisteren
+Ik kom uit Polen.	Я из Польши.	link::thema1::taak1::luisteren
+Ik woon nu in Vuren.	Сейчас я живу в Вюрене.	link::thema1::taak1::luisteren
+Dat is een dorp.	Это деревня.	link::thema1::taak1::luisteren
+Ik ben één jaar in Nederland.	Я один год в Нидерландах.	link::thema1::taak1::luisteren
+Ik ga naar school.	Я хожу в школу.	link::thema1::taak1::luisteren
+Ik leer Nederlands.	Я учу нидерландский.	link::thema1::taak1::luisteren
+Ik werk in een winkel.	Я работаю в магазине.	link::thema1::taak1::luisteren
+Ik ben Amina.	Я Амина.	link::thema1::taak1::luisteren
+Ik kom uit Syrië.	Я из Сирии.	link::thema1::taak1::luisteren
+Ik woon nu in Rotterdam.	Сейчас я живу в Роттердаме.	link::thema1::taak1::luisteren
+Dat is een stad.	Это город.	link::thema1::taak1::luisteren
+Ik ben één maand in Nederland.	Я один месяц в Нидерландах.	link::thema1::taak1::luisteren
+Ik werk niet.	Я не работаю.	link::thema1::taak1::luisteren
+Dit is Iwan.	Это Иван.	link::thema1::taak1::luisteren
+Hij komt uit Polen.	Он из Польши.	link::thema1::taak1::luisteren
+Hij woont in Vuren.	Он живёт в Вюрене.	link::thema1::taak1::luisteren
+Hij is één jaar in Nederland.	Он один год в Нидерландах.	link::thema1::taak1::luisteren
+Hij gaat naar school.	Он ходит в школу.	link::thema1::taak1::luisteren
+Hij leert Nederlands.	Он учит нидерландский.	link::thema1::taak1::luisteren
+Hij werkt in een winkel.	Он работает в магазине.	link::thema1::taak1::luisteren
+Dit is Amina.	Это Амина.	link::thema1::taak1::luisteren
+Zij komt uit Syrië.	Она из Сирии.	link::thema1::taak1::luisteren
+Zij woont in Rotterdam.	Она живёт в Роттердаме.	link::thema1::taak1::luisteren
+Zij is één maand in Nederland.	Она один месяц в Нидерландах.	link::thema1::taak1::luisteren
+Zij gaat naar school.	Она ходит в школу.	link::thema1::taak1::luisteren
+Zij leert Nederlands.	Она учит нидерландский.	link::thema1::taak1::luisteren
+Zij werkt niet.	Она не работает.	link::thema1::taak1::luisteren

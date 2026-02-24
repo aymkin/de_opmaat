@@ -1,0 +1,25 @@
+#separator:tab
+#html:false
+#tags column:3
+Hoe heet je?	Как тебя зовут?	link::thema1::vragen::kennismaken
+Ik heet Julia.	Меня зовут Юлия.	link::thema1::vragen::kennismaken
+Wat is je voornaam?	Какое у тебя имя?	link::thema1::vragen::kennismaken
+Mijn voornaam is Julia.	Мое имя Юлия.	link::thema1::vragen::kennismaken
+Waar kom je vandaan?	Откуда ты?	link::thema1::vragen::kennismaken
+Ik kom uit Oekraïne.	Я из Украины.	link::thema1::vragen::kennismaken
+Waar woon je?	Где ты живёшь?	link::thema1::vragen::kennismaken
+Ik woon in Hilversum.	Я живу в Хильверсуме.	link::thema1::vragen::kennismaken
+Woon je in een stad of in een dorp?	Ты живёшь в городе или в деревне?	link::thema1::vragen::kennismaken
+Ik woon in een stad.	Я живу в городе.	link::thema1::vragen::kennismaken
+Hoelang woon je al in Nederland?	Как долго ты уже живёшь в Нидерландах?	link::thema1::vragen::kennismaken
+Ik woon bijna één jaar in Nederland.	Я живу почти год в Нидерландах.	link::thema1::vragen::kennismaken
+Werk je?	Ты работаешь?	link::thema1::vragen::kennismaken
+Ja, ik werk in een winkel.	Да, я работаю в магазине.	link::thema1::vragen::kennismaken
+Nee, ik werk niet.	Нет, я не работаю.	link::thema1::vragen::kennismaken
+Waar werk je?	Где ты работаешь?	link::thema1::vragen::kennismaken
+Ga je naar school?	Ты ходишь в школу?	link::thema1::vragen::kennismaken
+Ja, ik ga naar taalschool Danner en Danner.	Да, я хожу в школу Даннер и Даннер.	link::thema1::vragen::kennismaken
+Leer je Nederlands?	Ты учишь нидерландский?	link::thema1::vragen::kennismaken
+Ja, ik leer Nederlands.	Да, я учу нидерландский.	link::thema1::vragen::kennismaken
+Heb je een telefoonnummer?	У тебя есть номер телефона?	link::thema1::vragen::kennismaken
+Mijn telefoonnummer is 06-34036368.	Мой номер телефона — 06-34036368.	link::thema1::vragen::kennismaken

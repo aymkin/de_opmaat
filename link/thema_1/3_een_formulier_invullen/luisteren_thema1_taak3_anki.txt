@@ -1,0 +1,33 @@
+#separator:tab
+#html:false
+#tags column:3
+Peter Lindhout is in het gemeentehuis.	Петер Линдхаут в здании муниципалитета.	link::thema1::taak3::luisteren
+Hij is nieuw in de gemeente Huizen.	Он новый в муниципалитете Хёйзен.	link::thema1::taak3::luisteren
+Een vrouw werkt in het gemeentehuis.	Женщина работает в здании муниципалитета.	link::thema1::taak3::luisteren
+Goedemorgen meneer.	Доброе утро, сударь.	link::thema1::taak3::luisteren
+Kan ik u helpen?	Могу ли я вам помочь?	link::thema1::taak3::luisteren
+Ja, ik ben nieuw in de gemeente.	Да, я новый в муниципалитете.	link::thema1::taak3::luisteren
+Dat is leuk!	Это здорово!	link::thema1::taak3::luisteren
+Ik zal een formulier invullen.	Я заполню анкету.	link::thema1::taak3::luisteren
+Wat is uw achternaam?	Какая у вас фамилия?	link::thema1::taak3::luisteren
+Hoe spel ik dat?	Как это пишется по буквам?	link::thema1::taak3::luisteren
+L-I-N-D-H-O-U-T.	Л-И-Н-Д-Х-А-У-Т.	link::thema1::taak3::luisteren
+Wat zijn uw voornamen?	Какие у вас имена?	link::thema1::taak3::luisteren
+Mijn voornamen zijn Peter Marcel.	Мои имена — Петер Марсель.	link::thema1::taak3::luisteren
+Dank u wel.	Спасибо.	link::thema1::taak3::luisteren
+Wat is uw adres meneer Lindhout?	Какой у вас адрес, господин Линдхаут?	link::thema1::taak3::luisteren
+Ik woon in de Tulpstraat, op nummer 38.	Я живу на Тюльпстраат, дом 38.	link::thema1::taak3::luisteren
+Wat is uw postcode?	Какой у вас почтовый индекс?	link::thema1::taak3::luisteren
+Wat is uw woonplaats?	Какой у вас город проживания?	link::thema1::taak3::luisteren
+Ja, dat klopt.	Да, правильно.	link::thema1::taak3::luisteren
+Ik woon in Huizen.	Я живу в Хёйзен.	link::thema1::taak3::luisteren
+Hebt u ook een telefoonnummer en een e-mailadres?	Есть ли у вас также номер телефона и электронная почта?	link::thema1::taak3::luisteren
+Mijn mobiele nummer is 0622659870.	Мой мобильный номер — 0622659870.	link::thema1::taak3::luisteren
+Mijn e-mailadres is p.lindhout@gmail.com.	Мой адрес электронной почты — p.lindhout@gmail.com.	link::thema1::taak3::luisteren
+U bent een man.	Вы мужчина.	link::thema1::taak3::luisteren
+Waar bent u geboren, meneer Lindhout?	Где вы родились, господин Линдхаут?	link::thema1::taak3::luisteren
+Ik ben geboren in Amstelveen.	Я родился в Амстелвен.	link::thema1::taak3::luisteren
+Hebt u de Nederlandse nationaliteit?	У вас нидерландское гражданство?	link::thema1::taak3::luisteren
+Dat klopt. Ik ben Nederlands.	Правильно. Я нидерландец.	link::thema1::taak3::luisteren
+Wat is uw geboortedatum?	Какая у вас дата рождения?	link::thema1::taak3::luisteren
+25 april 1995.	25 апреля 1995 года.	link::thema1::taak3::luisteren

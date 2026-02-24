@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+de achternaam	Wat is je achternaam?	фамилия	Какая у тебя фамилия?	link::thema1::taak2::A1
+al	Ik woon hier al twee maanden.	уже	Я живу здесь уже два месяца.	link::thema1::taak2::A1
+en	Ik spreek Nederlands en Engels.	и	Я говорю по-нидерландски и по-английски.	link::thema1::taak2::A1
+hallo	Hallo, hoe gaat het?	привет, здравствуйте	Привет, как дела?	link::thema1::taak2::A1
+hebben	Ik heb een vraag.	иметь	У меня есть вопрос.	link::thema1::taak2::A1
+heten	Ik heet Anna.	называться, зваться	Меня зовут Анна.	link::thema1::taak2::A1
+hoe	Hoe heet je?	как	Как тебя зовут?	link::thema1::taak2::A1
+hoelang	Hoelang woon je in Nederland?	как долго	Как долго ты живёшь в Нидерландах?	link::thema1::taak2::A1
+ja	Ja, dat klopt.	да	Да, это правильно.	link::thema1::taak2::A1
+je (bezittelijk)	Wat is je telefoonnummer?	твой, твоя (притяж. мест.)	Какой у тебя номер телефона?	link::thema1::taak2::A1
+je (persoonlijk)	Hoe heet je?	тебя, тебе (личн. мест., безударн.)	Как тебя зовут?	link::thema1::taak2::A1
+jij	Jij bent ook student.	ты (ударная форма)	Ты тоже студент.	link::thema1::taak2::A1
+kloppen	Klopt dat?	быть правильным, соответствовать	Это правильно?	link::thema1::taak2::A1
+de les	De les begint om negen uur.	урок, занятие	Урок начинается в девять часов.	link::thema1::taak2::A1
+leuk	Leuk je te ontmoeten!	приятный, классный	Приятно познакомиться!	link::thema1::taak2::A1
+mijn	Mijn naam is Peter.	мой, моя, моё	Моё имя — Петер.	link::thema1::taak2::A1
+Nederlands	Ik leer Nederlands.	нидерландский (язык)	Я учу нидерландский.	link::thema1::taak2::A1
+oké	Oké, tot morgen!	окей, хорошо	Окей, до завтра!	link::thema1::taak2::A1
+ook	Ik woon ook in Amsterdam.	тоже, также	Я тоже живу в Амстердаме.	link::thema1::taak2::A1
+spellen	Kun je je naam spellen?	произносить по буквам	Можешь произнести своё имя по буквам?	link::thema1::taak2::A1
+het telefoonnummer	Wat is je telefoonnummer?	номер телефона	Какой у тебя номер телефона?	link::thema1::taak2::A1
+vandaan	Waar kom je vandaan?	откуда (с waar)	Откуда ты?	link::thema1::taak2::A1
+de voornaam	Mijn voornaam is Maria.	имя (личное)	Моё имя — Мария.	link::thema1::taak2::A1
+waar	Waar woon je?	где, куда	Где ты живёшь?	link::thema1::taak2::A1
+wat	Wat is je naam?	что, какой	Как тебя зовут?	link::thema1::taak2::A1
+

@@ -1,0 +1,32 @@
+#separator:tab
+#html:false
+#tags column:3
+Igor en Julia hebben les.	Игорь и Юлия на занятии.	link::thema1::taak2::luisteren
+Ze leren Nederlands.	Они учат нидерландский.	link::thema1::taak2::luisteren
+Hallo, ik ben Igor.	Привет, я Игорь.	link::thema1::taak2::luisteren
+Hoe heet jij?	Как тебя зовут?	link::thema1::taak2::luisteren
+Ik ben Julia.	Я Юлия.	link::thema1::taak2::luisteren
+Waar kom je vandaan, Julia?	Откуда ты, Юлия?	link::thema1::taak2::luisteren
+Ik kom uit Argentinië.	Я из Аргентины.	link::thema1::taak2::luisteren
+Ik kom uit Rusland.	Я из России.	link::thema1::taak2::luisteren
+Leuk!	Приятно!	link::thema1::taak2::luisteren
+Hoelang woon je al in Nederland?	Как долго ты уже живёшь в Нидерландах?	link::thema1::taak2::luisteren
+Een jaar, en jij?	Один год, а ты?	link::thema1::taak2::luisteren
+Een maand.	Один месяц.	link::thema1::taak2::luisteren
+Waar woon je?	Где ты живёшь?	link::thema1::taak2::luisteren
+Ik woon in Almere.	Я живу в Алмере.	link::thema1::taak2::luisteren
+Oh, ik woon ook in Almere.	Оу, я тоже живу в Альмере.	link::thema1::taak2::luisteren
+Ah, dat is leuk.	А, это здорово.	link::thema1::taak2::luisteren
+Heb je een Nederlands telefoonnummer?	Есть ли у тебя нидерландский номер телефона?	link::thema1::taak2::luisteren
+Ja, dat heb ik.	Да, есть.	link::thema1::taak2::luisteren
+Wat is je telefoonnummer?	Какой у тебя номер телефона?	link::thema1::taak2::luisteren
+Mijn telefoonnummer is 06-72351894.	Мой номер телефона — 06-72351894.	link::thema1::taak2::luisteren
+Oké, 06-72351894.	Окей, 06-72351894.	link::thema1::taak2::luisteren
+Ja, dat klopt.	Да, правильно.	link::thema1::taak2::luisteren
+Hoe spel je je voornaam?	Как пишется твоё имя по буквам?	link::thema1::taak2::luisteren
+J-U-L-I-A.	J-U-L-I-A.	link::thema1::taak2::luisteren
+Wat is je achternaam?	Какая у тебя фамилия?	link::thema1::taak2::luisteren
+Fuentes.	Фуэнтес.	link::thema1::taak2::luisteren
+Hoe spel je dat?	Как это пишется?	link::thema1::taak2::luisteren
+F-U-E-N-T-E-S.	F-U-E-N-T-E-S.	link::thema1::taak2::luisteren
+Oké, dankjewel.	Окей, спасибо.	link::thema1::taak2::luisteren

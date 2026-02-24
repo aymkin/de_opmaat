@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+dat	Dat is mijn vriend.	то, тот	Это мой друг.	link::thema1::taak1::A1
+dit	Dit is mijn boek.	это, этот	Это моя книга.	link::thema1::taak1::A1
+het dorp	Ik woon in een klein dorp.	деревня	Я живу в маленькой деревне.	link::thema1::taak1::A1
+een	Ik heb een kat.	неопределённый артикль	У меня есть кот.	link::thema1::taak1::A1
+één	Ik heb één broer.	один (числительное)	У меня один брат.	link::thema1::taak1::A1
+gaan	Ik ga naar school.	идти, ехать	Я иду в школу.	link::thema1::taak1::A1
+hij	Hij woont in Amsterdam.	он	Он живёт в Амстердаме.	link::thema1::taak1::A1
+ik	Ik ben student.	я	Я студент.	link::thema1::taak1::A1
+in	Ik woon in Nederland.	в	Я живу в Нидерландах.	link::thema1::taak1::A1
+het jaar	Ik woon hier al twee jaar.	год	Я живу здесь уже два года.	link::thema1::taak1::A1
+komen	Ik kom uit Rusland.	приходить, приезжать	Я из России.	link::thema1::taak1::A1
+leren	Ik leer Nederlands op school.	учить(ся)	Я учу нидерландский в школе.	link::thema1::taak1::A1
+de maand	Ik ben hier één maand.	месяц	Я здесь один месяц.	link::thema1::taak1::A1
+naar	Ik ga naar de winkel.	в, к (направление)	Я иду в магазин.	link::thema1::taak1::A1
+Nederland	Nederland is een klein land.	Нидерланды	Нидерланды — маленькая страна.	link::thema1::taak1::A1
+Nederlands	Ik spreek een beetje Nederlands.	нидерландский (язык)	Я немного говорю по-нидерландски.	link::thema1::taak1::A1
+niet	Ik werk niet in een winkel.	не	Я не работаю в магазине.	link::thema1::taak1::A1
+nu	Ik woon nu in Utrecht.	сейчас, теперь	Сейчас я живу в Утрехте.	link::thema1::taak1::A1
+de school	Mijn school is groot.	школа	Моя школа большая.	link::thema1::taak1::A1
+de stad	Amsterdam is een grote stad.	город	Амстердам — большой город.	link::thema1::taak1::A1
+uit	Zij komt uit Turkije.	из	Она из Турции.	link::thema1::taak1::A1
+werken	Hij werkt in een ziekenhuis.	работать	Он работает в больнице.	link::thema1::taak1::A1
+de winkel	De winkel is dicht.	магазин	Магазин закрыт.	link::thema1::taak1::A1
+wonen	Wij wonen in Den Haag.	жить, проживать	Мы живём в Гааге.	link::thema1::taak1::A1
+ze	Ze leren Nederlands.	она / они	Они учат нидерландский.	link::thema1::taak1::A1
+zijn	Wij zijn studenten.	быть	Мы студенты.	link::thema1::taak1::A1

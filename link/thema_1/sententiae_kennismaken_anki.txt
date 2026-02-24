@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#tags column:4
+
+Alexander en Julia gaan naar school. Ze leren Nederlands. Ze hebben les.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_001.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Hallo! Ik ben Alexander. Hoe heet jij?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_002.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Ik heet Julia. Leuk!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_003.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Waar kom je vandaan?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_004.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Ik kom uit Oekraïne. En jij?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_005.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Ik kom ook uit Oekraïne!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_006.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Dat is leuk! Waar woon je nu?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_007.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Ik woon in Hilversum. Dat is een stad.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_008.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Ik woon ook in Hilversum!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_009.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Hoelang woon je al in Nederland?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_010.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Ik woon één maand in Nederland. En jij?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_011.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Ik woon al één jaar in Nederland.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_012.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Werk je?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_013.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Ja, ik werk in een winkel. En jij?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_014.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Nee, ik werk niet, maar ik ga naar school en ik leer Nederlands.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_015.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Heb je een telefoonnummer?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_016.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Ja. Mijn telefoonnummer is 06-34036368.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_017.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Oké, 06-34036368. Klopt dat?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_018.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Ja, dat klopt.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_019.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Hoe spel je je voornaam?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_020.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: J-U-L-I-A.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_021.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: En wat is je achternaam?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_022.mp3]	sententiae::kennismaken::A2::audio
+Julia zegt: Mijn achternaam is Naymkina.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_023.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Oké, leuk! We gaan naar de les!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_024.mp3]	sententiae::kennismaken::A2::audio
+Ik ga naar school. Ik leer Nederlands. Ik heb les.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_025.mp3]	sententiae::kennismaken::A2::audio
+Alexander zegt: Hallo! Ik ben Alexander. Hoe heet jij?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_026.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Ik heet Julia. Leuk!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_027.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Waar kom je vandaan?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_028.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Ik kom uit Oekraïne. En jij?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_029.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Ik kom ook uit Oekraïne!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_030.mp3]	sententiae::kennismaken::A2::audio
+Dat is leuk!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_031.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Waar woon je nu?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_032.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Ik woon in Hilversum. Dat is een stad.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_033.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Ik woon ook in Hilversum!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_034.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Hoelang woon je al in Nederland?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_035.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Ik woon al één jaar in Nederland. En jij?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_036.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Ik woon één maand in Nederland.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_037.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Werk je?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_038.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Ja, ik werk in een winkel. En jij?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_039.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Nee, ik werk niet, maar ik ga naar school en ik leer Nederlands.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_040.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Heb je een telefoonnummer?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_041.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Ja. Mijn telefoonnummer is 06-34036368.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_042.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Oké, 06-34036368. Klopt dat?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_043.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Ja, dat klopt.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_044.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Hoe spel je je voornaam?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_045.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: J-U-L-I-A.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_046.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: En wat is je achternaam?	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_047.mp3]	sententiae::kennismaken::A2::audio
+Ik zeg: Mijn achternaam is Naymkina.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_048.mp3]	sententiae::kennismaken::A2::audio
+Hij zegt: Oké, leuk! We gaan naar de les!	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_049.mp3]	sententiae::kennismaken::A2::audio
+Eén: Alexander en Julia gaan naar school.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_050.mp3]	sententiae::kennismaken::A2::audio
+Nee, Alexander en Julia gaan niet naar de winkel. Ze gaan naar school.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_051.mp3]	sententiae::kennismaken::A2::audio
+Twee: Julia komt uit Oekraïne.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_052.mp3]	sententiae::kennismaken::A2::audio
+Nee, Julia komt niet uit Nederland. Ze komt uit Oekraïne.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_053.mp3]	sententiae::kennismaken::A2::audio
+Drie: Alexander woont al één jaar in Nederland.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_054.mp3]	sententiae::kennismaken::A2::audio
+Nee, Alexander woont niet één maand in Nederland. Hij woont al één jaar in Nederland.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_055.mp3]	sententiae::kennismaken::A2::audio
+Vier: Alexander werkt in een winkel.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_056.mp3]	sententiae::kennismaken::A2::audio
+Nee, Alexander werkt niet in een school. Hij werkt in een winkel.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_057.mp3]	sententiae::kennismaken::A2::audio
+Vijf: Julia woont in Hilversum.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_058.mp3]	sententiae::kennismaken::A2::audio
+Zes: Julia werkt niet.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_059.mp3]	sententiae::kennismaken::A2::audio
+Zeven: Alexander en Julia leren Nederlands.	[TODO: перевод]	[sound:verhaal_kennismaken_sentence_060.mp3]	sententiae::kennismaken::A2::audio

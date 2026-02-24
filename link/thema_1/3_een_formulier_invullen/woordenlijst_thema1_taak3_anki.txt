@@ -1,0 +1,28 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+het adres	Wat is uw adres?	адрес	Какой у вас адрес?	link::thema1::taak3::A1
+april	Ik ben geboren op 25 april.	апрель	Я родился 25 апреля.	link::thema1::taak3::A1
+het e-mailadres	Hebt u een e-mailadres?	адрес электронной почты	Есть ли у вас электронная почта?	link::thema1::taak3::A1
+het formulier	Ik zal een formulier invullen.	бланк, анкета	Я заполню анкету.	link::thema1::taak3::A1
+de geboortedatum	Wat is uw geboortedatum?	дата рождения	Какая у вас дата рождения?	link::thema1::taak3::A1
+geboren	Ik ben geboren in Amstelveen.	родившийся	Я родился в Амстелвен.	link::thema1::taak3::A1
+de gemeente	Ik ben nieuw in de gemeente.	муниципалитет, община	Я новый в муниципалитете.	link::thema1::taak3::A1
+het gemeentehuis	Peter is in het gemeentehuis.	ратуша, здание муниципалитета	Петер в здании муниципалитета.	link::thema1::taak3::A1
+goedemorgen	Goedemorgen meneer!	доброе утро	Доброе утро, сударь!	link::thema1::taak3::A1
+helpen	Kan ik u helpen?	помогать	Могу ли я вам помочь?	link::thema1::taak3::A1
+invullen	Ik zal een formulier invullen.	заполнять	Я заполню анкету.	link::thema1::taak3::A1
+kunnen	Kan ik u helpen?	мочь, уметь	Могу ли я вам помочь?	link::thema1::taak3::A1
+de man	U bent een man.	мужчина	Вы мужчина.	link::thema1::taak3::A1
+meneer	Goedemorgen meneer Lindhout.	сударь, господин	Доброе утро, господин Линдхаут.	link::thema1::taak3::A1
+mobiel	Mijn mobiele nummer is 0622659870.	мобильный	Мой мобильный номер — 0622659870.	link::thema1::taak3::A1
+de nationaliteit	Hebt u de Nederlandse nationaliteit?	гражданство, национальность	У вас нидерландское гражданство?	link::thema1::taak3::A1
+nieuw	Ik ben nieuw in de gemeente.	новый	Я новый в муниципалитете.	link::thema1::taak3::A1
+op	Ik woon op nummer 38.	на (указание адреса)	Я живу в доме номер 38.	link::thema1::taak3::A1
+de postcode	Wat is uw postcode?	почтовый индекс	Какой у вас почтовый индекс?	link::thema1::taak3::A1
+u	Kan ik u helpen?	вы (вежливая форма)	Могу ли я вам помочь?	link::thema1::taak3::A1
+uw	Wat is uw achternaam?	ваш, ваша (вежл.)	Какая у вас фамилия?	link::thema1::taak3::A1
+de vrouw	Een vrouw werkt in het gemeentehuis.	женщина	Женщина работает в здании муниципалитета.	link::thema1::taak3::A1
+de woonplaats	Wat is uw woonplaats?	город проживания	Какой у вас город проживания?	link::thema1::taak3::A1
+zullen	Ik zal een formulier invullen.	вспом. гл. будущего времени	Я заполню анкету.	link::thema1::taak3::A1
