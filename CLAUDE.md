@@ -34,25 +34,34 @@ npm run format:check  # Check formatting without changes
 
 ### audio_to_anki.py — Audio to Anki Sentence Cards
 
-Автоматически нарезает аудио диалогов на предложения и создаёт Anki карточки
-с оригинальной озвучкой из учебника.
+Автоматически нарезает аудио диалогов на предложения и создаёт Anki карточки с
+оригинальной озвучкой из учебника.
 
-**Быстрый старт:**
+**Быстрый старт (с Forced Alignment — рекомендуется):**
 
 ```bash
 python3 scripts/audio_to_anki.py thema_7/2/h07_oefening_02.mp3 \
+    --transcript thema_7/2/h07_oefening_02.md \
     --theme gezondheid \
     --copy-to-anki
 ```
 
 **Параметры:**
 
-| Параметр | Описание | По умолчанию |
-|----------|----------|--------------|
-| `audio` | Путь к MP3 файлу | (обязательный) |
-| `--theme` | Тема для тегов | `general` |
-| `--level` | Уровень CEFR | `A2` |
-| `--copy-to-anki` | Автокопирование в Anki media | выключено |
+| Параметр         | Описание                     | По умолчанию   |
+| ---------------- | ---------------------------- | -------------- |
+| `audio`          | Путь к MP3 файлу             | (обязательный) |
+| `--transcript`   | MD файл с транскрипцией      | -              |
+| `--theme`        | Тема для тегов               | `general`      |
+| `--level`        | Уровень CEFR                 | `A2`           |
+| `--copy-to-anki` | Автокопирование в Anki media | выключено      |
+
+**Режимы работы:**
+
+| Режим                               | Когда                | Преимущества                 |
+| ----------------------------------- | -------------------- | ---------------------------- |
+| Forced Alignment (с `--transcript`) | Есть MD транскрипция | Точные границы, чистый текст |
+| Whisper-only (без `--transcript`)   | Нет транскрипции     | Быстрый старт                |
 
 **Что создаёт:**
 
@@ -104,31 +113,31 @@ cp path/to/sentences/*.mp3 ~/Library/Application\ Support/Anki2/alex/collection.
 **Cards → Front Template:**
 
 ```html
-{{Front}}
-{{Audio}}
+{{Front}} {{Audio}}
 ```
 
 **Cards → Back Template:**
 
 ```html
 {{FrontSide}}
-<hr id=answer>
+<hr id="answer" />
 {{Back}}
 ```
 
-**После копирования:** В Anki выполни **Tools → Check Media** для обновления индекса
+**После копирования:** В Anki выполни **Tools → Check Media** для обновления
+индекса
 
 ## File Naming Conventions
 
-| Pattern                            | Example                                  | Purpose                      |
-| ---------------------------------- | ---------------------------------------- | ---------------------------- |
-| `{N}_opdracht.md`                  | `6_opdracht.md`                          | Numbered exercises           |
-| `woordenlijst_pagina_{N}_anki.txt` | `woordenlijst_pagina_16_anki.txt`        | Vocabulary by page           |
-| `grammatica_{topic}.md`            | `grammatica_praten_over_het_verleden.md` | Grammar explanations         |
-| `taalhulp_{topic}_anki.txt`        | `taalhulp_klok_anki.txt`                 | Topic-specific flashcards    |
-| `verhaal_{NN}_{title}.md`          | `verhaal_01_de_reis_naar_amsterdam.md`   | Story exercises              |
-| `sententiae_{theme}_anki.txt`      | `sententiae_gezondheid_anki.txt`         | Sentence cards with audio    |
-| `{audio}_sentences/`               | `h07_oefening_02_sentences/`             | Split audio segments folder  |
+| Pattern                            | Example                                  | Purpose                     |
+| ---------------------------------- | ---------------------------------------- | --------------------------- |
+| `{N}_opdracht.md`                  | `6_opdracht.md`                          | Numbered exercises          |
+| `woordenlijst_pagina_{N}_anki.txt` | `woordenlijst_pagina_16_anki.txt`        | Vocabulary by page          |
+| `grammatica_{topic}.md`            | `grammatica_praten_over_het_verleden.md` | Grammar explanations        |
+| `taalhulp_{topic}_anki.txt`        | `taalhulp_klok_anki.txt`                 | Topic-specific flashcards   |
+| `verhaal_{NN}_{title}.md`          | `verhaal_01_de_reis_naar_amsterdam.md`   | Story exercises             |
+| `sententiae_{theme}_anki.txt`      | `sententiae_gezondheid_anki.txt`         | Sentence cards with audio   |
+| `{audio}_sentences/`               | `h07_oefening_02_sentences/`             | Split audio segments folder |
 
 ## Common File Types
 
