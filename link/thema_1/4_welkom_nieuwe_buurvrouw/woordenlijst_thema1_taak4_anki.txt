@@ -1,0 +1,29 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+alleen	Ik ben niet alleen. Ik woon met mijn poes.	один, одна; только	Я не одна. Я живу с моей кошкой.	link::thema1::taak4::A1
+appen	Wil je appen met de buren?	писать в мессенджере	Хочешь написать соседям?	link::thema1::taak4::A1
+de buren	De buren zijn erg leuk.	соседи	Соседи очень приятные.	link::thema1::taak4::A1
+de buurvrouw	Mijn buurvrouw heet mevrouw De Vries.	соседка	Мою соседку зовут госпожа Де Врис.	link::thema1::taak4::A1
+geen	Ik heb geen kinderen.	нет, никакой (отрицание)	У меня нет детей.	link::thema1::taak4::A1
+getrouwd	Ik ben niet getrouwd.	женатый / замужем	Я не замужем.	link::thema1::taak4::A1
+graag	Ik kook graag in het weekend.	с удовольствием, охотно	Я с удовольствием готовлю в выходные.	link::thema1::taak4::A1
+de hobby	Koken is mijn hobby.	хобби	Готовка — моё хобби.	link::thema1::taak4::A1
+houden van	Ik hou van koken en sporten.	любить (что-то)	Я люблю готовить и заниматься спортом.	link::thema1::taak4::A1
+het huis	We wonen in een nieuw huis.	дом	Мы живём в новом доме.	link::thema1::taak4::A1
+jullie	Wie zijn jullie?	вы (мн.ч., неформ.)	Кто вы?	link::thema1::taak4::A1
+het kind	Het kind is vier jaar oud.	ребёнок	Ребёнку четыре года.	link::thema1::taak4::A1
+koken	Ik hou van koken.	готовить	Я люблю готовить.	link::thema1::taak4::A1
+met	Ik woon met mijn poes.	с, вместе с	Я живу с моей кошкой.	link::thema1::taak4::A1
+nog	Ik ben nog niet oud. Ik ben 27.	ещё	Я ещё не старая. Мне 27.	link::thema1::taak4::A1
+ontmoeten	Ik wil mijn buren graag ontmoeten!	встречать, знакомиться	Я хочу познакомиться с соседями!	link::thema1::taak4::A1
+oud	Mijn poes is oud. Ze is 12 jaar.	старый	Моя кошка старая. Ей 12 лет.	link::thema1::taak4::A1
+de poes	Ik woon met mijn poes. Ze heet Shiba.	кошка	Я живу с моей кошкой. Её зовут Шиба.	link::thema1::taak4::A1
+het restaurant	Ik werk in het weekend in een restaurant.	ресторан	Я работаю в выходные в ресторане.	link::thema1::taak4::A1
+sporten	Ik sport elke week.	заниматься спортом	Я занимаюсь спортом каждую неделю.	link::thema1::taak4::A1
+de week	Ik sport elke week.	неделя	Я занимаюсь спортом каждую неделю.	link::thema1::taak4::A1
+het weekend	Ik werk in het weekend.	выходные	Я работаю в выходные.	link::thema1::taak4::A1
+welkom	Welkom in de straat!	добро пожаловать	Добро пожаловать на нашу улицу!	link::thema1::taak4::A1
+wie	Wie zijn jullie?	кто	Кто вы?	link::thema1::taak4::A1
+willen	Ik wil mijn buren ontmoeten.	хотеть	Я хочу познакомиться с соседями.	link::thema1::taak4::A1

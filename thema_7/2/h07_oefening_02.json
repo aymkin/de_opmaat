@@ -1,1 +1,965 @@
-{"text": " Hoi Schap, lekker getennest? Niet echt. Het eerste half uur begheerlijk gespeeld, maar toen maakte ik een verkeerde beweging. Nu heb ik zo'n pijn aan mijn linker Enkel. Volgens mij is die dicker. Doe je socken zeven uit? Ja, in de daad deze Enkel's dicker dan de andere. O, kek uit. Niet ankomen. Sorry hoor. Ja, ik denk dat je even langs de huisartsmoet. Ja, dat denk ik ook. Ik zal even bellen voor een afspraak. Goede middag, huisarts de praktijk noot een wonenlaan. Goede middag. U spreekt met Willem van Dijk. Ik heb met Tennis een verkeerde beweging gemaakt. En nu is mijn linker Enkel dick. Kan de doctor er even naar kijken? Wanneer is het gebeurd? Van middag, om half twee ongeveer. Heb je wel eis op hoe Enkel gelicht? Nee, nog niet. Ik heb thuis pas gezien dat de Enkel dicker was. U kunt het beste, uw Enkel nummeteen koelen. Ik kijk even in de agenda. Kun je over een half uur hier zijn? Ja hoor, dat is prima. Tot zo. Tot zo. Hallo Willem. Ik heb gehoord dat je last hebt van je Enkel. Vertelens, wat is er gebeurd? Nou, ik was vermiddag met een vriend aan het Tennis'en. En ik heb een verkeerde beweging gemaakt. En toen ben ik door mijn linker Enkel gegaan. Hij is helemaal dick geworden. Zo. En hoe ben je hier naar toegekomen? Achter op de fiets van mijn vriendin. Kan je nog lopen? Ja, een beetje, maar het doet pijn. Ik lopen heel voorzichtig. Of een enkel. Doe maar even je schoenen en zokken uit. Dan zal ik even kijken. Kan je aanwezen waar het precies pijn doet? Hier. Als ik hier druk, doet het dan pijn? Niet echt. En als ik hier druk? O! Ja, dat doet ontzettend pijn. Daar eens met je enkel naar rechts. En al links. Trek je tegen naar je toe? Hmm. Ik zie dat je niet de hele beweging kunt maken. Goed. Je enkel is gelukkig niet gebroken. Hij is gekneust. Dat assistenten zal een recverband aanbrengen. Je moet het verband \u00e9\u00e9n week omhouden. Je mag gewoon op lopen, maar niet door de pijn heen lopen. Als je over twee weken nog last hebt, moet je terugkomen. Dan moet je misschien naar de visu-terap uit. Ok\u00e9. Dus \u00e9\u00e9n week verband en na twee weken even terwijl terugkomen en naar de visu-terap uit. Bedankt, doctor. Ga gedaan. En sterkte met het herstel.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.24, "text": " Hoi Schap, lekker getennest?", "tokens": [50364, 3631, 72, 2065, 569, 11, 44125, 483, 268, 77, 377, 30, 50476], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 1, "seek": 0, "start": 2.24, "end": 3.96, "text": " Niet echt.", "tokens": [50476, 36583, 13972, 13, 50562], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 2, "seek": 0, "start": 3.96, "end": 8.92, "text": " Het eerste half uur begheerlijk gespeeld, maar toen maakte ik een verkeerde beweging.", "tokens": [50562, 12045, 35586, 1922, 344, 374, 4612, 675, 260, 12416, 5019, 494, 5957, 11, 10314, 29911, 463, 48036, 4320, 3881, 1306, 330, 260, 1479, 46638, 3249, 13, 50810], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 3, "seek": 0, "start": 8.92, "end": 11.6, "text": " Nu heb ik zo'n pijn aan mijn linker Enkel.", "tokens": [50810, 13612, 8007, 4320, 5721, 6, 77, 280, 6041, 9904, 19884, 2113, 260, 2193, 7124, 13, 50944], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 4, "seek": 0, "start": 11.6, "end": 13.36, "text": " Volgens mij is die dicker.", "tokens": [50944, 8911, 23212, 22953, 307, 978, 18659, 260, 13, 51032], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 5, "seek": 0, "start": 13.36, "end": 15.36, "text": " Doe je socken zeven uit?", "tokens": [51032, 1144, 68, 1506, 370, 13029, 5277, 553, 12528, 30, 51132], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 6, "seek": 0, "start": 15.36, "end": 18.240000000000002, "text": " Ja, in de daad deze Enkel's dicker dan de andere.", "tokens": [51132, 3530, 11, 294, 368, 1120, 345, 18040, 2193, 7124, 311, 18659, 260, 3277, 368, 10490, 13, 51276], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 7, "seek": 0, "start": 18.240000000000002, "end": 20.240000000000002, "text": " O, kek uit.", "tokens": [51276, 422, 11, 803, 74, 12528, 13, 51376], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 8, "seek": 0, "start": 20.240000000000002, "end": 21.240000000000002, "text": " Niet ankomen.", "tokens": [51376, 36583, 364, 74, 4726, 13, 51426], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 9, "seek": 0, "start": 21.240000000000002, "end": 22.240000000000002, "text": " Sorry hoor.", "tokens": [51426, 4919, 43330, 13, 51476], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 10, "seek": 0, "start": 22.240000000000002, "end": 25.84, "text": " Ja, ik denk dat je even langs de huisartsmoet.", "tokens": [51476, 3530, 11, 4320, 21285, 1137, 1506, 754, 2265, 82, 368, 46526, 11814, 3280, 302, 13, 51656], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 11, "seek": 0, "start": 25.84, "end": 27.240000000000002, "text": " Ja, dat denk ik ook.", "tokens": [51656, 3530, 11, 1137, 21285, 4320, 7839, 13, 51726], "temperature": 0.0, "avg_logprob": -0.4389601643880208, "compression_ratio": 1.5473251028806585, "no_speech_prob": 0.1149701327085495}, {"id": 12, "seek": 2724, "start": 27.72, "end": 30.52, "text": " Ik zal even bellen voor een afspraak.", "tokens": [50388, 8316, 29599, 754, 4549, 268, 7358, 3881, 3238, 4952, 424, 514, 13, 50528], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 13, "seek": 2724, "start": 30.52, "end": 34.0, "text": " Goede middag, huisarts de praktijk noot een wonenlaan.", "tokens": [50528, 1037, 4858, 2062, 39877, 11, 46526, 11814, 368, 33721, 6940, 572, 310, 3881, 1582, 268, 875, 282, 13, 50702], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 14, "seek": 2724, "start": 34.0, "end": 35.199999999999996, "text": " Goede middag.", "tokens": [50702, 1037, 4858, 2062, 39877, 13, 50762], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 15, "seek": 2724, "start": 35.199999999999996, "end": 37.04, "text": " U spreekt met Willem van Dijk.", "tokens": [50762, 624, 637, 701, 2320, 1131, 3099, 443, 3161, 413, 6940, 13, 50854], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 16, "seek": 2724, "start": 37.04, "end": 40.08, "text": " Ik heb met Tennis een verkeerde beweging gemaakt.", "tokens": [50854, 8316, 8007, 1131, 314, 11307, 3881, 1306, 330, 260, 1479, 46638, 3249, 49666, 13, 51006], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 17, "seek": 2724, "start": 40.08, "end": 42.8, "text": " En nu is mijn linker Enkel dick.", "tokens": [51006, 2193, 3822, 307, 19884, 2113, 260, 2193, 7124, 18659, 13, 51142], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 18, "seek": 2724, "start": 42.8, "end": 45.4, "text": " Kan de doctor er even naar kijken?", "tokens": [51142, 11120, 368, 4631, 1189, 754, 12762, 30446, 30, 51272], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 19, "seek": 2724, "start": 45.4, "end": 46.84, "text": " Wanneer is het gebeurd?", "tokens": [51272, 343, 12674, 260, 307, 3639, 29073, 10752, 30, 51344], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 20, "seek": 2724, "start": 46.84, "end": 50.04, "text": " Van middag, om half twee ongeveer.", "tokens": [51344, 8979, 2062, 39877, 11, 3406, 1922, 30660, 322, 432, 49143, 13, 51504], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 21, "seek": 2724, "start": 50.04, "end": 51.8, "text": " Heb je wel eis op hoe Enkel gelicht?", "tokens": [51504, 15606, 1506, 2214, 308, 271, 999, 19709, 2193, 7124, 4087, 1405, 30, 51592], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 22, "seek": 2724, "start": 51.8, "end": 53.32, "text": " Nee, nog niet.", "tokens": [51592, 22067, 11, 9638, 6899, 13, 51668], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 23, "seek": 2724, "start": 53.32, "end": 56.28, "text": " Ik heb thuis pas gezien dat de Enkel dicker was.", "tokens": [51668, 8316, 8007, 258, 8479, 1736, 18110, 1053, 1137, 368, 2193, 7124, 18659, 260, 390, 13, 51816], "temperature": 0.0, "avg_logprob": -0.27424865230437245, "compression_ratio": 1.5779467680608366, "no_speech_prob": 0.0018313844921067357}, {"id": 24, "seek": 5628, "start": 56.28, "end": 59.36, "text": " U kunt het beste, uw Enkel nummeteen koelen.", "tokens": [50364, 624, 34199, 3639, 22245, 11, 23147, 2193, 7124, 1031, 5537, 10685, 8384, 14818, 13, 50518], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 25, "seek": 5628, "start": 59.36, "end": 61.28, "text": " Ik kijk even in de agenda.", "tokens": [50518, 8316, 350, 6940, 754, 294, 368, 9829, 13, 50614], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 26, "seek": 5628, "start": 61.28, "end": 63.04, "text": " Kun je over een half uur hier zijn?", "tokens": [50614, 19089, 1506, 670, 3881, 1922, 344, 374, 3296, 8004, 30, 50702], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 27, "seek": 5628, "start": 63.04, "end": 64.72, "text": " Ja hoor, dat is prima.", "tokens": [50702, 3530, 43330, 11, 1137, 307, 19507, 13, 50786], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 28, "seek": 5628, "start": 64.72, "end": 65.56, "text": " Tot zo.", "tokens": [50786, 11236, 5721, 13, 50828], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 29, "seek": 5628, "start": 65.56, "end": 66.56, "text": " Tot zo.", "tokens": [50828, 11236, 5721, 13, 50878], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 30, "seek": 5628, "start": 68.4, "end": 69.88, "text": " Hallo Willem.", "tokens": [50970, 21242, 3099, 443, 13, 51044], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 31, "seek": 5628, "start": 69.88, "end": 72.24000000000001, "text": " Ik heb gehoord dat je last hebt van je Enkel.", "tokens": [51044, 8316, 8007, 1519, 1289, 765, 1137, 1506, 1036, 28339, 3161, 1506, 2193, 7124, 13, 51162], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 32, "seek": 5628, "start": 72.24000000000001, "end": 74.88, "text": " Vertelens, wat is er gebeurd?", "tokens": [51162, 21044, 338, 694, 11, 6858, 307, 1189, 29073, 10752, 30, 51294], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 33, "seek": 5628, "start": 74.88, "end": 78.16, "text": " Nou, ik was vermiddag met een vriend aan het Tennis'en.", "tokens": [51294, 28843, 11, 4320, 390, 1306, 76, 14273, 559, 1131, 3881, 371, 4896, 9904, 3639, 314, 11307, 6, 268, 13, 51458], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 34, "seek": 5628, "start": 78.16, "end": 80.28, "text": " En ik heb een verkeerde beweging gemaakt.", "tokens": [51458, 2193, 4320, 8007, 3881, 1306, 330, 260, 1479, 46638, 3249, 49666, 13, 51564], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 35, "seek": 5628, "start": 80.28, "end": 82.6, "text": " En toen ben ik door mijn linker Enkel gegaan.", "tokens": [51564, 2193, 29911, 3271, 4320, 2853, 19884, 2113, 260, 2193, 7124, 290, 6335, 282, 13, 51680], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 36, "seek": 5628, "start": 82.6, "end": 84.6, "text": " Hij is helemaal dick geworden.", "tokens": [51680, 27832, 307, 33595, 18659, 26281, 13, 51780], "temperature": 0.0, "avg_logprob": -0.2700014114379883, "compression_ratio": 1.5687022900763359, "no_speech_prob": 0.00023852541926316917}, {"id": 37, "seek": 8460, "start": 84.6, "end": 85.6, "text": " Zo.", "tokens": [50364, 10337, 13, 50414], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 38, "seek": 8460, "start": 85.6, "end": 87.88, "text": " En hoe ben je hier naar toegekomen?", "tokens": [50414, 2193, 19709, 3271, 1506, 3296, 12762, 281, 2828, 74, 4726, 30, 50528], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 39, "seek": 8460, "start": 87.88, "end": 90.47999999999999, "text": " Achter op de fiets van mijn vriendin.", "tokens": [50528, 15847, 391, 999, 368, 15848, 1385, 3161, 19884, 371, 4896, 259, 13, 50658], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 40, "seek": 8460, "start": 90.47999999999999, "end": 91.64, "text": " Kan je nog lopen?", "tokens": [50658, 11120, 1506, 9638, 287, 15752, 30, 50716], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 41, "seek": 8460, "start": 91.64, "end": 94.28, "text": " Ja, een beetje, maar het doet pijn.", "tokens": [50716, 3530, 11, 3881, 27459, 11, 10314, 3639, 44138, 280, 6041, 13, 50848], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 42, "seek": 8460, "start": 94.28, "end": 95.83999999999999, "text": " Ik lopen heel voorzichtig.", "tokens": [50848, 8316, 287, 15752, 9430, 7358, 89, 7334, 13, 50926], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 43, "seek": 8460, "start": 95.83999999999999, "end": 97.32, "text": " Of een enkel.", "tokens": [50926, 2720, 3881, 465, 7124, 13, 51000], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 44, "seek": 8460, "start": 97.32, "end": 99.36, "text": " Doe maar even je schoenen en zokken uit.", "tokens": [51000, 1144, 68, 10314, 754, 1506, 956, 78, 20317, 465, 710, 453, 2653, 12528, 13, 51102], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 45, "seek": 8460, "start": 99.36, "end": 101.8, "text": " Dan zal ik even kijken.", "tokens": [51102, 3394, 29599, 4320, 754, 30446, 13, 51224], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 46, "seek": 8460, "start": 101.8, "end": 104.47999999999999, "text": " Kan je aanwezen waar het precies pijn doet?", "tokens": [51224, 11120, 1506, 9904, 826, 2904, 16618, 3639, 4346, 530, 280, 6041, 44138, 30, 51358], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 47, "seek": 8460, "start": 104.47999999999999, "end": 106.32, "text": " Hier.", "tokens": [51358, 10886, 13, 51450], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 48, "seek": 8460, "start": 106.32, "end": 108.28, "text": " Als ik hier druk, doet het dan pijn?", "tokens": [51450, 12948, 4320, 3296, 47995, 11, 44138, 3639, 3277, 280, 6041, 30, 51548], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 49, "seek": 8460, "start": 108.28, "end": 110.0, "text": " Niet echt.", "tokens": [51548, 36583, 13972, 13, 51634], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 50, "seek": 8460, "start": 110.0, "end": 111.47999999999999, "text": " En als ik hier druk?", "tokens": [51634, 2193, 3907, 4320, 3296, 47995, 30, 51708], "temperature": 0.0, "avg_logprob": -0.30172546931675504, "compression_ratio": 1.5892857142857142, "no_speech_prob": 0.001813553157262504}, {"id": 51, "seek": 11148, "start": 111.48, "end": 112.48, "text": " O!", "tokens": [50364, 422, 0, 50414], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 52, "seek": 11148, "start": 112.48, "end": 114.76, "text": " Ja, dat doet ontzettend pijn.", "tokens": [50414, 3530, 11, 1137, 44138, 6592, 89, 3093, 521, 280, 6041, 13, 50528], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 53, "seek": 11148, "start": 114.76, "end": 117.36, "text": " Daar eens met je enkel naar rechts.", "tokens": [50528, 29883, 31246, 1131, 1506, 465, 7124, 12762, 34305, 13, 50658], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 54, "seek": 11148, "start": 117.36, "end": 118.36, "text": " En al links.", "tokens": [50658, 2193, 419, 6123, 13, 50708], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 55, "seek": 11148, "start": 118.36, "end": 121.2, "text": " Trek je tegen naar je toe?", "tokens": [50708, 8648, 74, 1506, 30945, 12762, 1506, 13976, 30, 50850], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 56, "seek": 11148, "start": 121.2, "end": 122.2, "text": " Hmm.", "tokens": [50850, 8239, 13, 50900], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 57, "seek": 11148, "start": 122.2, "end": 125.4, "text": " Ik zie dat je niet de hele beweging kunt maken.", "tokens": [50900, 8316, 16503, 1137, 1506, 6899, 368, 16812, 46638, 3249, 34199, 24703, 13, 51060], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 58, "seek": 11148, "start": 125.4, "end": 126.4, "text": " Goed.", "tokens": [51060, 1037, 292, 13, 51110], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 59, "seek": 11148, "start": 126.4, "end": 128.16, "text": " Je enkel is gelukkig niet gebroken.", "tokens": [51110, 2588, 465, 7124, 307, 4087, 2034, 74, 328, 6899, 1519, 37947, 13, 51198], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 60, "seek": 11148, "start": 128.16, "end": 129.64000000000001, "text": " Hij is gekneust.", "tokens": [51198, 27832, 307, 14037, 716, 381, 13, 51272], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 61, "seek": 11148, "start": 129.64000000000001, "end": 133.4, "text": " Dat assistenten zal een recverband aanbrengen.", "tokens": [51272, 9315, 4255, 317, 268, 29599, 3881, 850, 331, 4235, 9904, 2672, 872, 268, 13, 51460], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 62, "seek": 11148, "start": 133.4, "end": 136.2, "text": " Je moet het verband \u00e9\u00e9n week omhouden.", "tokens": [51460, 2588, 12677, 3639, 1306, 4235, 39133, 1243, 3406, 12181, 1556, 13, 51600], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 63, "seek": 11148, "start": 136.2, "end": 139.76, "text": " Je mag gewoon op lopen, maar niet door de pijn heen lopen.", "tokens": [51600, 2588, 2258, 19751, 999, 287, 15752, 11, 10314, 6899, 2853, 368, 280, 6041, 415, 268, 287, 15752, 13, 51778], "temperature": 0.0, "avg_logprob": -0.42764791761125837, "compression_ratio": 1.5420168067226891, "no_speech_prob": 0.011098477989435196}, {"id": 64, "seek": 13976, "start": 140.76, "end": 143.88, "text": " Als je over twee weken nog last hebt, moet je terugkomen.", "tokens": [50414, 12948, 1506, 670, 30660, 321, 2653, 9638, 1036, 28339, 11, 12677, 1506, 35020, 74, 4726, 13, 50570], "temperature": 0.0, "avg_logprob": -0.40055279109788977, "compression_ratio": 1.5609756097560976, "no_speech_prob": 0.027600383386015892}, {"id": 65, "seek": 13976, "start": 143.88, "end": 146.32, "text": " Dan moet je misschien naar de visu-terap uit.", "tokens": [50570, 3394, 12677, 1506, 42047, 12762, 368, 1452, 84, 12, 391, 569, 12528, 13, 50692], "temperature": 0.0, "avg_logprob": -0.40055279109788977, "compression_ratio": 1.5609756097560976, "no_speech_prob": 0.027600383386015892}, {"id": 66, "seek": 13976, "start": 146.32, "end": 147.32, "text": " Ok\u00e9.", "tokens": [50692, 3477, 526, 13, 50742], "temperature": 0.0, "avg_logprob": -0.40055279109788977, "compression_ratio": 1.5609756097560976, "no_speech_prob": 0.027600383386015892}, {"id": 67, "seek": 13976, "start": 147.32, "end": 154.32, "text": " Dus \u00e9\u00e9n week verband en na twee weken even terwijl terugkomen en naar de visu-terap uit.", "tokens": [50742, 17916, 39133, 1243, 1306, 4235, 465, 1667, 30660, 321, 2653, 754, 1796, 36652, 75, 35020, 74, 4726, 465, 12762, 368, 1452, 84, 12, 391, 569, 12528, 13, 51092], "temperature": 0.0, "avg_logprob": -0.40055279109788977, "compression_ratio": 1.5609756097560976, "no_speech_prob": 0.027600383386015892}, {"id": 68, "seek": 13976, "start": 154.32, "end": 156.32, "text": " Bedankt, doctor.", "tokens": [51092, 19893, 657, 83, 11, 4631, 13, 51192], "temperature": 0.0, "avg_logprob": -0.40055279109788977, "compression_ratio": 1.5609756097560976, "no_speech_prob": 0.027600383386015892}, {"id": 69, "seek": 13976, "start": 156.32, "end": 157.32, "text": " Ga gedaan.", "tokens": [51192, 10384, 44419, 13, 51242], "temperature": 0.0, "avg_logprob": -0.40055279109788977, "compression_ratio": 1.5609756097560976, "no_speech_prob": 0.027600383386015892}, {"id": 70, "seek": 13976, "start": 157.32, "end": 158.92, "text": " En sterkte met het herstel.", "tokens": [51242, 2193, 18924, 18844, 1131, 3639, 720, 372, 338, 13, 51322], "temperature": 0.0, "avg_logprob": -0.40055279109788977, "compression_ratio": 1.5609756097560976, "no_speech_prob": 0.027600383386015892}], "language": "Dutch"}
+{
+  "text": " Hoi Schap, lekker getennest? Niet echt. Het eerste half uur begheerlijk gespeeld, maar toen maakte ik een verkeerde beweging. Nu heb ik zo'n pijn aan mijn linker Enkel. Volgens mij is die dicker. Doe je socken zeven uit? Ja, in de daad deze Enkel's dicker dan de andere. O, kek uit. Niet ankomen. Sorry hoor. Ja, ik denk dat je even langs de huisartsmoet. Ja, dat denk ik ook. Ik zal even bellen voor een afspraak. Goede middag, huisarts de praktijk noot een wonenlaan. Goede middag. U spreekt met Willem van Dijk. Ik heb met Tennis een verkeerde beweging gemaakt. En nu is mijn linker Enkel dick. Kan de doctor er even naar kijken? Wanneer is het gebeurd? Van middag, om half twee ongeveer. Heb je wel eis op hoe Enkel gelicht? Nee, nog niet. Ik heb thuis pas gezien dat de Enkel dicker was. U kunt het beste, uw Enkel nummeteen koelen. Ik kijk even in de agenda. Kun je over een half uur hier zijn? Ja hoor, dat is prima. Tot zo. Tot zo. Hallo Willem. Ik heb gehoord dat je last hebt van je Enkel. Vertelens, wat is er gebeurd? Nou, ik was vermiddag met een vriend aan het Tennis'en. En ik heb een verkeerde beweging gemaakt. En toen ben ik door mijn linker Enkel gegaan. Hij is helemaal dick geworden. Zo. En hoe ben je hier naar toegekomen? Achter op de fiets van mijn vriendin. Kan je nog lopen? Ja, een beetje, maar het doet pijn. Ik lopen heel voorzichtig. Of een enkel. Doe maar even je schoenen en zokken uit. Dan zal ik even kijken. Kan je aanwezen waar het precies pijn doet? Hier. Als ik hier druk, doet het dan pijn? Niet echt. En als ik hier druk? O! Ja, dat doet ontzettend pijn. Daar eens met je enkel naar rechts. En al links. Trek je tegen naar je toe? Hmm. Ik zie dat je niet de hele beweging kunt maken. Goed. Je enkel is gelukkig niet gebroken. Hij is gekneust. Dat assistenten zal een recverband aanbrengen. Je moet het verband \u00e9\u00e9n week omhouden. Je mag gewoon op lopen, maar niet door de pijn heen lopen. Als je over twee weken nog last hebt, moet je terugkomen. Dan moet je misschien naar de visu-terap uit. Ok\u00e9. Dus \u00e9\u00e9n week verband en na twee weken even terwijl terugkomen en naar de visu-terap uit. Bedankt, doctor. Ga gedaan. En sterkte met het herstel.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.24,
+      "text": " Hoi Schap, lekker getennest?",
+      "tokens": [
+        50364, 3631, 72, 2065, 569, 11, 44125, 483, 268, 77, 377, 30, 50476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.24,
+      "end": 3.96,
+      "text": " Niet echt.",
+      "tokens": [50476, 36583, 13972, 13, 50562],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.96,
+      "end": 8.92,
+      "text": " Het eerste half uur begheerlijk gespeeld, maar toen maakte ik een verkeerde beweging.",
+      "tokens": [
+        50562, 12045, 35586, 1922, 344, 374, 4612, 675, 260, 12416, 5019, 494,
+        5957, 11, 10314, 29911, 463, 48036, 4320, 3881, 1306, 330, 260, 1479,
+        46638, 3249, 13, 50810
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.92,
+      "end": 11.6,
+      "text": " Nu heb ik zo'n pijn aan mijn linker Enkel.",
+      "tokens": [
+        50810, 13612, 8007, 4320, 5721, 6, 77, 280, 6041, 9904, 19884, 2113,
+        260, 2193, 7124, 13, 50944
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.6,
+      "end": 13.36,
+      "text": " Volgens mij is die dicker.",
+      "tokens": [50944, 8911, 23212, 22953, 307, 978, 18659, 260, 13, 51032],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 13.36,
+      "end": 15.36,
+      "text": " Doe je socken zeven uit?",
+      "tokens": [
+        51032, 1144, 68, 1506, 370, 13029, 5277, 553, 12528, 30, 51132
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 15.36,
+      "end": 18.240000000000002,
+      "text": " Ja, in de daad deze Enkel's dicker dan de andere.",
+      "tokens": [
+        51132, 3530, 11, 294, 368, 1120, 345, 18040, 2193, 7124, 311, 18659,
+        260, 3277, 368, 10490, 13, 51276
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 18.240000000000002,
+      "end": 20.240000000000002,
+      "text": " O, kek uit.",
+      "tokens": [51276, 422, 11, 803, 74, 12528, 13, 51376],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 20.240000000000002,
+      "end": 21.240000000000002,
+      "text": " Niet ankomen.",
+      "tokens": [51376, 36583, 364, 74, 4726, 13, 51426],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 21.240000000000002,
+      "end": 22.240000000000002,
+      "text": " Sorry hoor.",
+      "tokens": [51426, 4919, 43330, 13, 51476],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 22.240000000000002,
+      "end": 25.84,
+      "text": " Ja, ik denk dat je even langs de huisartsmoet.",
+      "tokens": [
+        51476, 3530, 11, 4320, 21285, 1137, 1506, 754, 2265, 82, 368, 46526,
+        11814, 3280, 302, 13, 51656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 25.84,
+      "end": 27.240000000000002,
+      "text": " Ja, dat denk ik ook.",
+      "tokens": [51656, 3530, 11, 1137, 21285, 4320, 7839, 13, 51726],
+      "temperature": 0.0,
+      "avg_logprob": -0.4389601643880208,
+      "compression_ratio": 1.5473251028806585,
+      "no_speech_prob": 0.1149701327085495
+    },
+    {
+      "id": 12,
+      "seek": 2724,
+      "start": 27.72,
+      "end": 30.52,
+      "text": " Ik zal even bellen voor een afspraak.",
+      "tokens": [
+        50388, 8316, 29599, 754, 4549, 268, 7358, 3881, 3238, 4952, 424, 514,
+        13, 50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 13,
+      "seek": 2724,
+      "start": 30.52,
+      "end": 34.0,
+      "text": " Goede middag, huisarts de praktijk noot een wonenlaan.",
+      "tokens": [
+        50528, 1037, 4858, 2062, 39877, 11, 46526, 11814, 368, 33721, 6940, 572,
+        310, 3881, 1582, 268, 875, 282, 13, 50702
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 14,
+      "seek": 2724,
+      "start": 34.0,
+      "end": 35.199999999999996,
+      "text": " Goede middag.",
+      "tokens": [50702, 1037, 4858, 2062, 39877, 13, 50762],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 15,
+      "seek": 2724,
+      "start": 35.199999999999996,
+      "end": 37.04,
+      "text": " U spreekt met Willem van Dijk.",
+      "tokens": [
+        50762, 624, 637, 701, 2320, 1131, 3099, 443, 3161, 413, 6940, 13, 50854
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 16,
+      "seek": 2724,
+      "start": 37.04,
+      "end": 40.08,
+      "text": " Ik heb met Tennis een verkeerde beweging gemaakt.",
+      "tokens": [
+        50854, 8316, 8007, 1131, 314, 11307, 3881, 1306, 330, 260, 1479, 46638,
+        3249, 49666, 13, 51006
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 17,
+      "seek": 2724,
+      "start": 40.08,
+      "end": 42.8,
+      "text": " En nu is mijn linker Enkel dick.",
+      "tokens": [
+        51006, 2193, 3822, 307, 19884, 2113, 260, 2193, 7124, 18659, 13, 51142
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 18,
+      "seek": 2724,
+      "start": 42.8,
+      "end": 45.4,
+      "text": " Kan de doctor er even naar kijken?",
+      "tokens": [51142, 11120, 368, 4631, 1189, 754, 12762, 30446, 30, 51272],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 19,
+      "seek": 2724,
+      "start": 45.4,
+      "end": 46.84,
+      "text": " Wanneer is het gebeurd?",
+      "tokens": [51272, 343, 12674, 260, 307, 3639, 29073, 10752, 30, 51344],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 20,
+      "seek": 2724,
+      "start": 46.84,
+      "end": 50.04,
+      "text": " Van middag, om half twee ongeveer.",
+      "tokens": [
+        51344, 8979, 2062, 39877, 11, 3406, 1922, 30660, 322, 432, 49143, 13,
+        51504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 21,
+      "seek": 2724,
+      "start": 50.04,
+      "end": 51.8,
+      "text": " Heb je wel eis op hoe Enkel gelicht?",
+      "tokens": [
+        51504, 15606, 1506, 2214, 308, 271, 999, 19709, 2193, 7124, 4087, 1405,
+        30, 51592
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 22,
+      "seek": 2724,
+      "start": 51.8,
+      "end": 53.32,
+      "text": " Nee, nog niet.",
+      "tokens": [51592, 22067, 11, 9638, 6899, 13, 51668],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 23,
+      "seek": 2724,
+      "start": 53.32,
+      "end": 56.28,
+      "text": " Ik heb thuis pas gezien dat de Enkel dicker was.",
+      "tokens": [
+        51668, 8316, 8007, 258, 8479, 1736, 18110, 1053, 1137, 368, 2193, 7124,
+        18659, 260, 390, 13, 51816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27424865230437245,
+      "compression_ratio": 1.5779467680608366,
+      "no_speech_prob": 0.0018313844921067357
+    },
+    {
+      "id": 24,
+      "seek": 5628,
+      "start": 56.28,
+      "end": 59.36,
+      "text": " U kunt het beste, uw Enkel nummeteen koelen.",
+      "tokens": [
+        50364, 624, 34199, 3639, 22245, 11, 23147, 2193, 7124, 1031, 5537,
+        10685, 8384, 14818, 13, 50518
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 25,
+      "seek": 5628,
+      "start": 59.36,
+      "end": 61.28,
+      "text": " Ik kijk even in de agenda.",
+      "tokens": [50518, 8316, 350, 6940, 754, 294, 368, 9829, 13, 50614],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 26,
+      "seek": 5628,
+      "start": 61.28,
+      "end": 63.04,
+      "text": " Kun je over een half uur hier zijn?",
+      "tokens": [
+        50614, 19089, 1506, 670, 3881, 1922, 344, 374, 3296, 8004, 30, 50702
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 27,
+      "seek": 5628,
+      "start": 63.04,
+      "end": 64.72,
+      "text": " Ja hoor, dat is prima.",
+      "tokens": [50702, 3530, 43330, 11, 1137, 307, 19507, 13, 50786],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 28,
+      "seek": 5628,
+      "start": 64.72,
+      "end": 65.56,
+      "text": " Tot zo.",
+      "tokens": [50786, 11236, 5721, 13, 50828],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 29,
+      "seek": 5628,
+      "start": 65.56,
+      "end": 66.56,
+      "text": " Tot zo.",
+      "tokens": [50828, 11236, 5721, 13, 50878],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 30,
+      "seek": 5628,
+      "start": 68.4,
+      "end": 69.88,
+      "text": " Hallo Willem.",
+      "tokens": [50970, 21242, 3099, 443, 13, 51044],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 31,
+      "seek": 5628,
+      "start": 69.88,
+      "end": 72.24000000000001,
+      "text": " Ik heb gehoord dat je last hebt van je Enkel.",
+      "tokens": [
+        51044, 8316, 8007, 1519, 1289, 765, 1137, 1506, 1036, 28339, 3161, 1506,
+        2193, 7124, 13, 51162
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 32,
+      "seek": 5628,
+      "start": 72.24000000000001,
+      "end": 74.88,
+      "text": " Vertelens, wat is er gebeurd?",
+      "tokens": [
+        51162, 21044, 338, 694, 11, 6858, 307, 1189, 29073, 10752, 30, 51294
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 33,
+      "seek": 5628,
+      "start": 74.88,
+      "end": 78.16,
+      "text": " Nou, ik was vermiddag met een vriend aan het Tennis'en.",
+      "tokens": [
+        51294, 28843, 11, 4320, 390, 1306, 76, 14273, 559, 1131, 3881, 371,
+        4896, 9904, 3639, 314, 11307, 6, 268, 13, 51458
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 34,
+      "seek": 5628,
+      "start": 78.16,
+      "end": 80.28,
+      "text": " En ik heb een verkeerde beweging gemaakt.",
+      "tokens": [
+        51458, 2193, 4320, 8007, 3881, 1306, 330, 260, 1479, 46638, 3249, 49666,
+        13, 51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 35,
+      "seek": 5628,
+      "start": 80.28,
+      "end": 82.6,
+      "text": " En toen ben ik door mijn linker Enkel gegaan.",
+      "tokens": [
+        51564, 2193, 29911, 3271, 4320, 2853, 19884, 2113, 260, 2193, 7124, 290,
+        6335, 282, 13, 51680
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 36,
+      "seek": 5628,
+      "start": 82.6,
+      "end": 84.6,
+      "text": " Hij is helemaal dick geworden.",
+      "tokens": [51680, 27832, 307, 33595, 18659, 26281, 13, 51780],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700014114379883,
+      "compression_ratio": 1.5687022900763359,
+      "no_speech_prob": 0.00023852541926316917
+    },
+    {
+      "id": 37,
+      "seek": 8460,
+      "start": 84.6,
+      "end": 85.6,
+      "text": " Zo.",
+      "tokens": [50364, 10337, 13, 50414],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 38,
+      "seek": 8460,
+      "start": 85.6,
+      "end": 87.88,
+      "text": " En hoe ben je hier naar toegekomen?",
+      "tokens": [
+        50414, 2193, 19709, 3271, 1506, 3296, 12762, 281, 2828, 74, 4726, 30,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 39,
+      "seek": 8460,
+      "start": 87.88,
+      "end": 90.47999999999999,
+      "text": " Achter op de fiets van mijn vriendin.",
+      "tokens": [
+        50528, 15847, 391, 999, 368, 15848, 1385, 3161, 19884, 371, 4896, 259,
+        13, 50658
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 40,
+      "seek": 8460,
+      "start": 90.47999999999999,
+      "end": 91.64,
+      "text": " Kan je nog lopen?",
+      "tokens": [50658, 11120, 1506, 9638, 287, 15752, 30, 50716],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 41,
+      "seek": 8460,
+      "start": 91.64,
+      "end": 94.28,
+      "text": " Ja, een beetje, maar het doet pijn.",
+      "tokens": [
+        50716, 3530, 11, 3881, 27459, 11, 10314, 3639, 44138, 280, 6041, 13,
+        50848
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 42,
+      "seek": 8460,
+      "start": 94.28,
+      "end": 95.83999999999999,
+      "text": " Ik lopen heel voorzichtig.",
+      "tokens": [50848, 8316, 287, 15752, 9430, 7358, 89, 7334, 13, 50926],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 43,
+      "seek": 8460,
+      "start": 95.83999999999999,
+      "end": 97.32,
+      "text": " Of een enkel.",
+      "tokens": [50926, 2720, 3881, 465, 7124, 13, 51000],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 44,
+      "seek": 8460,
+      "start": 97.32,
+      "end": 99.36,
+      "text": " Doe maar even je schoenen en zokken uit.",
+      "tokens": [
+        51000, 1144, 68, 10314, 754, 1506, 956, 78, 20317, 465, 710, 453, 2653,
+        12528, 13, 51102
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 45,
+      "seek": 8460,
+      "start": 99.36,
+      "end": 101.8,
+      "text": " Dan zal ik even kijken.",
+      "tokens": [51102, 3394, 29599, 4320, 754, 30446, 13, 51224],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 46,
+      "seek": 8460,
+      "start": 101.8,
+      "end": 104.47999999999999,
+      "text": " Kan je aanwezen waar het precies pijn doet?",
+      "tokens": [
+        51224, 11120, 1506, 9904, 826, 2904, 16618, 3639, 4346, 530, 280, 6041,
+        44138, 30, 51358
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 47,
+      "seek": 8460,
+      "start": 104.47999999999999,
+      "end": 106.32,
+      "text": " Hier.",
+      "tokens": [51358, 10886, 13, 51450],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 48,
+      "seek": 8460,
+      "start": 106.32,
+      "end": 108.28,
+      "text": " Als ik hier druk, doet het dan pijn?",
+      "tokens": [
+        51450, 12948, 4320, 3296, 47995, 11, 44138, 3639, 3277, 280, 6041, 30,
+        51548
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 49,
+      "seek": 8460,
+      "start": 108.28,
+      "end": 110.0,
+      "text": " Niet echt.",
+      "tokens": [51548, 36583, 13972, 13, 51634],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 50,
+      "seek": 8460,
+      "start": 110.0,
+      "end": 111.47999999999999,
+      "text": " En als ik hier druk?",
+      "tokens": [51634, 2193, 3907, 4320, 3296, 47995, 30, 51708],
+      "temperature": 0.0,
+      "avg_logprob": -0.30172546931675504,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.001813553157262504
+    },
+    {
+      "id": 51,
+      "seek": 11148,
+      "start": 111.48,
+      "end": 112.48,
+      "text": " O!",
+      "tokens": [50364, 422, 0, 50414],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 52,
+      "seek": 11148,
+      "start": 112.48,
+      "end": 114.76,
+      "text": " Ja, dat doet ontzettend pijn.",
+      "tokens": [
+        50414, 3530, 11, 1137, 44138, 6592, 89, 3093, 521, 280, 6041, 13, 50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 53,
+      "seek": 11148,
+      "start": 114.76,
+      "end": 117.36,
+      "text": " Daar eens met je enkel naar rechts.",
+      "tokens": [
+        50528, 29883, 31246, 1131, 1506, 465, 7124, 12762, 34305, 13, 50658
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 54,
+      "seek": 11148,
+      "start": 117.36,
+      "end": 118.36,
+      "text": " En al links.",
+      "tokens": [50658, 2193, 419, 6123, 13, 50708],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 55,
+      "seek": 11148,
+      "start": 118.36,
+      "end": 121.2,
+      "text": " Trek je tegen naar je toe?",
+      "tokens": [50708, 8648, 74, 1506, 30945, 12762, 1506, 13976, 30, 50850],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 56,
+      "seek": 11148,
+      "start": 121.2,
+      "end": 122.2,
+      "text": " Hmm.",
+      "tokens": [50850, 8239, 13, 50900],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 57,
+      "seek": 11148,
+      "start": 122.2,
+      "end": 125.4,
+      "text": " Ik zie dat je niet de hele beweging kunt maken.",
+      "tokens": [
+        50900, 8316, 16503, 1137, 1506, 6899, 368, 16812, 46638, 3249, 34199,
+        24703, 13, 51060
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 58,
+      "seek": 11148,
+      "start": 125.4,
+      "end": 126.4,
+      "text": " Goed.",
+      "tokens": [51060, 1037, 292, 13, 51110],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 59,
+      "seek": 11148,
+      "start": 126.4,
+      "end": 128.16,
+      "text": " Je enkel is gelukkig niet gebroken.",
+      "tokens": [
+        51110, 2588, 465, 7124, 307, 4087, 2034, 74, 328, 6899, 1519, 37947, 13,
+        51198
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 60,
+      "seek": 11148,
+      "start": 128.16,
+      "end": 129.64000000000001,
+      "text": " Hij is gekneust.",
+      "tokens": [51198, 27832, 307, 14037, 716, 381, 13, 51272],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 61,
+      "seek": 11148,
+      "start": 129.64000000000001,
+      "end": 133.4,
+      "text": " Dat assistenten zal een recverband aanbrengen.",
+      "tokens": [
+        51272, 9315, 4255, 317, 268, 29599, 3881, 850, 331, 4235, 9904, 2672,
+        872, 268, 13, 51460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 62,
+      "seek": 11148,
+      "start": 133.4,
+      "end": 136.2,
+      "text": " Je moet het verband \u00e9\u00e9n week omhouden.",
+      "tokens": [
+        51460, 2588, 12677, 3639, 1306, 4235, 39133, 1243, 3406, 12181, 1556,
+        13, 51600
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 63,
+      "seek": 11148,
+      "start": 136.2,
+      "end": 139.76,
+      "text": " Je mag gewoon op lopen, maar niet door de pijn heen lopen.",
+      "tokens": [
+        51600, 2588, 2258, 19751, 999, 287, 15752, 11, 10314, 6899, 2853, 368,
+        280, 6041, 415, 268, 287, 15752, 13, 51778
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42764791761125837,
+      "compression_ratio": 1.5420168067226891,
+      "no_speech_prob": 0.011098477989435196
+    },
+    {
+      "id": 64,
+      "seek": 13976,
+      "start": 140.76,
+      "end": 143.88,
+      "text": " Als je over twee weken nog last hebt, moet je terugkomen.",
+      "tokens": [
+        50414, 12948, 1506, 670, 30660, 321, 2653, 9638, 1036, 28339, 11, 12677,
+        1506, 35020, 74, 4726, 13, 50570
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40055279109788977,
+      "compression_ratio": 1.5609756097560976,
+      "no_speech_prob": 0.027600383386015892
+    },
+    {
+      "id": 65,
+      "seek": 13976,
+      "start": 143.88,
+      "end": 146.32,
+      "text": " Dan moet je misschien naar de visu-terap uit.",
+      "tokens": [
+        50570, 3394, 12677, 1506, 42047, 12762, 368, 1452, 84, 12, 391, 569,
+        12528, 13, 50692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40055279109788977,
+      "compression_ratio": 1.5609756097560976,
+      "no_speech_prob": 0.027600383386015892
+    },
+    {
+      "id": 66,
+      "seek": 13976,
+      "start": 146.32,
+      "end": 147.32,
+      "text": " Ok\u00e9.",
+      "tokens": [50692, 3477, 526, 13, 50742],
+      "temperature": 0.0,
+      "avg_logprob": -0.40055279109788977,
+      "compression_ratio": 1.5609756097560976,
+      "no_speech_prob": 0.027600383386015892
+    },
+    {
+      "id": 67,
+      "seek": 13976,
+      "start": 147.32,
+      "end": 154.32,
+      "text": " Dus \u00e9\u00e9n week verband en na twee weken even terwijl terugkomen en naar de visu-terap uit.",
+      "tokens": [
+        50742, 17916, 39133, 1243, 1306, 4235, 465, 1667, 30660, 321, 2653, 754,
+        1796, 36652, 75, 35020, 74, 4726, 465, 12762, 368, 1452, 84, 12, 391,
+        569, 12528, 13, 51092
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40055279109788977,
+      "compression_ratio": 1.5609756097560976,
+      "no_speech_prob": 0.027600383386015892
+    },
+    {
+      "id": 68,
+      "seek": 13976,
+      "start": 154.32,
+      "end": 156.32,
+      "text": " Bedankt, doctor.",
+      "tokens": [51092, 19893, 657, 83, 11, 4631, 13, 51192],
+      "temperature": 0.0,
+      "avg_logprob": -0.40055279109788977,
+      "compression_ratio": 1.5609756097560976,
+      "no_speech_prob": 0.027600383386015892
+    },
+    {
+      "id": 69,
+      "seek": 13976,
+      "start": 156.32,
+      "end": 157.32,
+      "text": " Ga gedaan.",
+      "tokens": [51192, 10384, 44419, 13, 51242],
+      "temperature": 0.0,
+      "avg_logprob": -0.40055279109788977,
+      "compression_ratio": 1.5609756097560976,
+      "no_speech_prob": 0.027600383386015892
+    },
+    {
+      "id": 70,
+      "seek": 13976,
+      "start": 157.32,
+      "end": 158.92,
+      "text": " En sterkte met het herstel.",
+      "tokens": [
+        51242, 2193, 18924, 18844, 1131, 3639, 720, 372, 338, 13, 51322
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40055279109788977,
+      "compression_ratio": 1.5609756097560976,
+      "no_speech_prob": 0.027600383386015892
+    }
+  ],
+  "language": "Dutch"
+}
