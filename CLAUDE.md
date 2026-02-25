@@ -5,21 +5,10 @@ code in this repository.
 
 ## Purpose
 
-This is a Dutch language learning materials directory for the "De Opmaat" course
-(NT2 - Nederlands als Tweede Taal, targeting A2 level). It contains vocabulary
-lists, tests, audio files, Anki flashcard materials, and supplementary
-documents.
-
-## Directory Structure
-
-- `thema_1/` through `thema_7/` - Course materials organized by theme/chapter
-- `daily/` - Daily practice sessions with dated subfolders (e.g.,
-  `11_dec_2025/`)
-- `stories/` - Narrative exercises with bolded verbs and grammar patterns
-- `transcriptions/` - Audio transcripts
-- `existin_not_sorted/` - Raw/unsorted learning materials and vocabulary exports
-- `other/` - Administrative documents and learning methodology notes
-- `scripts/` - Automation utilities (audio_to_anki.py, etc.)
+Dutch language learning materials repository (NT2 - Nederlands als Tweede Taal).
+Contains two courses (De Opmaat A2, Link B1), vocabulary lists, tests, audio
+files, Anki flashcard materials, daily study plans, and learning methodology
+notes. The user's native language is Russian/Ukrainian.
 
 ## Commands
 
@@ -28,272 +17,123 @@ npm run format        # Format all markdown files with Prettier
 npm run format:check  # Check formatting without changes
 ```
 
+## Directory Structure
+
+```
+de_opmaat/          # De Opmaat course (A2) — thema_1/ through thema_7/ + transcriptions/
+link/               # Link course (B1) — thema_1/ and onwards
+daily/              # Daily practice and study planning
+  templates/        #   Generic reusable templates (les, week review, monthly)
+  maart_2026/       #   Monthly study plan with weekly/daily structure
+    W{N}_{month}/   #     Week folders (W0_feb, W1_mrt, etc.)
+      DD_MM/les.md  #       Daily lesson files with pre-filled resources
+      week_review.md#       Weekly review template
+    controle/       #     Baseline and monthly progress measurements
+other/              # Learning methodology notes and analysis
+  language_learning_methods/  # Evgeniy 6-step, Alisher immersion, comparisons
+scripts/            # Automation utilities (audio_to_anki.py, etc.)
+```
+
+## Study Plan System (daily/maart_2026/)
+
+The active study plan uses the **Evgeniy 6-step method** with a two-day cycle:
+
+- **Evening (30 min):** Steps 1-3 on NEW material (cold watch, analyze, extract
+  phrases)
+- **Next day commute + lunch:** Steps 4-6 on YESTERDAY's material (shadowing,
+  dictation, expressive repetition)
+
+Weekly resource rotation: Mon=Heb je zin?, Tue=De Opmaat audio, Wed=Net in
+Nederland, Thu=NOS Jeugdjournaal, Fri=Het Klokhuis/Easy Dutch + weekly review.
+
+Progressive difficulty across weeks: W0-1 steps 1-3 only, W2 adds steps 4-5, W3
+activates all 6, W4 full protocol + monthly test.
+
+Roadmap overview: `daily/roadmap_maart_2026.md`
+
 ## Scripts
 
-> **Подробная документация:** `scripts/README.md`
+> **Detailed docs:** `scripts/README.md`
 
 ### audio_to_anki.py — Audio to Anki Sentence Cards
 
-Автоматически нарезает аудио диалогов на предложения и создаёт Anki карточки с
-оригинальной озвучкой из учебника.
-
-**Быстрый старт (с Forced Alignment — рекомендуется):**
+Splits audio dialogues into sentences and generates Anki cards with original
+textbook audio. Dependencies:
+`brew install ffmpeg && pip install openai-whisper`
 
 ```bash
-python3 scripts/audio_to_anki.py thema_7/2/h07_oefening_02.mp3 \
-    --transcript thema_7/2/h07_oefening_02.md \
+python3 scripts/audio_to_anki.py de_opmaat/thema_7/2/h07_oefening_02.mp3 \
+    --transcript de_opmaat/thema_7/2/h07_oefening_02.md \
     --theme gezondheid \
     --copy-to-anki
 ```
 
-**Параметры:**
+| Param            | Description             | Default    |
+| ---------------- | ----------------------- | ---------- |
+| `audio`          | Path to MP3 file        | (required) |
+| `--transcript`   | MD file with transcript | -          |
+| `--theme`        | Theme for Anki tags     | `general`  |
+| `--level`        | CEFR level              | `A2`       |
+| `--copy-to-anki` | Auto-copy to Anki media | off        |
 
-| Параметр         | Описание                     | По умолчанию   |
-| ---------------- | ---------------------------- | -------------- |
-| `audio`          | Путь к MP3 файлу             | (обязательный) |
-| `--transcript`   | MD файл с транскрипцией      | -              |
-| `--theme`        | Тема для тегов               | `general`      |
-| `--level`        | Уровень CEFR                 | `A2`           |
-| `--copy-to-anki` | Автокопирование в Anki media | выключено      |
-
-**Режимы работы:**
-
-| Режим                               | Когда                | Преимущества                 |
-| ----------------------------------- | -------------------- | ---------------------------- |
-| Forced Alignment (с `--transcript`) | Есть MD транскрипция | Точные границы, чистый текст |
-| Whisper-only (без `--transcript`)   | Нет транскрипции     | Быстрый старт                |
-
-**Что создаёт:**
-
-```
-thema_X/N/
-├── {name}.json                # Whisper таймстемпы
-├── {name}_sentences/          # Нарезанные MP3 файлы
-└── sententiae_{theme}_anki.txt  # Импортировать в Anki
-```
-
-**После выполнения:**
-
-1. Заполни переводы в `sententiae_{theme}_anki.txt`
-2. Импортируй в Anki: File → Import
-3. (опционально) Tools → Check Media
-
-**Зависимости:**
-
-```bash
-brew install ffmpeg && pip install openai-whisper
-```
+Two modes: **Forced Alignment** (with `--transcript`, recommended — exact
+boundaries + clean text) and **Whisper-only** (without transcript — quick
+start).
 
 ## Anki Integration
 
-### Media Folder
+**Profile:** `alex` — media at
+`~/Library/Application Support/Anki2/alex/collection.media/`
 
-Скрипт автоматически находит Anki media folder по профилю пользователя.
+### Anki File Formats
 
-**Текущий профиль:** `alex`
+Files ending in `_anki.txt` use tab-separated format with header directives:
 
-```
-~/Library/Application Support/Anki2/alex/collection.media/
-```
+| Format                      | Header                                         | Fields                                                |
+| --------------------------- | ---------------------------------------------- | ----------------------------------------------------- |
+| Vocabulary with audio       | `#separator:tab` `#html:true` `#tags column:5` | Dutch \| Russian \| Notes \| Audio \| Tags            |
+| Sentence-only               | `#separator:tab` `#html:false`                 | Dutch \| Russian                                      |
+| Sentence cards with audio   | `#separator:tab` `#html:true` `#tags column:4` | Dutch \| Russian \| Audio \| Tags                     |
+| Construction (multisensory) | `#separator:tab` `#html:true` `#tags column:6` | Russian \| Dutch \| Context \| Image \| Audio \| Tags |
 
-### Ручное копирование (если не используешь --copy-to-anki)
+**Tag structures:**
 
-```bash
-cp path/to/sentences/*.mp3 ~/Library/Application\ Support/Anki2/alex/collection.media/
-```
+- Sentences: `sententiae::{theme}::{level}::audio`
+- Constructions: `constructies::{category}::{level}` (categories: mening,
+  vragen, oorzaak, tijd, contrast, dagelijks, fillers)
 
-### Настройка карточки (один раз)
+### Card Templates
 
-**Tools → Manage Note Types → [тип] → Fields:**
+Front: `{{Front}} {{Audio}}` — Back: `{{FrontSide}}<hr id="answer">{{Back}}`
 
-- Front (нидерландский текст)
-- Back (русский перевод)
-- Audio (ссылка на звук)
-
-**Cards → Front Template:**
-
-```html
-{{Front}} {{Audio}}
-```
-
-**Cards → Back Template:**
-
-```html
-{{FrontSide}}
-<hr id="answer" />
-{{Back}}
-```
-
-**После копирования:** В Anki выполни **Tools → Check Media** для обновления
-индекса
+Audio references: `[sound:filename.mp3]` (ElevenLabs, Amazon Polly, or
+audio_to_anki.py output)
 
 ## File Naming Conventions
 
-| Pattern                            | Example                                  | Purpose                     |
-| ---------------------------------- | ---------------------------------------- | --------------------------- |
-| `{N}_opdracht.md`                  | `6_opdracht.md`                          | Numbered exercises          |
-| `woordenlijst_pagina_{N}_anki.txt` | `woordenlijst_pagina_16_anki.txt`        | Vocabulary by page          |
-| `grammatica_{topic}.md`            | `grammatica_praten_over_het_verleden.md` | Grammar explanations        |
-| `taalhulp_{topic}_anki.txt`        | `taalhulp_klok_anki.txt`                 | Topic-specific flashcards   |
-| `verhaal_{NN}_{title}.md`          | `verhaal_01_de_reis_naar_amsterdam.md`   | Story exercises             |
-| `sententiae_{theme}_anki.txt`      | `sententiae_gezondheid_anki.txt`         | Sentence cards with audio   |
-| `{audio}_sentences/`               | `h07_oefening_02_sentences/`             | Split audio segments folder |
-
-## Common File Types
-
-- `.pdf` - Vocabulary lists (woordenlijst), tests (toetsen), answer keys
-  (beoordeling)
-- `.mp3` - Audio exercises and listening materials
-- `.md` - Exercises, grammar notes, error tracking, stories
-- `*_anki.txt` - Anki flashcard format files (see format below)
-
-## Anki File Formats
-
-Files ending in `_anki.txt` use tab-separated format. Two variants exist:
-
-**Full format** (vocabulary with audio):
-
-```
-#separator:tab
-#html:true
-#tags column:5
-```
-
-Fields: Dutch term | Russian translation | Notes | Audio | Tags
-
-**Sentence-only format** (example sentences):
-
-```
-#separator:tab
-#html:false
-```
-
-Fields: Dutch sentence | Russian translation
-
-**Sentence cards with audio** (from audio_to_anki.py):
-
-```
-#separator:tab
-#html:true
-#tags column:4
-```
-
-Fields: Dutch sentence | Russian translation | Audio | Tags
-
-**File naming:** `sententiae_{theme}_anki.txt`
-
-**Example entry:**
-
-```
-Hoi schat, lekker getennist?	Привет, дорогой, хорошо поиграл в теннис?	[sound:h07_oefening_02_sentence_001.mp3]	sententiae::gezondheid::A2::audio
-```
-
-**Tag structure:** `sententiae::{theme}::{level}::audio`
-
-### Audio References
-
-Audio files reference external TTS services:
-
-- ElevenLabs: `[sound:elevenlabs_filename.mp3]`
-- Amazon Polly: `[sound:polly_filename.mp3]`
-
-### Construction Cards (Multisensory Format)
-
-For language constructions (ready-made phrases), use the multisensory format
-that activates multiple memory systems:
-
-**File naming:** `constructies_{topic}_anki.txt`
-
-**Header:**
-
-```
-#separator:tab
-#html:true
-#tags column:6
-```
-
-**Fields:** Russian prompt | Dutch construction | Context sentences | Image cue
-| Audio | Tags
-
-**Card template (front):**
-
-```
-🇷🇺 {{Russian prompt}}
-
-💭 Где ты это используешь? (think before flipping)
-```
-
-**Card template (back):**
-
-```
-🇳🇱 {{Dutch construction}}
-
-🔊 {{Audio}}
-
-📝 {{Context sentences}}
-
-🖼️ {{Image cue}}
-```
-
-**Example entry:**
-
-```
-Я хотел бы...	Ik zou graag...	- Ik zou graag een tafel reserveren.<br>- Ik zou graag meer informatie willen.	представь себя в ресторане	[sound:ik_zou_graag.mp3]	constructies::vragen::A2
-```
-
-**Construction categories for tags:**
-
-| Category   | Tag prefix                | Examples                           |
-| ---------- | ------------------------- | ---------------------------------- |
-| Opinions   | `constructies::mening`    | Ik vind dat..., Naar mijn mening.. |
-| Requests   | `constructies::vragen`    | Zou ik... mogen?, Kunt u...        |
-| Causes     | `constructies::oorzaak`   | Omdat..., Daarom...                |
-| Time/Order | `constructies::tijd`      | Ten eerste..., Uiteindelijk...     |
-| Comparison | `constructies::contrast`  | Aan de ene kant..., Terwijl...     |
-| Daily      | `constructies::dagelijks` | Hoeveel kost...?, Waar is...?      |
-| Fillers    | `constructies::fillers`   | Nou..., Eigenlijk...               |
-
-**Level tags:** Add `::A1`, `::A2`, or `::B1` suffix based on complexity.
-
-**Reference:** See
-`other/language_learning_methods/integrated_method_daily_routine.md` for the
-full construction library (65+ phrases) organized by communicative function.
+| Pattern                            | Purpose                   |
+| ---------------------------------- | ------------------------- |
+| `{N}_opdracht.md`                  | Numbered exercises        |
+| `woordenlijst_pagina_{N}_anki.txt` | Vocabulary by page        |
+| `grammatica_{topic}.md`            | Grammar explanations      |
+| `taalhulp_{topic}_anki.txt`        | Topic-specific flashcards |
+| `sententiae_{theme}_anki.txt`      | Sentence cards with audio |
+| `constructies_{topic}_anki.txt`    | Construction cards        |
+| `verhaal_{NN}_{title}.md`          | Story exercises           |
 
 ## Content Conventions
 
-### Vocabulary
-
 - Dutch nouns must include articles: `het stokbrood`, `de stroopwafel`
 - Provide Russian translations; English as supplementary
-- Show sentences in context (positive, negative, interrogative forms)
-
-### Exercise Markdown Format
-
-Use visual indicators for corrections:
-
-- ✅ for correct answers
-- ❌ for incorrect
-- ~~strikethrough~~ for wrong parts with correction following
-
-### Error Tracking Notes
-
-Structure error notes with:
-
-- Date stamp
-- Sections: Spelling errors, Grammar rules, Frequency words
-- Markdown tables showing: Error | Correction | Rule/Tip
-
-### Story Files
-
-Include:
-
-- Narrative text with **bolded verbs** for pattern recognition
-- Grammar summary tables
-- Vocabulary list (Dutch → Russian → English)
+- Exercise corrections: ✅ correct, ❌ incorrect, ~~strikethrough~~ for wrong
+  parts
+- Story files: **bolded verbs** for pattern recognition + grammar tables +
+  vocabulary list (Dutch -> Russian -> English)
+- Error tracking: Date stamp + tables (Error | Correction | Rule/Tip)
 
 ## Grammar Reference
 
-When explaining Dutch grammar, use tables for word order patterns:
+Use tables for Dutch word order patterns:
 
 | Conjunction | Word Order         | Example                            |
 | ----------- | ------------------ | ---------------------------------- |
@@ -302,17 +142,9 @@ When explaining Dutch grammar, use tables for word order patterns:
 | **als**     | verb to end        | Als het regent, blijf ik thuis.    |
 | (inversie)  | V + S after adverb | Morgen ga ik naar Amsterdam.       |
 
-### Common Spelling Corrections
-
-| Wrong      | Correct     | Note           |
-| ---------- | ----------- | -------------- |
-| capot      | kapot       | Dutch uses 'k' |
-| stroopdas  | stropdas    | Single 'o'     |
-| de station | het station | het-woord      |
-
 ## Language Context
 
 - Primary language: Dutch (Nederlands)
 - User's native language: Russian/Ukrainian
-- Course level: A2 (elementary)
-- Provide bilingual support when helpful (Dutch ↔ Russian/English)
+- Course level: A2 (elementary), approaching B1
+- Provide bilingual support when helpful (Dutch <-> Russian/English)
