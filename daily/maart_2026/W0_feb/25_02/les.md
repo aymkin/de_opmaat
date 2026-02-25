@@ -4,20 +4,22 @@
 
 ## Statistieken
 
-- Studietijd: \_\_ minuten
-- Anki: \_\_ nieuwe / \_\_ herhaald (doel: 5-7 nieuw)
-- Video verwerkt: Net in Nederland
+- Studietijd: 60 minuten
+- Anki: 00 nieuwe / 00 herhaald (doel: 5-7 nieuw)
+- Video probeere: [Warom fouten toegeven is moeilijk](https://npokennis.nl/video/340/waarom-vinden-we-fouten-toegeven-moeilijk)
+- Video verwerkt: [Peppa pig](https://youtu.be/1BCKyHD7Rio?si=yCLReuIU3h4_9Mat)
+
+Note: Я посатрался посмотреть видео с сайта npokennis. Оказалось, что я там ничего не понимаю, герои говорят слишком быстро и перебивают друг друга. Уровень понимания меньше 10 процентов. Дальше попробовал Улица Сезам. Оказалось что там нет субтитров и часто герои говорят на  перебой. Дальше попробовал Поросенка Пеппу. Я почти все понял. Я бы сказал уровень понимания 90 процентов или выше. Много времени потратил на эксперименты.
 
 ## Avond — stappen 1-3 (nieuw materiaal)
 
-**Bron:** Net in Nederland **Type:** NPO video (5-10 min) **Waar:** NPO Start
-(drietalige ondertitels: NL/EN/AR)
+**Bron:** Peppa Pig **Type:** Tekenfilms voor kinderen (5< min) **Waar:** Youtube
 
 > Gebruik NPO Start Dual Subtitles Chrome-extensie voor stap 2.
 
 | Stap                             | Klaar | Notities       |
 | -------------------------------- | :---: | -------------- |
-| 1. Koud kijken (5 min)           |  [ ]  | Begrip: \_\_ % |
+| 1. Koud kijken (5 min)           |  [X]  | Begrip: 90 % |
 | 2. Betekenis analyseren (10 min) |  [ ]  |                |
 | 3. Zinnen uitschrijven (10 min)  |  [ ]  | Aantal: \_\_   |
 

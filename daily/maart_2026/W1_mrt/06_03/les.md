@@ -6,12 +6,12 @@
 
 - Studietijd: \_\_ minuten
 - Anki: \_\_ nieuwe / \_\_ herhaald (doel: 5-7 nieuw)
-- Video verwerkt: Het Klokhuis / Easy Dutch / Lied
+- Video verwerkt: Heb je zin? / Lied
 
 ## Avond — stappen 1-3 (nieuw materiaal)
 
-**Bron:** Het Klokhuis / Easy Dutch / Lied **Type:** Video (5-15 min) of lied
-**Waar:** NPO Start / YouTube (Easy Dutch, Kinderen voor Kinderen)
+**Bron:** Heb je zin? / Lied **Type:** YouTube video (3-5 min) of lied **Waar:**
+YouTube — Bart de Pau / Kinderen voor Kinderen
 
 > Kies op basis van energie. Vergeet het weekoverzicht niet!
 
@@ -33,15 +33,15 @@
 |            |           |              |
 |            |           |              |
 
-## Overdag — verwerking (gisteren: NOS Jeugdjournaal)
+## Overdag — verwerking (gisteren: Easy Dutch Super Easy)
 
-| Slot                         | Klaar | Activiteit                            |
-| ---------------------------- | :---: | ------------------------------------- |
-| Ochtend telefoon (15 min)    |  [ ]  | Anki herhaling                        |
-| Ochtend koptelefoon (15 min) |  [ ]  | Shadowing: NOS Jeugdjournaal          |
-| Lunch koptelefoon (15 min)   |  [ ]  | Herhaling NOS Jeugdjournaal / passief |
-| Thuis telefoon (15 min)      |  [ ]  | Anki extra / lezen                    |
-| Thuis koptelefoon (15 min)   |  [ ]  | Passief luisteren (Tier 3)            |
+| Slot                         | Klaar | Activiteit                                 |
+| ---------------------------- | :---: | ------------------------------------------ |
+| Ochtend telefoon (15 min)    |  [ ]  | Anki herhaling                             |
+| Ochtend koptelefoon (15 min) |  [ ]  | Shadowing: Easy Dutch Super Easy           |
+| Lunch koptelefoon (15 min)   |  [ ]  | Herhaling Easy Dutch Super Easy / passief  |
+| Thuis telefoon (15 min)      |  [ ]  | Anki extra / lezen                         |
+| Thuis koptelefoon (15 min)   |  [ ]  | Passief luisteren (Tier 3)                 |
 
 > **Shadowing niveau:** Licht: herhaal losse zinnen, niet de hele stroom
 

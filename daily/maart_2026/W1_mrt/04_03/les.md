@@ -6,14 +6,13 @@
 
 - Studietijd: \_\_ minuten
 - Anki: \_\_ nieuwe / \_\_ herhaald (doel: 5-7 nieuw)
-- Video verwerkt: Net in Nederland
+- Video verwerkt: Peppa Pig
 
 ## Avond — stappen 1-3 (nieuw materiaal)
 
-**Bron:** Net in Nederland **Type:** NPO video (5-10 min) **Waar:** NPO Start
-(drietalige ondertitels: NL/EN/AR)
+**Bron:** Peppa Pig **Type:** Tekenfilms voor kinderen (<5 min) **Waar:** YouTube
 
-> Gebruik NPO Start Dual Subtitles Chrome-extensie voor stap 2.
+> Kies een nieuw aflevering. Probeer ZONDER ondertiteling voor stap 1.
 
 | Stap                             | Klaar | Notities       |
 | -------------------------------- | :---: | -------------- |

@@ -6,14 +6,14 @@
 
 - Studietijd: \_\_ minuten
 - Anki: \_\_ nieuwe / \_\_ herhaald (doel: 5-7 nieuw)
-- Video verwerkt: NOS Jeugdjournaal
+- Video verwerkt: Easy Dutch (Super Easy)
 
 ## Avond — stappen 1-3 (nieuw materiaal)
 
-**Bron:** NOS Jeugdjournaal **Type:** Nieuws (3 min) **Waar:** YouTube / NPO
-Start
+**Bron:** Easy Dutch (Super Easy) **Type:** Straatinterviews (5-8 min) **Waar:**
+YouTube — Easy Dutch kanaal
 
-> Dagelijks verse content. Ideaal voor koud kijken.
+> Dubbele ondertitels (NL + EN) zijn ingebakken in de video. Ideaal voor stap 2.
 
 | Stap                             | Klaar | Notities       |
 | -------------------------------- | :---: | -------------- |
@@ -33,15 +33,15 @@ Start
 |            |           |              |
 |            |           |              |
 
-## Overdag — verwerking (gisteren: Net in Nederland)
+## Overdag — verwerking (gisteren: Peppa Pig)
 
-| Slot                         | Klaar | Activiteit                           |
-| ---------------------------- | :---: | ------------------------------------ |
-| Ochtend telefoon (15 min)    |  [ ]  | Anki herhaling                       |
-| Ochtend koptelefoon (15 min) |  [ ]  | Shadowing: Net in Nederland          |
-| Lunch koptelefoon (15 min)   |  [ ]  | Herhaling Net in Nederland / passief |
-| Thuis telefoon (15 min)      |  [ ]  | Anki extra / lezen                   |
-| Thuis koptelefoon (15 min)   |  [ ]  | Passief luisteren (Tier 3)           |
+| Slot                         | Klaar | Activiteit                    |
+| ---------------------------- | :---: | ----------------------------- |
+| Ochtend telefoon (15 min)    |  [ ]  | Anki herhaling                |
+| Ochtend koptelefoon (15 min) |  [ ]  | Shadowing: Peppa Pig          |
+| Lunch koptelefoon (15 min)   |  [ ]  | Herhaling Peppa Pig / passief |
+| Thuis telefoon (15 min)      |  [ ]  | Anki extra / lezen            |
+| Thuis koptelefoon (15 min)   |  [ ]  | Passief luisteren (Tier 3)    |
 
 > **Shadowing niveau:** Licht: herhaal losse zinnen, niet de hele stroom
 

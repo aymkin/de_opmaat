@@ -6,14 +6,14 @@
 
 - Studietijd: \_\_ minuten
 - Anki: \_\_ nieuwe / \_\_ herhaald (doel: 7-10 nieuw)
-- Video verwerkt: Net in Nederland
+- Video verwerkt: Easy Dutch (Super Easy)
 
 ## Avond — stappen 1-3 (nieuw materiaal)
 
-**Bron:** Net in Nederland **Type:** NPO video (5-10 min) **Waar:** NPO Start
-(drietalige ondertitels: NL/EN/AR)
+**Bron:** Easy Dutch (Super Easy) **Type:** Straatinterviews (5-8 min) **Waar:**
+YouTube — Easy Dutch kanaal
 
-> Gebruik NPO Start Dual Subtitles Chrome-extensie voor stap 2.
+> Dubbele ondertitels (NL + EN) zijn ingebakken in de video. Ideaal voor stap 2.
 
 | Stap                             | Klaar | Notities       |
 | -------------------------------- | :---: | -------------- |

@@ -13,7 +13,8 @@
 **Bron:** NOS Jeugdjournaal **Type:** Nieuws (3 min) **Waar:** YouTube / NPO
 Start
 
-> Dagelijks verse content. Ideaal voor koud kijken.
+> Eerste poging met nieuws! Verwacht begrip ~30-50%. Dat is normaal en nuttig
+> voor het meten van voortgang.
 
 | Stap                             | Klaar | Notities       |
 | -------------------------------- | :---: | -------------- |
@@ -33,13 +34,13 @@ Start
 |            |           |              |
 |            |           |              |
 
-## Overdag — verwerking (gisteren: Net in Nederland)
+## Overdag — verwerking (gisteren: Easy Dutch Super Easy)
 
 | Slot                         | Klaar | Activiteit                                        |
 | ---------------------------- | :---: | ------------------------------------------------- |
 | Ochtend telefoon (15 min)    |  [ ]  | Anki herhaling                                    |
-| Ochtend koptelefoon (15 min) |  [ ]  | Shadowing: Net in Nederland                       |
-| Lunch koptelefoon (15 min)   |  [ ]  | Herhaling Net in Nederland / passief              |
+| Ochtend koptelefoon (15 min) |  [ ]  | Shadowing: Easy Dutch Super Easy                  |
+| Lunch koptelefoon (15 min)   |  [ ]  | Herhaling Easy Dutch Super Easy / passief         |
 | Thuis telefoon (15 min)      |  [ ]  | Dictee: 30 sec op telefoon, 's avonds controleren |
 | Thuis koptelefoon (15 min)   |  [ ]  | Passief luisteren (Tier 3)                        |
 

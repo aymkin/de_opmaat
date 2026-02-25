@@ -6,14 +6,14 @@
 
 - Studietijd: \_\_ minuten
 - Anki: \_\_ nieuwe / \_\_ herhaald (doel: 5-7 nieuw)
-- Video verwerkt: Het Klokhuis / Easy Dutch / Lied
+- Video verwerkt: Easy Dutch (Super Easy)
 
 ## Avond — stappen 1-3 (nieuw materiaal)
 
-**Bron:** Het Klokhuis / Easy Dutch / Lied **Type:** Video (5-15 min) of lied
-**Waar:** NPO Start / YouTube (Easy Dutch, Kinderen voor Kinderen)
+**Bron:** Easy Dutch (Super Easy) **Type:** Straatinterviews (5-8 min) **Waar:**
+YouTube — Easy Dutch kanaal
 
-> Kies op basis van energie. Vergeet het weekoverzicht niet!
+> Dubbele ondertitels (NL + EN) zijn ingebakken in de video. Ideaal voor stap 2.
 
 | Stap                             | Klaar | Notities       |
 | -------------------------------- | :---: | -------------- |
@@ -33,15 +33,15 @@
 |            |           |              |
 |            |           |              |
 
-## Overdag — verwerking (gisteren: NOS Jeugdjournaal)
+## Overdag — verwerking (gisteren: Heb je zin?)
 
-| Slot                         | Klaar | Activiteit                            |
-| ---------------------------- | :---: | ------------------------------------- |
-| Ochtend telefoon (15 min)    |  [ ]  | Anki herhaling                        |
-| Ochtend koptelefoon (15 min) |  [ ]  | Shadowing: NOS Jeugdjournaal          |
-| Lunch koptelefoon (15 min)   |  [ ]  | Herhaling NOS Jeugdjournaal / passief |
-| Thuis telefoon (15 min)      |  [ ]  | Anki extra / lezen                    |
-| Thuis koptelefoon (15 min)   |  [ ]  | Passief luisteren (Tier 3)            |
+| Slot                         | Klaar | Activiteit                       |
+| ---------------------------- | :---: | -------------------------------- |
+| Ochtend telefoon (15 min)    |  [ ]  | Anki herhaling                   |
+| Ochtend koptelefoon (15 min) |  [ ]  | Shadowing: Heb je zin?           |
+| Lunch koptelefoon (15 min)   |  [ ]  | Herhaling Heb je zin? / passief  |
+| Thuis telefoon (15 min)      |  [ ]  | Anki extra / lezen               |
+| Thuis koptelefoon (15 min)   |  [ ]  | Passief luisteren (Tier 3)       |
 
 > **Shadowing niveau:** Licht: herhaal losse zinnen
 
