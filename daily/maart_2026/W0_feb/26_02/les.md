@@ -50,6 +50,22 @@ de Pau (learndutch.org)
 > (zinnen uitschrijven) voor het Peppa Pig-fragment van gisteren, voordat je met
 > shadowing begint.
 
+> **Grammatica-verdieping:** Bekijk de 3 grammaticale patronen uit het Peppa
+> Pig-fragment van gisteren (zie `../25_02/transcriptie.md`):
+>
+> 1. Twee progressieve constructies: `zitten te + inf.` vs `aan het + inf. zijn`
+> 2. `daar...van`-constructie: "Daar wordt hij beter **van**"
+> 3. `met zijn tweeën/drieën` — tellen van personen
+>
+> Грамматические находки из этого эпизода:
+
+  - Две прогрессивные конструкции — нидерландский использует два способа выразить "делаю прямо сейчас": zitten te + inf. (Peppa zit te wachten) и aan het + inf. +
+  zijn (Ik ben koekjes aan het bakken). Первая подчёркивает позу/состояние, вторая — процесс. В русском обе = несовершенный вид.
+  - Конструкция daar...van — "Daar wordt hij beter van" — предлог van отнесён в конец. Это характерная нидерландская структура, где daar заменяет "от этого", а van
+  уходит в конец предложения. Похоже на немецкое Satzklammer.
+  - met zijn tweeën/drieën/vieren — уникальная нидерландская конструкция для "вдвоём/втроём/вчетвером", буквально "с его двоими". Нет аналога в русском или
+  английском.
+
 ## Dagboek (2-3 zinnen)
 
 > Schrijf 2-3 eenvoudige zinnen over je dag. Gebruik tegenwoordige tijd.

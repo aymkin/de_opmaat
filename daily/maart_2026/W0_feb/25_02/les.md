@@ -20,20 +20,20 @@ Note: Я посатрался посмотреть видео с сайта npok
 | Stap                             | Klaar | Notities       |
 | -------------------------------- | :---: | -------------- |
 | 1. Koud kijken (5 min)           |  [X]  | Begrip: 90 % |
-| 2. Betekenis analyseren (10 min) |  [ ]  |                |
-| 3. Zinnen uitschrijven (10 min)  |  [ ]  | Aantal: \_\_   |
+| 2. Betekenis analyseren (10 min) |  [X]  | transcriptie.md |
+| 3. Zinnen uitschrijven (10 min)  |  [X]  | Aantal: 13      |
 
 ### Levende zinnen (5-7 stuks)
 
 | Nederlands | Vertaling | Sleutelwoord |
 | ---------- | --------- | ------------ |
-|            |           |              |
-|            |           |              |
-|            |           |              |
-|            |           |              |
-|            |           |              |
-|            |           |              |
-|            |           |              |
+| Peppa zit te wachten op haar vriendin. | Пеппа сидит и ждёт подругу. | zitten te + inf. |
+| Suzy komt bij Peppa spelen. | Сюзи приходит играть к Пеппе. | komen + inf. |
+| Ze willen met zijn tweeën spelen. | Они хотят играть вдвоём. | met zijn tweeën |
+| Ik ben koekjes aan het bakken. | Я пеку печенье. | aan het + inf. |
+| Hij voelt zich een beetje eenzaam. | Он чувствует себя одиноким. | zich voelen |
+| Wat is er met George? | Что случилось с Джорджем? | wat is er met... |
+| Daar wordt hij beter van. | От этого ему станет лучше. | daar...van |
 
 ## Overdag — start programma
 

@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+zitten te wachten (op)	Peppa zit te wachten op haar beste vriendin.	сидеть и ждать (кого-л.)	Пеппа сидит и ждёт свою лучшую подругу.	sententiae::peppa_pig::A1
+komen spelen (bij)	Suzy Schaap komt bij Peppa spelen.	приходить играть (к кому-л.)	Овечка Сюзи приходит играть к Пеппе.	sententiae::peppa_pig::A1
+meedoen	George wil ook meedoen.	участвовать, присоединиться	Джордж тоже хочет присоединиться.	sententiae::peppa_pig::A1
+met zijn tweeën	Peppa en Suzy willen met zijn tweeën spelen.	вдвоём	Пеппа и Сюзи хотят играть вдвоём.	sententiae::peppa_pig::A1
+ergens anders	Jij moet ergens anders spelen.	где-нибудь в другом месте	Тебе надо играть где-нибудь в другом месте.	sententiae::peppa_pig::A1
+zich eenzaam voelen	Hij voelt zich een beetje eenzaam.	чувствовать себя одиноко	Он чувствует себя немного одиноким.	sententiae::peppa_pig::A1
+Kun je me even helpen?	George, kun je me even helpen?	Можешь мне (быстро) помочь?	Джордж, можешь мне помочь?	sententiae::peppa_pig::A1
+aan het + inf. zijn	Ik ben chocoladekoekjes aan het bakken.	делать что-л. (прогрессив)	Я (сейчас) пеку шоколадное печенье.	sententiae::peppa_pig::A1
+Wat is er met...?	Wat is er met George?	Что случилось с...?	Что случилось с Джорджем?	sententiae::peppa_pig::A1
+Geen zorgen.	Geen zorgen, papa. Het is maar een spel.	Не волнуйся. Это просто игра.	Не волнуйся, папа. Это просто игра.	sententiae::peppa_pig::A1
+pijn hebben in	Ik heb pijn in mijn buik.	болеть (о части тела)	У меня болит живот.	sententiae::peppa_pig::A1
+honger hebben	Ik denk dat je honger hebt, papa.	хотеть есть, быть голодным	Я думаю, ты голоден, папа.	sententiae::peppa_pig::A1
+Daar wordt hij beter van.	Het is een medicijn. Daar wordt hij beter van.	От этого ему станет лучше.	Это лекарство. От этого ему станет лучше.	sententiae::peppa_pig::A1
