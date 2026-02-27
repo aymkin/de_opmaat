@@ -1,0 +1,28 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+Wat is hier aan de hand?	Wat is hier aan de hand? Er ligt overal speelgoed!	Что тут происходит?	Что тут происходит? Повсюду лежат игрушки!	sententiae::bluey::A1
+Daar komt niets van in.	Oh, daar komt niets van in!	Этому не бывать. / Ни за что.	Ох, ни за что!	sententiae::bluey::A1
+leren om te + inf.	Wie heeft je geleerd om te toveren?	научить(ся) + инфинитив	Кто тебя научил колдовать?	sententiae::bluey::A1
+Ik had het kunnen weten.	Dat deed Bluey. — Ik had het kunnen weten.	Я так и знал(а). / Надо было догадаться.	Это сделала Блуи. — Я так и знал.	sententiae::bluey::A2
+zich herinneren	Die kon ik me niet herinneren.	вспомнить, помнить	Я не мог это вспомнить.	sententiae::bluey::A1
+uit ondeugendheid	Gebruik nooit toverkracht uit ondeugendheid.	из озорства / по хулиганству	Никогда не используй волшебство из озорства.	sententiae::bluey::A2
+wegwezen	Jullie twee, wegwezen hier!	Убирайтесь! / Валите отсюда!	Вы двое, убирайтесь отсюда!	sententiae::bluey::A1
+Dit gaat je niet aan.	Dit gaat jullie niet aan.	Это вас не касается.	Это вас не касается.	sententiae::bluey::A2
+daar...mee helpen	Je mag alleen toveren als je daar anderen mee kunt helpen.	помочь этим кому-то	Ты можешь колдовать, только если этим можешь помочь другим.	sententiae::bluey::A2
+niet meer ... zijn	Oké, niet meer ondeugend zijn dus.	больше не быть...	Ладно, значит больше не озорничать.	sententiae::bluey::A1
+pas vanaf morgen	Maar pas vanaf morgen, Bluey.	только с завтрашнего дня	Но только с завтрашнего дня, Блуи.	sententiae::bluey::A1
+dat lekker zijn	Dan zijn we dat lekker.	и пусть (нам всё равно)	И пусть. (нам без разницы)	sententiae::bluey::A2
+Die is van iedereen.	Het is niet jullie toverkracht. Die is van iedereen.	Это принадлежит всем.	Это не ваше волшебство. Оно принадлежит всем.	sententiae::bluey::A1
+wilde + inf.	Jij wilde niet met haar spelen.	хотел(а) + инфинитив (прош. вр.)	Ты не хотел с ней играть.	sententiae::bluey::A1
+steeds	Volwassenen kunnen niet steeds met kinderen spelen.	постоянно, всё время	Взрослые не могут постоянно играть с детьми.	sententiae::bluey::A1
+klusjes doen	Wie moet dan alle klusjes doen?	делать домашние дела	Кто тогда будет делать все домашние дела?	sententiae::bluey::A1
+niet zomaar	Je kunt niet zomaar de pizzabezorger bellen.	нельзя просто так	Ты не можешь просто так вызвать доставку пиццы.	sententiae::bluey::A1
+afdwingen	Niet omdat jij dat afdwingt.	заставлять, принуждать	Не потому что ты это вынуждаешь.	sententiae::bluey::A2
+na de lunch	Ik ben na de lunch naar mijn werk gegaan.	после обеда	Я поехал на работу после обеда.	sententiae::dagboek::A1
+pas na zessen	Ik was pas na zessen weer thuis.	только после шести	Я вернулся домой только после шести.	sententiae::dagboek::A1
+weer thuis zijn	Ik was weer thuis.	быть снова дома, вернуться	Я вернулся домой.	sententiae::dagboek::A1
+heerlijk eten	We hebben heerlijk gegeten.	вкусно поесть	Мы вкусно поели.	sententiae::dagboek::A1
+een biertje drinken	's Avonds heb ik een biertje gedronken.	выпить пива (разг.)	Вечером я выпил пивка.	sententiae::dagboek::A1
+aan mijn Nederlands werken	Ik heb aan mijn Nederlands gewerkt.	работать над своим нидерландским	Я позанимался нидерландским.	sententiae::dagboek::A1

@@ -1,0 +1,28 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+zitten te wachten	De kinderen zitten te wachten op de bus.	сидеть и ждать	Дети сидят и ждут автобус.	constructies::progressief::A2
+zitten te eten	We zitten buiten te eten.	сидеть и есть	Мы сидим и едим на улице.	constructies::progressief::A2
+zitten te lezen	Opa zit in de tuin te lezen.	сидеть и читать	Дедушка сидит в саду и читает.	constructies::progressief::A2
+zitten te kletsen	De buurvrouwen zitten te kletsen bij de deur.	сидеть и болтать	Соседки сидят и болтают у двери.	constructies::progressief::A2
+zitten te huilen	Het meisje zit te huilen op de bank.	сидеть и плакать	Девочка сидит на диване и плачет.	constructies::progressief::A2
+aan het koken zijn	Mama is aan het koken in de keuken.	готовить (прямо сейчас)	Мама сейчас готовит на кухне.	constructies::progressief::A2
+aan het bellen zijn	Sorry, ik ben aan het bellen.	звонить (прямо сейчас)	Извини, я сейчас разговариваю по телефону.	constructies::progressief::A2
+aan het werk zijn	Papa is de hele dag aan het werk.	работать (прямо сейчас)	Папа работает весь день.	constructies::progressief::A2
+aan het spelen zijn	De kinderen zijn buiten aan het spelen.	играть (прямо сейчас)	Дети сейчас играют на улице.	constructies::progressief::A2
+aan het regenen zijn	Het is al de hele dag aan het regenen.	идёт дождь (прямо сейчас)	Весь день идёт дождь.	constructies::progressief::A2
+daar...van houden	Chocola? Daar hou ik van!	любить это	Шоколад? Я это люблю!	constructies::daar_van::A2
+er...van leren	Fouten maken is niet erg. Je kunt ervan leren.	учиться на этом	Ошибаться — не страшно. На этом можно учиться.	constructies::daar_van::A2
+daar...van wakker worden	De buren maken lawaai. Daar word ik wakker van.	просыпаться от этого	Соседи шумят. Я от этого просыпаюсь.	constructies::daar_van::A2
+daar...van schrikken	Er was een harde knal. Daar schrok ik van.	испугаться от этого	Был громкий хлопок. Я от этого испугался.	constructies::daar_van::A2
+er...van genieten	Lekker weer vandaag! Ik geniet ervan.	наслаждаться этим	Хорошая погода сегодня! Я наслаждаюсь этим.	constructies::daar_van::A2
+daar...van balen	Mijn fiets is stuk. Daar baal ik van.	расстраиваться из-за этого	Мой велосипед сломался. Я из-за этого расстроен.	constructies::daar_van::A2
+met zijn tweeën	Wij gaan met zijn tweeën naar de film.	вдвоём	Мы идём в кино вдвоём.	constructies::met_zijn::A2
+met zijn drieën	We wonen met zijn drieën in een klein huis.	втроём	Мы живём втроём в маленьком доме.	constructies::met_zijn::A2
+met zijn vieren	We gaan met zijn vieren op vakantie.	вчетвером	Мы едем в отпуск вчетвером.	constructies::met_zijn::A2
+met zijn allen	We eten met zijn allen aan tafel.	все вместе	Мы все вместе едим за столом.	constructies::met_zijn::A2
+met zijn tweeën spelen	De meisjes willen met zijn tweeën spelen.	играть вдвоём	Девочки хотят играть вдвоём.	constructies::met_zijn::A2
+met zijn drieën eten	We gaan met zijn drieën eten in het restaurant.	есть втроём	Мы идём есть втроём в ресторан.	constructies::met_zijn::A2
+met zijn vieren werken	We werken met zijn vieren aan het project.	работать вчетвером	Мы работаем вчетвером над проектом.	constructies::met_zijn::A2
+met zijn allen spelen	De kinderen willen met zijn allen spelen in het park.	играть все вместе	Дети хотят играть все вместе в парке.	constructies::met_zijn::A2
