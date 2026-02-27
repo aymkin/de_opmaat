@@ -15,3 +15,8 @@ Geen zorgen.	Geen zorgen, papa. Het is maar een spel.	Не волнуйся. Э�
 pijn hebben in	Ik heb pijn in mijn buik.	болеть (о части тела)	У меня болит живот.	sententiae::peppa_pig::A1
 honger hebben	Ik denk dat je honger hebt, papa.	хотеть есть, быть голодным	Я думаю, ты голоден, папа.	sententiae::peppa_pig::A1
 Daar wordt hij beter van.	Het is een medicijn. Daar wordt hij beter van.	От этого ему станет лучше.	Это лекарство. От этого ему станет лучше.	sententiae::peppa_pig::A1
+alleen voor grote meisjes	Dit spel is alleen voor grote meisjes.	только для старших девочек	Эта игра только для старших девочек.	sententiae::peppa_pig::A1
+je eigen speelgoed	Ga met je eigen speelgoed spelen.	свои (собственные) игрушки	Иди играй со своими игрушками.	sententiae::peppa_pig::A1
+diep ademhalen	Even diep ademhalen en hoesten.	глубоко дышать	Глубоко вдохни и покашляй.	sententiae::peppa_pig::A1
+de temperatuur opnemen	Suzy neemt de temperatuur van George op.	измерить температуру	Сюзи измеряет температуру Джорджа.	sententiae::peppa_pig::A1
+Heel eventjes maar.	Mag de patiënt bezoek ontvangen? — Heel eventjes maar.	Совсем ненадолго.	Можно навестить пациента? — Совсем ненадолго.	sententiae::peppa_pig::A1
