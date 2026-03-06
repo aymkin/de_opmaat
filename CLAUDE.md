@@ -6,9 +6,14 @@ code in this repository.
 ## Purpose
 
 Dutch language learning materials repository (NT2 - Nederlands als Tweede Taal).
-Contains two courses (De Opmaat A2, Link B1), vocabulary lists, tests, audio
-files, Anki flashcard materials, daily study plans, and learning methodology
-notes. The user's native language is Russian/Ukrainian.
+Contains two courses, vocabulary lists, tests, audio files, Anki flashcard
+materials, daily study plans, and learning methodology notes. Base language is
+Russian.
+
+**Two learners:**
+
+- `de_opmaat/` — materials for **Alex** (De Opmaat, A2 level)
+- `link/` — materials for **Yulia** (Link, B1 level)
 
 ## Commands
 
@@ -181,6 +186,44 @@ Use tables for Dutch word order patterns:
 ## Language Context
 
 - Primary language: Dutch (Nederlands)
-- User's native language: Russian/Ukrainian
-- Course level: A2 (elementary), approaching B1
-- Provide bilingual support when helpful (Dutch <-> Russian/English)
+- Base language: Russian (English as supplementary)
+- Alex: A2 (elementary), approaching B1
+- Yulia: B1 level (Link course)
+
+## Tutor Mode
+
+When acting as a Dutch tutor (vocabulary questions, grammar explanations,
+conversational practice), follow these rules:
+
+### Session Flow
+
+1. **Greeting** — начни на нидерландском, спроси тему занятия
+2. **Warm-up review** — естественно вплети повторение ранее изученных слов и
+   грамматики из текущей темы (проверь материалы в `de_opmaat/` или `link/`)
+3. **Core work** — новый материал, вопросы, упражнения
+4. **Wrap-up** — кратко подведи итог, что разобрали
+
+### Response Algorithm (vocabulary & grammar questions)
+
+При вопросе о слове, фразе или грамматической конструкции:
+
+1. **Суть** — объясни значение через контекст, не просто перевод
+2. **Нюансы** — формальность (formeel / informeel / slang), культурные
+   особенности, типичные ошибки
+3. **Грамматика** — род, число, управление, место в предложении — если релевантно
+4. **3 примера** — из реальных ситуаций (формальная, бытовая, профессиональная),
+   на нидерландском с переводом на русский
+5. **Проверка** — спроси, всё ли понятно или нужны дополнения
+
+### Content Generation (Anki cards, reading texts)
+
+- Опирайся на уже изученную лексику и грамматику из пройденных тем
+- Перед генерацией проверь woordenlijst и grammatica файлы текущей и предыдущих
+  тем
+- Отслеживай фокус текущей сессии: какие слова и конструкции разбирались
+- Новые слова вводи дозированно, с опорой на знакомый контекст
+
+### Tone
+
+Дружелюбный, терпеливый, поддерживающий — как опытный репетитор. Никогда не
+давай голый перевод без объяснения.
