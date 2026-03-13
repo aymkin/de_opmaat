@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#tags column:3
+
+Hé John. Hoe is het?	Эй, Джон. Как дела?	link::thema3::taak3::zinnen
+Goed jongen. Wanneer zie ik je weer?	Хорошо, дружище. Когда я тебя снова увижу?	link::thema3::taak3::zinnen
+Je bent altijd zo druk met die kinderen van je.	Ты всегда так занят с этими своими детьми.	link::thema3::taak3::zinnen
+Sorry, wat zeg je?	Извини, что ты говоришь?	link::thema3::taak3::zinnen
+Ik zeg: kinderen zijn leuk, maar...	Я говорю: дети — это здорово, но...	link::thema3::taak3::zinnen
+Zijn ze niet naar school dan?	Они разве не в школе?	link::thema3::taak3::zinnen
+Nee, ze hebben vakantie deze week en Lisa werkt.	Нет, у них каникулы на этой неделе, а Лиза работает.	link::thema3::taak3::zinnen
+Hoor je het lawaai?	Слышишь шум?	link::thema3::taak3::zinnen
+Ja, dat hoor ik goed. Gezellig.	Да, хорошо слышу. Весело.	link::thema3::taak3::zinnen
+Ja, echt gezellig.	Да, действительно весело.	link::thema3::taak3::zinnen
+Luister jongen. Vrijdagavond is er voetbal op tv.	Слушай, дружище. В пятницу вечером по ТВ футбол.	link::thema3::taak3::zinnen
+Kom je bij me kijken?	Придёшь ко мне смотреть?	link::thema3::taak3::zinnen
+Leuk, dat kan!	Здорово, могу!	link::thema3::taak3::zinnen
+Of... even kijken... ah, nee, ik kan niet vrijdagavond.	Или... подожди... а, нет, в пятницу вечером не могу.	link::thema3::taak3::zinnen
+Lisa gaat bij een vriendin eten.	Лиза идёт к подруге ужинать.	link::thema3::taak3::zinnen
+Sorry, ik wil graag, maar...	Извини, я бы хотел, но...	link::thema3::taak3::zinnen
+Oké, ik begrijp het.	Окей, я понимаю.	link::thema3::taak3::zinnen
+Je mag ook hier kijken.	Ты можешь и здесь посмотреть.	link::thema3::taak3::zinnen
+Nee dank je. Ik kijk graag thuis.	Нет, спасибо. Я люблю смотреть дома.	link::thema3::taak3::zinnen
+Kom maar een andere keer.	Приходи в другой раз.	link::thema3::taak3::zinnen
+Ja graag.	Да, с удовольствием.	link::thema3::taak3::zinnen
+Tot later.	До скорого.	link::thema3::taak3::zinnen
+David! Wat is er? Kom je vrijdag wel?	Дэвид! Что случилось? Ты в пятницу всё-таки придёшь?	link::thema3::taak3::zinnen
+Ja, het kan! Mijn moeder komt vrijdag de hele dag.	Да, получится! Мама приедет в пятницу на весь день.	link::thema3::taak3::zinnen
+Ze blijft hier slapen.	Она останется здесь ночевать.	link::thema3::taak3::zinnen
+Goed zo!	Отлично!	link::thema3::taak3::zinnen
+Hoe laat begint het?	Во сколько начинается?	link::thema3::taak3::zinnen
+Om kwart over acht. Kom maar om kwart voor acht.	В четверть девятого. Приходи без четверти восемь.	link::thema3::taak3::zinnen
+Mijn vriendin is weg. Het is lekker rustig hier.	Моя подруга уехала. Тут приятно спокойно.	link::thema3::taak3::zinnen
+Prima, tot dan. Ik haal wel bier.	Отлично, тогда до встречи. Я принесу пиво.	link::thema3::taak3::zinnen
+Nee joh, ik heb genoeg bier. Tot vrijdag.	Да нет, у меня достаточно пива. До пятницы.	link::thema3::taak3::zinnen
+Tot dan.	До встречи.	link::thema3::taak3::zinnen

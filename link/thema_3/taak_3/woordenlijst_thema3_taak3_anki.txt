@@ -1,0 +1,29 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+
+de avond	Vrijdagavond kijk ik altijd voetbal op tv.	вечер	В пятницу вечером я всегда смотрю футбол по ТВ.	link::thema3::taak3::A2
+beginnen	Het voetbal begint om kwart over acht.	начинать(ся)	Футбол начинается в четверть девятого.	link::thema3::taak3::A2
+begrijpen	Ik begrijp het niet. Kun je dat nog een keer zeggen?	понимать	Я не понимаю. Можешь сказать ещё раз?	link::thema3::taak3::A2
+bellen	Ik bel mijn moeder elke avond.	звонить	Я звоню маме каждый вечер.	link::thema3::taak3::A2
+het bier	Ik haal bier voor vrijdagavond. Hoeveel wil je?	пиво	Я куплю пива на пятничный вечер. Сколько хочешь?	link::thema3::taak3::A2
+blijven	Mijn moeder komt op bezoek en blijft hier slapen.	оставаться	Мама приедет в гости и останется здесь ночевать.	link::thema3::taak3::A2
+deze	De kinderen hebben deze week vakantie.	этот, эта, это (определённый)	У детей на этой неделе каникулы.	link::thema3::taak3::A2
+die	Ken je die bakker in de buurt? Het brood is heel lekker!	тот, та, то; который	Знаешь ту пекарню в районе? Хлеб очень вкусный!	link::thema3::taak3::A2
+echt	Het is echt gezellig hier!	действительно, правда	Тут действительно уютно!	link::thema3::taak3::A2
+eten	Mijn vriendin gaat vrijdag bij mij eten.	есть, кушать (гл.; ≠ het eten — еда)	Моя подруга в пятницу придёт ко мне поесть.	link::thema3::taak3::A2
+genoeg	We hebben genoeg melk en brood thuis.	достаточно	У нас дома достаточно молока и хлеба.	link::thema3::taak3::A2
+gezellig	We drinken koffie en praten. Heel gezellig!	уютный, приятный (непереводимое!)	Мы пьём кофе и болтаем. Очень уютно!	link::thema3::taak3::A2
+heel	De kinderen maken heel veel lawaai!	очень; целый (de hele dag = весь день)	Дети создают очень много шума!	link::thema3::taak3::A2
+de keer	Kom maar een andere keer bij ons eten.	раз	Приходи к нам поесть в другой раз.	link::thema3::taak3::A2
+later	Ik ben nu bezig. Ik bel je later.	позже, потом	Я сейчас занята. Позвоню тебе позже.	link::thema3::taak3::A2
+het lawaai	De kinderen maken veel lawaai. Het is niet rustig thuis.	шум	Дети очень шумят. Дома неспокойно.	link::thema3::taak3::A2
+luisteren	Luister, vrijdag is er voetbal op tv. Kom je kijken?	слушать	Слушай, в пятницу по ТВ футбол. Придёшь смотреть?	link::thema3::taak3::A2
+rustig	Mijn vriendin is weg. Het is lekker rustig hier.	спокойный, тихий	Моя подруга уехала. Тут приятно спокойно.	link::thema3::taak3::A2
+uitnodigen	Ik wil mijn buren uitnodigen voor koffie.	приглашать	Я хочу пригласить соседей на кофе.	link::thema3::taak3::A2
+de vakantie	De kinderen zijn op vakantie. Ze eten en slapen heel veel!	каникулы, отпуск	Дети на каникулах. Они очень много едят и спят!	link::thema3::taak3::A2
+het voetbal	Vrijdagavond is er voetbal op tv. Heel gezellig!	футбол	В пятницу вечером по ТВ футбол. Очень приятно!	link::thema3::taak3::A2
+vrijdag	Op vrijdag ga ik altijd boodschappen doen.	пятница	В пятницу я всегда хожу за покупками.	link::thema3::taak3::A2
+weer	Wanneer zie ik je weer? Je bent altijd zo druk!	снова, опять (нареч.; ≠ het weer — погода)	Когда я тебя снова увижу? Ты всегда так занят!	link::thema3::taak3::A2
+weg	Mijn zus is een week weg. Ze is op vakantie.	прочь, уехавший (afwezig)	Моя сестра уехала на неделю. Она в отпуске.	link::thema3::taak3::A2

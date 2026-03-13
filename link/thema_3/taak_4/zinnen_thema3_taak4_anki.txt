@@ -1,0 +1,35 @@
+#separator:tab
+#html:true
+#tags column:3
+
+Hé, Bella. Dat is lang geleden!	Эй, Белла. Давно не виделись!	link::thema3::taak4::zinnen
+Hé, Felix. Dat is zeker lang geleden. Alles goed?	Эй, Феликс. Точно, давно. Всё хорошо?	link::thema3::taak4::zinnen
+Ja, heel goed.	Да, очень хорошо.	link::thema3::taak4::zinnen
+Ik krijg net een bericht.	Я только что получил сообщение.	link::thema3::taak4::zinnen
+Ik heb een nieuwe baan!	У меня новая работа!	link::thema3::taak4::zinnen
+Gefeliciteerd! Dat is goed nieuws!	Поздравляю! Это хорошая новость!	link::thema3::taak4::zinnen
+Waar ga je werken?	Где ты будешь работать?	link::thema3::taak4::zinnen
+Ken je restaurant Gustavino? Ik word daar manager.	Знаешь ресторан «Густавино»? Я стану там менеджером.	link::thema3::taak4::zinnen
+Dat klinkt goed. Dat is een leuk restaurant.	Звучит хорошо. Это приятный ресторан.	link::thema3::taak4::zinnen
+Wanneer begin je?	Когда начинаешь?	link::thema3::taak4::zinnen
+Over een maand, half februari.	Через месяц, в середине февраля.	link::thema3::taak4::zinnen
+Goed hè? Ik ben echt blij.	Здорово, правда? Я очень рад.	link::thema3::taak4::zinnen
+En jij? Hoe is het met jou?	А ты? Как у тебя дела?	link::thema3::taak4::zinnen
+Ook goed. Ik ben vandaag jarig.	Тоже хорошо. У меня сегодня день рождения.	link::thema3::taak4::zinnen
+O ja, het is vandaag vijftien januari!	А точно, сегодня пятнадцатое января!	link::thema3::taak4::zinnen
+Jij ook gefeliciteerd!	Тебя тоже поздравляю!	link::thema3::taak4::zinnen
+Ga je nog iets doen?	Ты будешь что-нибудь делать?	link::thema3::taak4::zinnen
+Ik ga vanavond in Gustavino eten, denk ik.	Я сегодня вечером пойду поесть в «Густавино», наверное.	link::thema3::taak4::zinnen
+Haha, leuk hoor!	Хаха, здорово!	link::thema3::taak4::zinnen
+Geef je nog een feestje?	Ты ещё устроишь вечеринку?	link::thema3::taak4::zinnen
+Misschien, ik weet het nog niet.	Может быть, я ещё не знаю.	link::thema3::taak4::zinnen
+Volgend jaar zeker, dan word ik 35.	В следующем году точно, тогда мне исполнится 35.	link::thema3::taak4::zinnen
+Je krijgt natuurlijk een uitnodiging dan.	Ты, конечно, получишь приглашение.	link::thema3::taak4::zinnen
+Leuk, afgesproken.	Отлично, договорились.	link::thema3::taak4::zinnen
+En jij komt een keer in Gustavino eten.	А ты как-нибудь приходи поесть в «Густавино».	link::thema3::taak4::zinnen
+Oh, het is al bijna 12.00 uur, zie ik.	Ой, уже почти 12 часов, вижу.	link::thema3::taak4::zinnen
+Ik heb een afspraak om kwart over twaalf.	У меня встреча в четверть первого.	link::thema3::taak4::zinnen
+Ga maar gauw.	Иди скорее.	link::thema3::taak4::zinnen
+Veel succes met je nieuwe baan.	Удачи на новой работе.	link::thema3::taak4::zinnen
+Dank je. En jij nog een fijne verjaardag.	Спасибо. А тебе хорошего дня рождения.	link::thema3::taak4::zinnen
+Dag.	Пока.	link::thema3::taak4::zinnen

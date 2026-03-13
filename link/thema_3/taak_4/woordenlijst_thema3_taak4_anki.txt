@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#columns:Word	Example	Translation	TranslationExample	Tags
+#tags column:5
+
+afgesproken	Vrijdagavond bij jou? Afgesproken!	договорились	В пятницу вечером у тебя? Договорились!	link::thema3::taak4::A2
+de afspraak	Ik heb een afspraak om kwart over twaalf.	встреча, договорённость	У меня встреча в четверть первого.	link::thema3::taak4::A2
+de baan	Ik heb een nieuwe baan! Ik word manager in een restaurant.	работа, должность	У меня новая работа! Я стану менеджером в ресторане.	link::thema3::taak4::A2
+het bericht	Ik krijg net een bericht van mijn vriend.	сообщение	Я только что получил сообщение от друга.	link::thema3::taak4::A2
+blij	Ik ben zo blij! Mijn zus krijgt een baby!	радостный, довольный	Я так рада! У моей сестры будет малыш!	link::thema3::taak4::A2
+februari	In februari is het nog koud. Neem je jas mee!	февраль	В феврале ещё холодно. Возьми куртку!	link::thema3::taak4::A2
+het feestje	Ik geef een feestje voor mijn verjaardag.	вечеринка (уменьш. от het feest)	Я устраиваю вечеринку на свой день рождения.	link::thema3::taak4::A2
+feliciteren	Ik wil mijn buurvrouw feliciteren. Ze is jarig!	поздравлять	Я хочу поздравить соседку. У неё день рождения!	link::thema3::taak4::A2
+gauw	Ga maar gauw! Je hebt een afspraak!	быстро, скоро	Иди скорее! У тебя встреча!	link::thema3::taak4::A2
+gefeliciteerd	Je bent jarig? Gefeliciteerd!	поздравляю!	У тебя день рождения? Поздравляю!	link::thema3::taak4::A2
+geleden	Dat is lang geleden! Leuk je weer te zien!	назад (о времени; lang geleden = давно)	Давно не виделись! Рад тебя снова видеть!	link::thema3::taak4::A2
+januari	Mijn verjaardag is op vijftien januari.	январь	Мой день рождения пятнадцатого января.	link::thema3::taak4::A2
+jarig	Ik ben vandaag jarig! Ik word 35.	именинник (jarig zijn = праздновать день рождения)	У меня сегодня день рождения! Мне исполняется 35.	link::thema3::taak4::A2
+klinken	Dat klinkt goed! Wanneer begin je?	звучать	Звучит хорошо! Когда начинаешь?	link::thema3::taak4::A2
+krijgen	Volgend jaar krijg je zeker een uitnodiging.	получать	В следующем году ты точно получишь приглашение.	link::thema3::taak4::A2
+misschien	Misschien geef ik volgend jaar een feestje.	может быть, возможно	Может быть, в следующем году я устрою вечеринку.	link::thema3::taak4::A2
+net	Ik krijg net een bericht. Ik heb een nieuwe baan!	только что	Я только что получил сообщение. У меня новая работа!	link::thema3::taak4::A2
+het nieuws	Dat is goed nieuws! Gefeliciteerd!	новость	Это хорошая новость! Поздравляю!	link::thema3::taak4::A2
+het succes	Veel succes met je nieuwe baan!	успех, удача	Удачи на новой работе!	link::thema3::taak4::A2
+de uitnodiging	Ik krijg een uitnodiging voor de verjaardag van mijn buurvrouw.	приглашение	Я получаю приглашение на день рождения соседки.	link::thema3::taak4::A2
+vanavond	Ik ga vanavond in een restaurant eten.	сегодня вечером	Сегодня вечером я иду в ресторан поужинать.	link::thema3::taak4::A2
+vandaag	Vandaag is het lekker weer. Ik ga naar de markt lopen.	сегодня	Сегодня хорошая погода. Я пойду пешком на рынок.	link::thema3::taak4::A2
+de verjaardag	Wat doe je op je verjaardag? — Ik ga met vrienden eten.	день рождения	Что ты делаешь в свой день рождения? — Иду ужинать с друзьями.	link::thema3::taak4::A2
+volgend	Volgend jaar word ik 35. Dan geef ik een groot feestje!	следующий	В следующем году мне будет 35. Устрою большую вечеринку!	link::thema3::taak4::A2
+zeker	Kom je ook naar het feestje? — Ja, zeker!	точно, наверняка; конечно	Ты тоже придёшь на вечеринку? — Да, конечно!	link::thema3::taak4::A2
